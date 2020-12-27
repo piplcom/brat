@@ -1,5 +1,8 @@
 # brat rapid annotation tool (brat) #
 
+This project was forked from `nlplabs/brat`.
+Please make sure to get updates from `origin`.
+
 ## Documentation ##
 
 In an attempt to keep all user-facing documentation in one place, please visit
