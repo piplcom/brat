@@ -1,0 +1,140 @@
+T2	TITLE 79 88	President
+T3	NAME 89 100	Livingstone
+T4	NAME 101 121	Linda A. Livingstone
+T35	ORG 1596 1602	Baylor
+T37	TITLE 1636 1645	President
+T38	NAME 1646 1657	Livingstone
+T39	NAME 1659 1679	Linda A. Livingstone
+T40	NAME 1687 1707	Linda A. Livingstone
+T42	NAME 1719 1739	Linda A. Livingstone
+T43	TITLE 1752 1761	president
+T44	ORG 1765 1782	Baylor University
+T45	TITLE 1809 1813	dean
+T46	TITLE 1818 1841	professor of management
+T47	ORG 1845 1896	The George Washington University School of Business
+T48	TITLE 1901 1905	dean
+T49	TITLE 1910 1933	professor of management
+T50	ORG 1937 1958	Pepperdine University
+T51	ORG 1961 2004	Graziadio School of Business and Management
+T52	TITLE 2023 2037	faculty member
+T53	TITLE 2042 2077	associate dean of graduate programs
+T54	ORG 2081 2117	Baylor’s Hankamer School of Business
+T55	ORG 2122 2128	Baylor
+T56	TITLE 2131 2140	president
+T58	ORG 2190 2196	Baylor
+T59	ORG 2250 2256	Baylor
+T63	TITLE 2545 2633	scholar in organizational behavior, leadership, creativity, and university accreditation
+T64	ORG 2981 3010	Capital Southwest Industrials
+T66	ORG 3038 3064	Baylor College of Medicine
+T67	ORG 3096 3125	American Council on Education
+T68	ORG 3157 3208	Independent Colleges and Universities of Texas, Inc
+T70	ORG 3282 3299	Big 12 Conference
+T71	TITLE 3344 3353	treasurer
+T73	NAME 3359 3370	Livingstone
+T76	TITLE 3442 3448	member
+T77	ORG 3456 3481	Spears School of Business
+T83	ORG 3707 3732	Oklahoma State University
+T86	NAME 3922 3926	Brad
+T87	TITLE 3930 3957	high school history teacher
+T88	ORG 3985 3999	Oklahoma State
+T89	NAME 4025 4031	Shelby
+T90	TITLE 4107 4116	President
+T91	NAME 4117 4128	Livingstone
+T92	NAME 4129 4149	Linda A. Livingstone
+T95	ORG 4388 4394	Baylor
+T101	ORG 4623 4650	Hankamer School of Business
+T102	ORG 4677 4712	Louise Herrington School of Nursing
+T103	ORG 4725 4742	Baylor University
+T104	ORG 4743 4787	Robbins College of Health and Human Sciences
+T105	DEPARTMENT 4788 4807	School of Education
+T106	DEPARTMENT 4808 4848	School of Engineering & Computer Science
+T107	ORG 4934 4951	Baylor Law School
+T110	ORG 5476 5494	Baylor® University
+T111	ORG 5538 5555	Baylor University
+T114	TITLE 5598 5607	President
+T115	NAME 5608 5619	Livingstone
+T116	NAME 5620 5640	Linda A. Livingstone
+T7	NAME 2146 2157	Livingstone
+T8	NAME 2504 2515	Livingstone
+T9	ORG 2728 2752	American Business Review
+T13	ORG 3599 3602	OSU
+T14	NAME 3666 3677	Livingstone
+T15	ORG 4054 4100	Baylor’s George W. Truett Theological Seminary
+T16	ORG 4281 4287	Baylor
+T17	ORG 4322 4328	Baylor
+T19	DEPARTMENT 4486 4502	Baylor Libraries
+T18	DEPARTMENT 4503 4529	College of Arts & Sciences
+T20	ORG 4530 4568	Diana R. Garland School of Social Work
+T21	ORG 4569 4606	George W. Truett Theological Seminary
+T22	DEPARTMENT 4607 4622	Graduate School
+T23	ORG 4651 4665	Honors College
+T24	DEPARTMENT 4666 4676	Law School
+T25	DEPARTMENT 4849 4864	School of Music
+T26	ORG 4993 5030	George W. Truett Theological Seminary
+T27	DEPARTMENT 5162 5187	Office of General Counsel
+T28	DEPARTMENT 5188 5211	Office of the President
+T29	DEPARTMENT 5212 5233	Office of the Provost
+T31	ORG 5329 5335	Baylor
+T32	ORG 7108 7114	Baylor
+T12	UNKNOWN 2754 2788	Journal of Organizational Behavior
+T33	UNKNOWN 2790 2836	Journal of High Technology Management Research
+T30	ORG 1589 1595	Baylor
+T1	DEPARTMENT 1605 1628	Office of the President
+R1	per_title Arg1:T2 Arg2:T3	
+R2	per_title Arg1:T2 Arg2:T4	
+R3	per_title Arg1:T37 Arg2:T38	
+R4	per_title Arg1:T37 Arg2:T39	
+R5	per_title Arg1:T43 Arg2:T42	
+R6	per_employee_of Arg1:T44 Arg2:T42	
+R7	per_title Arg1:T45 Arg2:T42	
+R8	per_title Arg1:T46 Arg2:T42	
+R9	per_employee_of Arg1:T47 Arg2:T42	
+R10	per_title Arg1:T48 Arg2:T42	
+R11	per_title Arg1:T49 Arg2:T42	
+R13	per_employee_of Arg1:T51 Arg2:T42	
+R15	org_subsidiaries Arg1:T51 Arg2:T50	
+R12	per_title Arg1:T52 Arg2:T42	
+R14	per_title Arg1:T53 Arg2:T42	
+R16	per_employee_of Arg1:T54 Arg2:T42	
+R17	per_title Arg1:T56 Arg2:T7	
+R18	per_employee_of Arg1:T55 Arg2:T7	
+R19	per_employee_of Arg1:T58 Arg2:T7	
+R20	per_employee_of Arg1:T59 Arg2:T7	
+R21	per_title Arg1:T63 Arg2:T8	
+R22	per_employee_of Arg1:T64 Arg2:T8	
+R23	per_employee_of Arg1:T66 Arg2:T8	
+R24	per_employee_of Arg1:T67 Arg2:T8	
+R25	per_employee_of Arg1:T68 Arg2:T8	
+R26	per_employee_of Arg1:T70 Arg2:T8	
+R27	per_title Arg1:T71 Arg2:T8	
+R28	per_title Arg1:T76 Arg2:T73	
+R29	org_members Arg1:T77 Arg2:T73	
+R30	per_schools_attended Arg1:T83 Arg2:T14	
+R31	per_title Arg1:T87 Arg2:T86	
+R32	per_schools_attended Arg1:T88 Arg2:T86	
+R33	per_schools_attended Arg1:T15 Arg2:T89	
+R34	per_title Arg1:T90 Arg2:T91	
+R35	per_title Arg1:T114 Arg2:T115	
+R36	per_spouse Arg1:T86 Arg2:T14	
+R37	org_alternate_names Arg1:T13 Arg2:T83	
+R38	org_alternate_names Arg1:T83 Arg2:T88	
+R39	org_alternate_names Arg1:T13 Arg2:T88	
+R43	per_alternate_names Arg1:T39 Arg2:T38	
+R44	per_alternate_names Arg1:T115 Arg2:T116	
+R53	per_alternate_names Arg1:T4 Arg2:T3	
+R40	org_department Arg1:T35 Arg2:T1	
+R54	per_children Arg1:T89 Arg2:T14	
+R55	per_children Arg1:T89 Arg2:T86	
+R41	org_department Arg1:T19 Arg2:T95	
+R42	org_department Arg1:T18 Arg2:T95	
+R45	org_department Arg1:T22 Arg2:T95	
+R46	org_department Arg1:T24 Arg2:T95	
+R47	org_department Arg1:T105 Arg2:T95	
+R48	org_department Arg1:T106 Arg2:T95	
+R49	org_department Arg1:T25 Arg2:T95	
+R50	org_department Arg1:T27 Arg2:T31	
+R51	org_department Arg1:T28 Arg2:T31	
+R52	org_department Arg1:T29 Arg2:T31	
+R56	org_general Arg1:T9 Arg2:T8	
+T5	PHONE 5578 5592	1-800-229-5678
+R57	org_phone Arg1:T5 Arg2:T111	

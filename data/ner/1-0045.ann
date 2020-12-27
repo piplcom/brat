@@ -1,0 +1,130 @@
+T1	NAME 4 19	Molly Hellerman
+T2	TITLE 30 37	athlete
+T4	TITLE 51 60	executive
+T9	NAME 576 591	Molly Hellerman
+T10	TITLE 602 609	athlete
+T12	TITLE 623 632	executive
+T14	NAME 665 680	Molly Hellerman
+T15	TITLE 691 698	athlete
+T17	TITLE 712 721	executive
+T19	TITLE 726 748	Premier League athlete
+T20	TITLE 756 770	tech executive
+T22	ORG 922 939	Chelsea Ladies FC
+T24	NAME 1014 1029	Molly Hellerman
+T25	NAME 1092 1101	Dan Brown
+T26	NAME 1284 1289	Molly
+T30	NAME 1711 1716	Molly
+T32	NAME 2154 2159	Molly
+T36	NAME 2652 2657	Molly
+T38	ORG 2753 2770	Wellesley College
+T39	NAME 2772 2777	Molly
+T40	ORG 2809 2826	Chelsea Ladies FC
+T41	TITLE 2860 2875	finance analyst
+T42	NAME 2949 2954	Molly
+T44	ORG 3099 3122	Harvard Business School
+T46	NAME 3318 3323	Molly
+T48	TITLE 3352 3370	Executive Director
+T52	TITLE 3444 3465	Co-Executive Director
+T53	ORG 3478 3504	SportsChallenge Leadership
+T54	ORG 3509 3527	Education Alliance
+T57	NAME 3603 3622	Mike Cannon-Brookes
+T58	NAME 3627 3641	Scott Farquhar
+T64	ORG 4518 4522	NASA
+T65	ORG 4524 4529	Tesla
+T66	ORG 4531 4535	eBay
+T67	ORG 4540 4547	Twitter
+T68	ORG 4553 4559	Trello
+T80	NAME 5637 5642	Molly
+T84	ORG 6064 6073	Atlassian
+T85	NAME 6294 6299	Molly
+T86	NAME 6543 6548	Molly
+T87	ORG 6659 6680	London Metal Exchange
+T91	NAME 7182 7187	Molly
+T93	NAME 7863 7868	Molly
+T95	TITLE 7950 7997	Senior Manager Business Strategy and Operations
+T96	TITLE 8003 8042	Head of Business Strategy and Analytics
+T98	TITLE 8086 8120	Global Head of Innovation Programs
+T99	NAME 8337 8342	Molly
+T101	NAME 8834 8839	Molly
+T103	NAME 9158 9163	Molly
+T105	NAME 9839 9844	Molly
+T107	NAME 10033 10038	Molly
+T110	NAME 10527 10541	Saskia Tillers
+T112	NAME 10568 10582	Saskia Tillers
+T114	TITLE 10600 10610	journalist
+T115	TITLE 10662 10678	freelance writer
+T118	NAME 10696 10702	Saskia
+T119	NAME 10804 10817	Emily Pidgeon
+T120	NAME 10870 10880	Mike Huynh
+T121	NAME 10945 10958	Emily Pidgeon
+T122	NAME 11011 11021	Mike Huynh
+T123	NAME 11084 11103	Anastasia Prikhodko
+T125	NAME 11163 11176	Emily Pidgeon
+T3	ORG 41 50	Atlassian
+T5	ORG 188 204	The CEO Magazine
+T6	ORG 511 527	The CEO Magazine
+T7	ORG 613 622	Atlassian
+T8	ORG 702 711	Atlassian
+T13	ORG 1003 1012	Atlassian
+T16	ORG 1414 1423	Atlassian
+T21	ORG 2166 2182	The CEO Magazine
+T23	ORG 2190 2194	Zoom
+T27	ORG 2573 2582	Atlassian
+T28	ORG 3389 3411	America SCORES Chicago
+T29	ORG 3553 3562	Atlassian
+T31	ORG 4690 4699	Atlassian
+T33	ORG 5015 5024	Atlassian
+T34	ORG 5376 5385	Atlassian
+T35	ORG 5789 5798	Atlassian
+T37	ORG 7655 7664	Atlassian
+T43	ORG 7929 7938	Atlassian
+T47	ORG 8700 8709	Atlassian
+T49	ORG 10551 10567	The CEO Magazine
+T50	ORG 10881 10885	DAME
+T51	ORG 11104 11120	The CEO Magazine
+T55	ORG 11177 11193	The CEO Magazine
+T56	ORG 11561 11577	The CEO Magazine
+R1	per_title Arg1:T2 Arg2:T1	
+R2	per_employee_of Arg1:T3 Arg2:T1	
+R3	per_title Arg1:T4 Arg2:T1	
+R4	per_title Arg1:T12 Arg2:T9	
+R5	per_title Arg1:T10 Arg2:T9	
+R6	per_employee_of Arg1:T7 Arg2:T9	
+R7	per_title Arg1:T15 Arg2:T14	
+R8	per_employee_of Arg1:T8 Arg2:T14	
+R9	per_title Arg1:T17 Arg2:T14	
+R10	per_employee_of Arg1:T13 Arg2:T24	
+R11	per_employee_of Arg1:T22 Arg2:T24	
+R12	per_title Arg1:T19 Arg2:T24	
+R13	per_title Arg1:T20 Arg2:T24	
+R14	per_alternate_names Arg1:T26 Arg2:T24	
+R15	per_employee_of Arg1:T40 Arg2:T39	
+R16	per_title Arg1:T41 Arg2:T39	
+R17	per_schools_attended Arg1:T44 Arg2:T42	
+R18	per_title Arg1:T48 Arg2:T46	
+R19	per_employee_of Arg1:T28 Arg2:T46	
+R20	per_title Arg1:T52 Arg2:T46	
+R21	per_employee_of Arg1:T53 Arg2:T46	
+R22	per_employee_of Arg1:T54 Arg2:T46	
+R23	org_founded_by Arg1:T57 Arg2:T29	
+R24	org_founded_by Arg1:T58 Arg2:T29	
+R25	per_employee_of Arg1:T43 Arg2:T93	
+R26	per_title Arg1:T95 Arg2:T93	
+R27	per_title Arg1:T96 Arg2:T93	
+R28	per_title Arg1:T98 Arg2:T93	
+R29	per_title Arg1:T114 Arg2:T112	
+R30	per_employee_of Arg1:T49 Arg2:T112	
+R31	per_title Arg1:T115 Arg2:T112	
+R32	per_alternate_names Arg1:T118 Arg2:T112	
+R33	org_general Arg1:T21 Arg2:T32	
+R34	per_schools_attended Arg1:T38 Arg2:T36	
+R35	org_general Arg1:T64 Arg2:T57	
+R36	org_general Arg1:T65 Arg2:T57	
+R37	org_general Arg1:T66 Arg2:T57	
+R38	org_general Arg1:T67 Arg2:T57	
+R39	org_general Arg1:T68 Arg2:T57	
+R40	org_general Arg1:T64 Arg2:T58	
+R41	org_general Arg1:T65 Arg2:T58	
+R42	org_general Arg1:T66 Arg2:T58	
+R43	org_general Arg1:T67 Arg2:T58	
+R44	org_general Arg1:T68 Arg2:T58	

@@ -1,0 +1,60 @@
+T4	NAME 583 594	Michelle Hu
+T6	NAME 689 700	Michelle Hu
+T7	TITLE 771 801	former investment bank analyst
+T8	ORG 825 842	Étoile Collective
+T9	NAME 933 944	Michelle Hu
+T10	TITLE 948 978	former investment bank analyst
+T12	NAME 1241 1249	Michelle
+T13	ORG 1258 1275	Étoile Collective
+T14	NAME 1548 1556	Michelle
+T17	ORG 1619 1636	Étoile Collective
+T18	NAME 1756 1767	Michelle Hu
+T19	NAME 1824 1832	Michelle
+T21	ORG 2299 2302	IBM
+T23	NAME 2324 2335	Michelle Hu
+T27	NAME 2622 2630	Michelle
+T29	NAME 2699 2707	Michelle
+T31	ORG 2801 2818	Étoile Collective
+T34	ORG 3630 3647	Étoile Collective
+T37	NAME 4111 4119	Michelle
+T42	NAME 4703 4711	Michelle
+T43	NAME 4820 4828	Michelle
+T46	NAME 5459 5467	Michelle
+T47	ORG 5559 5561	AR
+T48	NAME 5846 5854	Michelle
+T49	NAME 6197 6216	Anastasia Prikhodko
+T56	TITLE 6375 6395	freelance journalist
+T58	TITLE 6422 6434	staff writer
+T61	NAME 6565 6575	Mike Huynh
+T63	NAME 6654 6667	Emily Pidgeon
+T65	NAME 6760 6770	Mike Huynh
+T67	NAME 6849 6862	Emily Pidgeon
+T68	NAME 6938 6957	Anastasia Prikhodko
+T69	NAME 7015 7028	Emily Pidgeon
+T5	ORG 0 17	Étoile Collective
+T1	ORG 197 213	The CEO Magazine
+T2	ORG 520 536	The CEO Magazine
+T3	ORG 901 918	Étoile Collective
+T11	ORG 2714 2730	The CEO Magazine
+T15	ORG 3945 3962	Étoile Collective
+T16	ORG 4379 4396	Étoile Collective
+T20	ORG 6226 6242	The CEO Magazine
+T22	ORG 6438 6454	The CEO Magazine
+T24	ORG 6597 6603	DECIEM
+T25	ORG 6792 6798	DECIEM
+T26	ORG 7029 7045	The CEO Magazine
+T28	ORG 7413 7429	The CEO Magazine
+R1	per_title Arg1:T7 Arg2:T6	
+R2	org_founded_by Arg1:T8 Arg2:T6	
+R3	org_founded_by Arg1:T3 Arg2:T9	
+R4	per_title Arg1:T10 Arg2:T9	
+R5	org_founded_by Arg1:T13 Arg2:T12	
+R6	org_founded_by Arg1:T17 Arg2:T14	
+R7	per_alternate_names Arg1:T12 Arg2:T9	
+R8	org_founded_by Arg1:T15 Arg2:T37	
+T30	NAME 6280 6289	Anastasia
+R9	per_alternate_names Arg1:T30 Arg2:T49	
+R11	per_title Arg1:T56 Arg2:T30	
+R12	per_title Arg1:T58 Arg2:T30	
+R10	per_employee_of Arg1:T22 Arg2:T30	
+R13	org_general Arg1:T11 Arg2:T29	

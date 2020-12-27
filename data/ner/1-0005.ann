@@ -1,0 +1,121 @@
+T14	NAME 1061 1078	Paul C. Pribbenow
+T15	NAME 1086 1100	Paul Pribbenow
+T16	TITLE 1111 1120	president
+T17	ORG 1124 1143	Augsburg University
+T23	TITLE 1478 1502	active community partner
+T26	TITLE 1760 1766	leader
+T27	ORG 1813 1817	ELCA
+T30	ORG 1978 1994	Augsburg College
+T31	ORG 1998 2017	Augsburg University
+T32	ORG 2151 2159	Augsburg
+T39	ORG 2513 2585	Norman and Evangeline Hagfors Center for Science, Business, and Religion
+T43	ORG 2637 2656	Augsburg University
+T46	ORG 3130 3179	Coalition for Urban and Metropolitan Universities
+T47	ORG 3188 3219	Council of Independent Colleges
+T48	ORG 3246 3276	Anchor Institutions Task Force
+T49	ORG 3301 3328	Cedar-Riverside Partnership
+T50	ORG 3337 3372	Central Corridor Anchor Partnership
+T52	ORG 3391 3439	Minnesota Governor’s Workforce Development Board
+T54	ORG 3475 3508	Minnesota Private College Council
+T56	ORG 3597 3637	Association of Fundraising Professionals
+T58	ORG 3888 3931	National Society for Experiential Education
+T62	ORG 4059 4078	Augsburg University
+T66	TITLE 4296 4305	president
+T67	ORG 4309 4325	Rockford College
+T68	ORG 4331 4350	Rockford University
+T71	TITLE 4399 4414	research fellow
+T72	ORG 4423 4460	Center of Inquiry in the Liberal Arts
+T73	ORG 4464 4478	Wabash College
+T75	TITLE 4490 4494	dean
+T76	ORG 4499 4518	College Advancement
+T77	TITLE 4523 4532	secretary
+T80	ORG 4759 4773	Luther College
+T83	ORG 4857 4878	University of Chicago
+T84	ORG 4927 4941	Luther College
+T87	TITLE 4968 4974	author
+T91	NAME 5241 5247	Thomas
+T92	NAME 5252 5256	Maya
+T96	ORG 5815 5834	Augsburg University
+T101	ORG 5892 5911	Augsburg University
+T1	ORG 1199 1237	Evangelical Lutheran Church in America
+T2	ORG 1409 1417	Augsburg
+T3	NAME 1427 1436	Pribbenow
+T4	ORG 1588 1596	Augsburg
+T5	NAME 1732 1741	Pribbenow
+T6	ORG 1943 1951	Augsburg
+T7	NAME 2385 2394	Pribbenow
+T8	ORG 2416 2424	Augsburg
+T9	NAME 2623 2632	Pribbenow
+T11	ORG 2874 2882	Augsburg
+T18	ORG 3022 3030	Augsburg
+T19	NAME 3510 3519	Pribbenow
+T20	NAME 3782 3791	Pribbenow
+T21	NAME 4035 4044	Pribbenow
+T22	ORG 4266 4274	Augsburg
+T24	NAME 4276 4285	Pribbenow
+T25	ORG 4561 4575	Wabash College
+T28	TITLE 4577 4591	vice president
+T29	ORG 4599 4637	School of the Art Institute of Chicago
+T33	TITLE 4643 4657	associate dean
+T34	ORG 4665 4709	Divinity School of the University of Chicago
+T35	NAME 4711 4720	Pribbenow
+T36	NAME 4951 4960	Pribbenow
+T37	NAME 5143 5152	Pribbenow
+T38	NAME 5189 5215	Abigail Crampton Pribbenow
+T40	ORG 5594 5602	Augsburg
+T41	ORG 5629 5637	Augsburg
+T42	ORG 5789 5797	Augsburg
+T44	ORG 6155 6163	Augsburg
+R1	per_title Arg1:T16 Arg2:T15	
+R2	per_employee_of Arg1:T17 Arg2:T15	
+R3	per_employee_of Arg1:T2 Arg2:T3	
+R4	org_alternate_names Arg1:T2 Arg2:T17	
+R5	per_title Arg1:T23 Arg2:T3	
+R6	per_employee_of Arg1:T4 Arg2:T5	
+R7	per_title Arg1:T26 Arg2:T5	
+R8	org_alternate_names Arg1:T30 Arg2:T6	
+R9	org_alternate_names Arg1:T30 Arg2:T31	
+R10	org_alternate_names Arg1:T31 Arg2:T6	
+R11	per_employee_of Arg1:T8 Arg2:T7	
+R12	org_subsidiaries Arg1:T39 Arg2:T8	
+R13	per_employee_of Arg1:T43 Arg2:T9	
+T10	NAME 3083 3092	Pribbenow
+R14	per_employee_of Arg1:T46 Arg2:T10	
+R15	per_employee_of Arg1:T47 Arg2:T10	
+R16	per_employee_of Arg1:T48 Arg2:T10	
+R17	per_employee_of Arg1:T49 Arg2:T10	
+R18	per_employee_of Arg1:T50 Arg2:T10	
+R19	per_employee_of Arg1:T52 Arg2:T10	
+R20	per_employee_of Arg1:T54 Arg2:T10	
+R21	per_employee_of Arg1:T62 Arg2:T21	
+R22	per_employee_of Arg1:T22 Arg2:T24	
+R23	per_title Arg1:T66 Arg2:T24	
+R24	per_employee_of Arg1:T67 Arg2:T24	
+R25	per_employee_of Arg1:T68 Arg2:T24	
+R26	org_alternate_names Arg1:T67 Arg2:T68	
+R27	per_title Arg1:T71 Arg2:T24	
+R28	per_employee_of Arg1:T72 Arg2:T24	
+R29	per_employee_of Arg1:T73 Arg2:T24	
+R30	org_subsidiaries Arg1:T72 Arg2:T73	
+R31	per_title Arg1:T75 Arg2:T24	
+R32	per_employee_of Arg1:T76 Arg2:T24	
+R33	per_title Arg1:T77 Arg2:T24	
+R34	per_employee_of Arg1:T25 Arg2:T24	
+R35	per_title Arg1:T28 Arg2:T24	
+R36	per_employee_of Arg1:T29 Arg2:T24	
+R37	per_title Arg1:T33 Arg2:T24	
+R38	per_employee_of Arg1:T34 Arg2:T24	
+R39	per_schools_attended Arg1:T80 Arg2:T35	
+R40	per_schools_attended Arg1:T83 Arg2:T35	
+R41	per_title Arg1:T87 Arg2:T36	
+R42	per_spouse Arg1:T38 Arg2:T37	
+R43	per_children Arg1:T91 Arg2:T37	
+R44	per_children Arg1:T92 Arg2:T37	
+R45	per_children Arg1:T91 Arg2:T38	
+R46	per_children Arg1:T92 Arg2:T38	
+R47	org_alternate_names Arg1:T96 Arg2:T42	
+R48	org_general Arg1:T56 Arg2:T19	
+R49	org_general Arg1:T58 Arg2:T20	
+R50	org_general Arg1:T84 Arg2:T35	
+T12	PHONE 5855 5867	612-330-1000
+R51	org_phone Arg1:T12 Arg2:T96	

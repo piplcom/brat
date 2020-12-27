@@ -1,0 +1,147 @@
+T2	NAME 650 659	Jim Haney
+T3	TITLE 660 669	President
+T4	NAME 670 673	Jim
+T5	ORG 695 699	LRSD
+T6	ORG 713 723	KC Council
+T9	NAME 794 798	Jane
+T12	NAME 839 842	Jim
+T13	ORG 858 883	South Whitley High School
+T17	TITLE 1018 1027	President
+T18	ORG 1033 1060	Wabash Valley Manufacturing
+T22	ORG 1170 1201	United Technologies Corporation
+T23	ORG 1206 1226	Foamex International
+T24	NAME 1228 1243	Bob Marcuccilli
+T25	TITLE 1244 1258	Vice President
+T26	NAME 1259 1262	Bob
+T27	ORG 1284 1288	LRSD
+T32	ORG 1433 1451	Warsaw High School
+T34	ORG 1532 1544	Lincoln Tech
+T35	NAME 1546 1549	Bob
+T36	ORG 1575 1584	City Ford
+T38	TITLE 1605 1617	Shop Foreman
+T40	NAME 1689 1700	Mike DeWald
+T41	TITLE 1701 1710	Treasurer
+T42	NAME 1711 1715	Mike
+T43	ORG 1762 1786	University of Notre Dame
+T48	ORG 1913 1935	Dulin, Ward and DeWald
+T49	TITLE 1972 1988	managing partner
+T52	NAME 2033 2037	Mike
+T53	NAME 2145 2149	Mike
+T54	NAME 2154 2159	Sandy
+T58	NAME 2321 2325	Mike
+T61	NAME 2452 2463	Frank Kurth
+T62	TITLE 2464 2471	Trustee
+T63	NAME 2472 2483	Frank Kurth
+T66	NAME 2551 2569	Clifford B. Thomas
+T70	NAME 2696 2701	Frank
+T71	NAME 2715 2721	Denise
+T74	ORG 2897 2915	Indiana University
+T75	NAME 2917 2922	Frank
+T76	TITLE 2939 2952	administrator
+T77	NAME 2985 3001	Sue Ann Mitchell
+T78	TITLE 3002 3009	Trustee
+T79	NAME 3010 3017	Sue Ann
+T80	ORG 3029 3033	LRSD
+T85	TITLE 3369 3383	Vice President
+T86	TITLE 3388 3397	Treasurer
+T87	ORG 3405 3440	Indiana County Councils Association
+T88	TITLE 3458 3471	volunteer EMT
+T90	NAME 3553 3572	Richard D. Mitchell
+T94	NAME 3923 3934	Parke Smith
+T95	TITLE 3935 3944	Secretary
+T96	NAME 3945 3956	Parke Smith
+T99	ORG 4019 4047	Huntington North High School
+T100	ORG 4062 4080	Indiana University
+T102	ORG 4200 4218	Indiana University
+T107	TITLE 4396 4403	Teacher
+T108	TITLE 4405 4410	Coach
+T109	TITLE 4412 4429	Athletic Director
+T110	TITLE 4431 4450	Assistant Principal
+T111	TITLE 4456 4465	Principal
+T113	ORG 4528 4532	NWEA
+T115	NAME 4720 4728	Beth Ann
+T117	NAME 4873 4884	Joe Cleland
+T118	TITLE 4885 4892	Trustee
+T119	NAME 4893 4904	Joe Cleland
+T120	ORG 4916 4920	LRSD
+T122	TITLE 4951 4958	trustee
+T123	NAME 4960 4963	Joe
+T124	NAME 4977 4986	Stephanie
+T126	NAME 5075 5078	Joe
+T140	ORG 6399 6418	RipFish Interactive
+T1	TITLE 3753 3762	Secretary
+T7	ORG 3770 3800	North Webster Community Center
+T8	ORG 3858 3898	Kosciusko County Republican Women’s Club
+T10	ORG 5096 5118	West Noble high school
+T11	TITLE 5186 5203	production manger
+T14	ORG 5207 5218	Gulf Stream
+T15	ADDRESS 5323 5335;5336 5353	5002 E 100 N Warsaw, IN 465825
+T16	ADDRESS 5476 5488;5489 5505	5002 E 100 N Warsaw, IN 46582
+T19	ORG 936 979	Fort Wayne’s International Business College
+T20	ORG 1122 1135	Wabash Valley
+T21	ORG 2790 2800	Ball State
+R1	per_title Arg1:T3 Arg2:T2	
+R2	per_alternate_names Arg1:T4 Arg2:T2	
+R3	per_employee_of Arg1:T5 Arg2:T4	
+R4	per_spouse Arg1:T9 Arg2:T4	
+R5	per_schools_attended Arg1:T13 Arg2:T12	
+R6	per_schools_attended Arg1:T19 Arg2:T12	
+R7	per_title Arg1:T17 Arg2:T12	
+R8	per_employee_of Arg1:T18 Arg2:T12	
+R9	org_alternate_names Arg1:T18 Arg2:T20	
+R10	per_employee_of Arg1:T20 Arg2:T12	
+R11	per_employee_of Arg1:T22 Arg2:T12	
+R12	per_employee_of Arg1:T23 Arg2:T12	
+R13	per_title Arg1:T25 Arg2:T24	
+R14	per_alternate_names Arg1:T26 Arg2:T24	
+R15	per_employee_of Arg1:T27 Arg2:T26	
+R16	per_schools_attended Arg1:T32 Arg2:T26	
+R17	per_schools_attended Arg1:T34 Arg2:T26	
+R18	per_employee_of Arg1:T36 Arg2:T35	
+R19	per_title Arg1:T38 Arg2:T35	
+R20	per_title Arg1:T41 Arg2:T40	
+R21	per_alternate_names Arg1:T42 Arg2:T40	
+R22	per_schools_attended Arg1:T43 Arg2:T42	
+R23	per_employee_of Arg1:T48 Arg2:T42	
+R24	per_title Arg1:T49 Arg2:T42	
+R25	per_spouse Arg1:T53 Arg2:T54	
+R26	per_title Arg1:T62 Arg2:T61	
+R27	per_spouse Arg1:T70 Arg2:T71	
+R28	per_schools_attended Arg1:T21 Arg2:T70	
+R29	per_schools_attended Arg1:T74 Arg2:T70	
+R30	per_title Arg1:T76 Arg2:T75	
+R31	per_title Arg1:T78 Arg2:T77	
+R32	per_alternate_names Arg1:T79 Arg2:T77	
+R33	per_employee_of Arg1:T80 Arg2:T79	
+R34	per_title Arg1:T85 Arg2:T79	
+R35	per_title Arg1:T86 Arg2:T79	
+R36	per_employee_of Arg1:T87 Arg2:T79	
+R37	per_title Arg1:T88 Arg2:T79	
+R38	per_spouse Arg1:T90 Arg2:T79	
+R39	per_title Arg1:T1 Arg2:T79	
+R40	per_employee_of Arg1:T7 Arg2:T79	
+R41	per_employee_of Arg1:T8 Arg2:T79	
+R42	per_title Arg1:T95 Arg2:T94	
+R43	per_schools_attended Arg1:T99 Arg2:T96	
+R44	per_schools_attended Arg1:T100 Arg2:T96	
+R45	per_schools_attended Arg1:T102 Arg2:T96	
+R46	per_title Arg1:T107 Arg2:T96	
+R47	per_title Arg1:T108 Arg2:T96	
+R48	per_title Arg1:T109 Arg2:T96	
+R49	per_title Arg1:T110 Arg2:T96	
+R50	per_title Arg1:T111 Arg2:T96	
+R51	per_employee_of Arg1:T113 Arg2:T96	
+R52	per_spouse Arg1:T96 Arg2:T115	
+R53	per_title Arg1:T118 Arg2:T117	
+R54	per_employee_of Arg1:T120 Arg2:T119	
+R55	per_title Arg1:T122 Arg2:T119	
+R56	per_spouse Arg1:T124 Arg2:T123	
+R57	per_schools_attended Arg1:T10 Arg2:T126	
+R58	per_title Arg1:T11 Arg2:T126	
+R59	per_employee_of Arg1:T14 Arg2:T126	
+T28	ORG 5443 5475	Lakeland Regional Sewer District
+T29	ORG 5290 5322	Lakeland Regional Sewer District
+R60	org_address Arg1:T15 Arg2:T29	
+R61	org_address Arg1:T16 Arg2:T28	
+T30	PHONE 5512 5524	574-529-2383
+R62	org_phone Arg1:T30 Arg2:T28	

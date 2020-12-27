@@ -1,0 +1,103 @@
+T3	TITLE 181 195	Board Chairman
+T4	TITLE 208 223	Chief Executive
+T6	ORG 550 574	VRA Non-Power Activities
+T7	ORG 719 743	Property Holding Company
+T10	TITLE 1318 1333	Chief Executive
+T11	NAME 1334 1355	Emmanuel Antwi-Darkwa
+T12	TITLE 1356 1371	Chief Executive
+T13	TITLE 1379 1393	Civil Engineer
+T15	NAME 1413 1435	Emmanuel  Antwi-Darkwa
+T16	ORG 1467 1488	Volta River Authority
+T19	ORG 1597 1615	Ministry of Energy
+T20	TITLE 1619 1627	Director
+T22	TITLE 1778 1793	Chief Executive
+T25	NAME 1872 1884	Antwi-Darkwa
+T27	ORG 2418 2445	Government Negotiating Team
+T28	TITLE 2481 2492	Lead Member
+T29	ORG 2501 2528	Government Negotiating Team
+T31	NAME 2556 2577	Emmanuel Antwi-Darkwa
+T33	NAME 2947 2959	Antwi-Darkwa
+T34	TITLE 2968 3001	Master of Business Administration
+T35	ORG 3012 3046	International Oil & Gas Management
+T36	ORG 3048 3068	University of Dundee
+T37	ORG 3120 3138	Harvard University
+T39	TITLE 3186 3203	Civil Engineering
+T40	ORG 3213 3264	Kwame Nkrumah  University of Science and Technology
+T42	TITLE 3282 3288	member
+T43	ORG 3335 3365	Ghana Institution of Engineers
+T44	ORG 3374 3411	International Hydropower  Association
+T45	ORG 3413 3416	IHA
+T46	ORG 3419 3449	Society of Petroleum Engineers
+T47	ORG 3451 3454	SPE
+T48	ORG 3465 3479	Association of
+T49	ORG 3481 3516	International Petroleum Negotiators
+T50	ORG 3518 3522	AIPN
+T51	TITLE 3559 3573	Advisory Board
+T52	ORG 3577 3600	Hydro Review  Worldwide
+T54	NAME 3673 3685	Antwi-Darkwa
+T56	ORG 3787 3834	Chartered Institute of Supply Chain  Management
+T60	TITLE 4084 4098	Board Chairman
+T61	TITLE 4118 4133	Chief Executive
+T62	ORG 4186 4207	Volta River Authority
+T9991	GEOPOLITICAL-ner 134 136	Us
+T9992	TITLE-ner 181 195	Board Chairman
+T9993	TITLE-ner 208 223	Chief Executive
+T9994	GEOPOLITICAL-ner 435 443	Takoradi
+T9995	ORG-ner 550 574	VRA Non-Power Activities
+T9996	ORG-ner 719 743	Property Holding Company
+T9997	GEOPOLITICAL-ner 817 822	Media
+T9998	GEOPOLITICAL-ner 1309 1311	Us
+T9999	TITLE-ner 1318 1333	Chief Executive
+T99910	NAME-ner 1334 1348	Emmanuel Antwi
+T99911	NAME-ner 1349 1355	Darkwa
+T99912	TITLE-ner 1356 1371	Chief Executive
+T99913	TITLE-ner 1379 1393	Civil Engineer
+T99914	HONORIFIC-ner 1409 1412	Mr.
+T99915	NAME-ner 1413 1435	Emmanuel  Antwi-Darkwa
+T99916	ORG-ner 1467 1488	Volta River Authority
+T99917	DATE-ner 1498 1502	1985
+T99918	DATE-ner 1543 1556	the year 2002
+T99919	ORG-ner 1597 1615	Ministry of Energy
+T99920	TITLE-ner 1619 1627	Director
+T99921	DATE-ner 1691 1695	2012
+T99922	TITLE-ner 1778 1793	Chief Executive
+T99923	DATE-ner 1806 1818	thirty years
+T99924	HONORIFIC-ner 1868 1871	Mr.
+T99925	NAME-ner 1872 1884	Antwi-Darkwa
+T99926	GEOPOLITICAL-ner 1956 1961	Ghana
+T99927	ORG-ner 2391 2410	Technical Committee
+T99928	ORG-ner 2418 2445	Government Negotiating Team
+T99929	TITLE-ner 2481 2492	Lead Member
+T99930	ORG-ner 2501 2528	Government Negotiating Team
+T99931	HONORIFIC-ner 2552 2555	Mr.
+T99932	NAME-ner 2556 2577	Emmanuel Antwi-Darkwa
+T99933	HONORIFIC-ner 2943 2946	Mr.
+T99934	NAME-ner 2947 2959	Antwi-Darkwa
+T99935	TITLE-ner 2968 3001	Master of Business Administration
+T99936	ORG-ner 3012 3046	International Oil & Gas Management
+T99937	ORG-ner 3048 3068	University of Dundee
+T99938	ORG-ner 3120 3138	Harvard University
+T99939	GEOPOLITICAL-ner 3140 3143	USA
+T99940	TITLE-ner 3186 3203	Civil Engineering
+T99941	ORG-ner 3213 3264	Kwame Nkrumah  University of Science and Technology
+T99942	GEOPOLITICAL-ner 3266 3271	Ghana
+T99943	TITLE-ner 3282 3288	member
+T99944	ORG-ner 3335 3365	Ghana Institution of Engineers
+T99945	ORG-ner 3374 3411	International Hydropower  Association
+T99946	ORG-ner 3413 3416	IHA
+T99947	ORG-ner 3419 3449	Society of Petroleum Engineers
+T99948	ORG-ner 3451 3454	SPE
+T99949	ORG-ner 3465 3516	Association of  International Petroleum Negotiators
+T99950	ORG-ner 3518 3522	AIPN
+T99951	TITLE-ner 3559 3573	Advisory Board
+T99952	ORG-ner 3577 3600	Hydro Review  Worldwide
+T99953	HONORIFIC-ner 3669 3672	Mr.
+T99954	NAME-ner 3673 3685	Antwi-Darkwa
+T99955	DATE-ner 3742 3746	2018
+T99956	ORG-ner 3787 3834	Chartered Institute of Supply Chain  Management
+T99957	GEOPOLITICAL-ner 3836 3841	Ghana
+T99958	DATE-ner 3846 3850	2019
+T99959	GEOPOLITICAL-ner 4035 4037	Us
+T99960	TITLE-ner 4084 4098	Board Chairman
+T99961	TITLE-ner 4118 4133	Chief Executive
+T99962	ORG-ner 4186 4207	Volta River Authority

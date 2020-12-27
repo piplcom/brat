@@ -1,0 +1,197 @@
+T1	TITLE 0 15	DEPUTY GOVERNOR
+T5	TITLE 172 187	DEPUTY GOVERNOR
+T7	NAME 229 249	Kadri Obafemi Hamzat
+T10	NAME 299 326	Oba Mufutau Olatunji Hamzat
+T12	NAME 371 392	Alhaja Kehinde Hamzat
+T15	NAME 436 442	Hamzat
+T19	ORG 605 625	University of Ibadan
+T24	ORG 770 790	Cranfield University
+T30	NAME 1082 1088	Hamzat
+T31	ORG 1195 1218	RTP Consulting Services
+T33	ORG 1238 1257	Columbia University
+T34	ORG 1259 1276	Merrill Lynch Inc
+T35	ORG 1278 1292	Morgan Stanley
+T36	ORG 1297 1306	Oando Plc
+T37	TITLE 1312 1337	Chief Information Officer
+T38	TITLE 1339 1342	CIO
+T39	TITLE 1348 1358	Group Head
+T40	ORG 1375 1384	Oando Plc
+T43	NAME 1397 1417	Kadri Obafemi Hamzat
+T46	NAME 1597 1622	Asiwaju Bola Ahmed Tinubu
+T48	TITLE 1536 1575	Commissioner for Science and Technology
+T50	TITLE 1701 1709	Governor
+T51	NAME 1711 1728	Babatunde Fashola
+T54	NAME 2219 2225	Hamzat
+T56	TITLE 2252 2293	Commissioner for Works and Infrastructure
+T58	TITLE 2345 2357	Commissioner
+T63	NAME 2984 3006	Babatunde Raji Fashola
+T64	TITLE 3008 3045	Minister for Power, Works and Housing
+T66	TITLE 3067 3092	Special Adviser Technical
+T68	NAME 3169 3175	Hamzat
+T69	TITLE 3180 3187	Adviser
+T77	NAME 3751 3769	Babajide Sanwo-Olu
+T78	TITLE 3775 3784	candidate
+T79	ORG 3792 3817	All Progressives Congress
+T80	ORG 3819 3822	APC
+T82	NAME 3836 3856	Kadri Obafemi Hamzat
+T85	NAME 3982 3988	Hamzat
+T86	NAME 4033 4047	Oluremi Hamzat
+T88	PLATFORM 4087 4095	Facebook
+T89	PLATFORM 4117 4125	LinkedIn
+T90	PLATFORM 4126 4135	Pinterest
+T95	PLATFORM 4501 4509	Facebook
+T96	NAME 4541 4559	Babajide Sanwo-olu
+T6	ORG 55 77	Lagos State Government
+T3	NAME 204 224	KADRI OBAFEMI HAMZAT
+T4	ORG 452 485	Odu Abore Memorial Primary School
+T8	ORG 511 537	Olivet Baptist High School
+T9	ORG 963 985	Harvard Kennedy School
+T11	TITLE 3195 3255	Honourable Minister on roads and other infrastructure assets
+T13	PLATFORM 4096 4104	Google +
+T14	PLATFORM 4105 4116	Stumbleupon
+T16	NAME 4201 4207	HAMZAT
+T17	PLATFORM 4523 4530	twitter
+T18	ORG 4948 4970	LAGOS STATE GOVERNMENT
+T2	NAME 32 52	KADRI OBAFEMI HAMZAT
+T21	TITLE 1656 1695	Commissioner for Science and Technology
+R1	per_title Arg1:T1 Arg2:T2	
+R2	per_employee_of Arg1:T6 Arg2:T2	
+R3	per_title Arg1:T5 Arg2:T3	
+R4	per_parents Arg1:T7 Arg2:T10	
+R5	per_parents Arg1:T7 Arg2:T12	
+R6	per_children Arg1:T10 Arg2:T7	
+R7	per_children Arg1:T12 Arg2:T7	
+R8	per_schools_attended Arg1:T4 Arg2:T15	
+R9	per_schools_attended Arg1:T8 Arg2:T15	
+R10	per_schools_attended Arg1:T19 Arg2:T15	
+R11	per_schools_attended Arg1:T24 Arg2:T15	
+R12	per_schools_attended Arg1:T9 Arg2:T15	
+R13	per_employee_of Arg1:T31 Arg2:T30	
+R14	per_employee_of Arg1:T33 Arg2:T30	
+R15	per_employee_of Arg1:T34 Arg2:T30	
+R16	per_employee_of Arg1:T35 Arg2:T30	
+R17	per_employee_of Arg1:T36 Arg2:T30	
+R18	per_title Arg1:T37 Arg2:T30	
+R19	per_title Arg1:T38 Arg2:T30	
+R20	per_title Arg1:T39 Arg2:T30	
+R21	per_employee_of Arg1:T40 Arg2:T30	
+R22	per_alternate_names Arg1:T7 Arg2:T15	
+R23	per_title Arg1:T48 Arg2:T43	
+R24	per_title Arg1:T50 Arg2:T51	
+R25	per_title Arg1:T21 Arg2:T43	
+R26	per_title Arg1:T56 Arg2:T54	
+R27	per_title Arg1:T58 Arg2:T54	
+R28	per_title Arg1:T64 Arg2:T63	
+R29	per_title Arg1:T66 Arg2:T54	
+R30	per_title Arg1:T69 Arg2:T68	
+R31	per_title Arg1:T78 Arg2:T77	
+R32	per_employee_of Arg1:T79 Arg2:T77	
+R33	org_alternate_names Arg1:T80 Arg2:T79	
+R34	per_employee_of Arg1:T80 Arg2:T77	
+R35	per_spouse Arg1:T85 Arg2:T86	
+T20	ORG 5094 5098	LASG
+R36	org_alternate_names Arg1:T20 Arg2:T18	
+T22	DEPARTMENT 5099 5116	Governor's Office
+R37	org_department Arg1:T22 Arg2:T20	
+T9991	TITLE-ner 105 111	Deputy
+T9992	TITLE-ner 122 131	Principal
+T9993	TITLE-ner 172 187	DEPUTY GOVERNOR
+T9994	HONORIFIC-ner 225 228	Dr.
+T9995	NAME-ner 229 249	Kadri Obafemi Hamzat
+T9996	DATE-ner 262 281	September 19th 1964
+T9997	GEOPOLITICAL-ner 285 290	Lagos
+T9998	NAME-ner 299 326	Oba Mufutau Olatunji Hamzat
+T9999	NAME-ner 328 331	Olu
+T99910	NAME-ner 371 392	Alhaja Kehinde Hamzat
+T99911	LOCATION-ner 418 430	Lagos Island
+T99912	HONORIFIC-ner 432 435	Dr.
+T99913	NAME-ner 436 442	Hamzat
+T99914	GEOPOLITICAL-ner 487 493	Mushin
+T99915	GEOPOLITICAL-ner 495 506	Lagos State
+T99916	GEOPOLITICAL-ner 576 583	Nigeria
+T99917	ORG-ner 605 618	University of
+T99918	GEOPOLITICAL-ner 652 656	B.Sc
+T99919	DATE-ner 687 691	1986
+T99920	DATE-ner 736 740	1988
+T99921	DATE-ner 746 750	1992
+T99922	ORG-ner 770 790	Cranfield University
+T99923	GEOPOLITICAL-ner 792 799	England
+T99924	DATE-ner 921 932	three years
+T99925	TITLE-ner 986 995	Executive
+T99926	HONORIFIC-ner 1078 1081	Dr.
+T99927	NAME-ner 1082 1088	Hamzat
+T99928	ORG-ner 1195 1218	RTP Consulting Services
+T99929	ORG-ner 1220 1236	City of New York
+T99930	ORG-ner 1238 1257	Columbia University
+T99931	ORG-ner 1259 1276	Merrill Lynch Inc
+T99932	ORG-ner 1278 1292	Morgan Stanley
+T99933	ORG-ner 1297 1306	Oando Plc
+T99934	TITLE-ner 1312 1337	Chief Information Officer
+T99935	TITLE-ner 1339 1342	CIO
+T99936	TITLE-ner 1354 1358	Head
+T99937	ORG-ner 1375 1384	Oando Plc
+T99938	GEOPOLITICAL-ner 1386 1391	Lagos
+T99939	HONORIFIC-ner 1393 1396	Dr.
+T99940	NAME-ner 1397 1417	Kadri Obafemi Hamzat
+T99941	TITLE-ner 1536 1548	Commissioner
+T99942	ORG-ner 1553 1575	Science and Technology
+T99943	NAME-ner 1597 1622	Asiwaju Bola Ahmed Tinubu
+T99944	DATE-ner 1626 1637	August 2005
+T99945	TITLE-ner 1656 1668	Commissioner
+T99946	ORG-ner 1673 1695	Science and Technology
+T99947	TITLE-ner 1701 1709	Governor
+T99948	NAME-ner 1711 1728	Babatunde Fashola
+T99949	DATE-ner 1748 1752	2007
+T99950	DATE-ner 2210 2214	2011
+T99951	NAME-ner 2219 2225	Hamzat
+T99952	LOCATION-ner 2240 2251	Lagos State
+T99953	TITLE-ner 2252 2264	Commissioner
+T99954	DATE-ner 2319 2327	May 2015
+T99955	TITLE-ner 2345 2357	Commissioner
+T99956	GEOPOLITICAL-ner 2561 2568	Nigeria
+T99957	LOCATION-ner 2621 2641	the Lekki Expressway
+T99958	GEOPOLITICAL-ner 2767 2778	Yaya Abatan
+T99959	LOCATION-ner 2832 2845	Lagos Badagry
+T99960	NAME-ner 2984 3006	Babatunde Raji Fashola
+T99961	TITLE-ner 3008 3016	Minister
+T99962	GEOPOLITICAL-ner 3021 3026	Power
+T99963	TITLE-ner 3075 3082	Adviser
+T99964	DATE-ner 3140 3167	January 2016 to August 2018
+T99965	NAME-ner 3169 3175	Hamzat
+T99966	TITLE-ner 3180 3187	Adviser
+T99967	TITLE-ner 3206 3214	Minister
+T99968	TITLE-ner 3514 3529	Quality control
+T99969	ORG-ner 3533 3550	Civil Engineering
+T99970	ORG-ner 3652 3728	Rehabilitation and Maintenance of Roads & Bridges and Research & Development
+T99971	DATE-ner 3733 3745	October 2018
+T99972	HONORIFIC-ner 3747 3750	Mr.
+T99973	NAME-ner 3751 3769	Babajide Sanwo-Olu
+T99974	TITLE-ner 3775 3784	candidate
+T99975	ORG-ner 3792 3817	All Progressives Congress
+T99976	ORG-ner 3819 3822	APC
+T99977	HONORIFIC-ner 3832 3835	Dr.
+T99978	NAME-ner 3836 3856	Kadri Obafemi Hamzat
+T99979	DATE-ner 3917 3921	2019
+T99980	HONORIFIC-ner 3978 3981	Dr.
+T99981	NAME-ner 3982 3988	Hamzat
+T99982	NAME-ner 4033 4047	Oluremi Hamzat
+T99983	TITLE-ner 4051 4058	blessed
+T99984	PLATFORM-ner 4087 4095	Facebook
+T99985	PLATFORM-ner 4117 4125	LinkedIn
+T99986	PLATFORM-ner 4126 4135	Pinterest
+T99987	DATE-ner 4208 4221	July 15, 2020
+T99988	DATE-ner 4292 4304	July 1, 2020
+T99989	DATE-ner 4377 4390	June 24, 2020
+T99990	DATE-ner 4475 4489	April 23, 2020
+T99991	PLATFORM-ner 4501 4509	Facebook
+T99992	NAME-ner 4541 4555	Babajide Sanwo
+T99993	NAME-ner 4556 4559	olu
+T99994	NATIONALITY-ner 4590 4600	Portuguese
+T99995	GEOPOLITICAL-ner 4609 4614	Lagos
+T99996	NATIONALITY-ner 4692 4698	Yoruba
+T99997	DATE-ner 4787 4799	October 2020
+T99998	GEOPOLITICAL-ner 5018 5029	Lagos State
+T99999	GEOPOLITICAL-ner 5031 5038	Nigeria
+T999100	EMAIL-ner 5047 5069	info@lagosstate.gov.ng
+T999101	ORG-ner 5094 5116	LASG Governor's Office
+T999102	TITLE-ner 5131 5139	Governor

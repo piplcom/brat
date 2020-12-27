@@ -1,0 +1,176 @@
+T5	ORG 233 245	of Fine Arts
+T6	TITLE 402 421	Physician Assistant
+T7	TITLE 430 436	Doctor
+T10	TITLE 650 659	President
+T12	TITLE 900 909	President
+T13	TITLE 924 933	President
+T14	NAME 1061 1078	Paul C. Pribbenow
+T15	NAME 1086 1100	Paul Pribbenow
+T16	TITLE 1111 1120	president
+T17	ORG 1124 1143	Augsburg University
+T23	TITLE 1495 1502	partner
+T25	NAME 1732 1741	Pribbenow
+T26	TITLE 1760 1766	leader
+T27	ORG 1813 1817	ELCA
+T30	ORG 1978 1994	Augsburg College
+T31	ORG 1998 2017	Augsburg University
+T32	ORG 2151 2159	Augsburg
+T33	ORG 2162 2178	Board of Regents
+T35	NAME 2200 2213	John W. Nason
+T39	ORG 2513 2585	Norman and Evangeline Hagfors Center for Science, Business, and Religion
+T42	NAME 2623 2632	Pribbenow
+T43	ORG 2637 2656	Augsburg University
+T45	NAME 3083 3092	Pribbenow
+T46	ORG 3130 3179	Coalition for Urban and Metropolitan Universities
+T47	ORG 3188 3219	Council of Independent Colleges
+T48	ORG 3246 3276	Anchor Institutions Task Force
+T49	ORG 3301 3328	Cedar-Riverside Partnership
+T50	ORG 3337 3372	Central Corridor Anchor Partnership
+T51	TITLE 3401 3409	Governor
+T52	ORG 3412 3439	Workforce Development Board
+T53	TITLE 3448 3457	executive
+T54	ORG 3475 3508	Minnesota Private College Council
+T55	NAME 3510 3519	Pribbenow
+T56	ORG 3597 3637	Association of Fundraising Professionals
+T57	NAME 3782 3791	Pribbenow
+T58	ORG 3888 3931	National Society for Experiential Education
+T60	TITLE 3985 3991	Leader
+T61	NAME 4035 4044	Pribbenow
+T62	ORG 4059 4078	Augsburg University
+T65	NAME 4276 4285	Pribbenow
+T66	TITLE 4296 4305	president
+T67	ORG 4309 4325	Rockford College
+T68	ORG 4331 4350	Rockford University
+T71	TITLE 4399 4414	research fellow
+T72	ORG 4423 4460	Center of Inquiry in the Liberal Arts
+T73	ORG 4464 4478	Wabash College
+T75	TITLE 4490 4494	dean
+T76	ORG 4499 4518	College Advancement
+T77	ORG 4540 4557	Board of Trustees
+T78	ORG 4561 4575	Wabash College
+T79	TITLE 4577 4591	vice president
+T80	ORG 4599 4637	School of the Art Institute of Chicago
+T81	TITLE 4643 4657	associate dean
+T82	ORG 4665 4680	Divinity School
+T83	ORG 4688 4709	University of Chicago
+T84	NAME 4711 4720	Pribbenow
+T86	ORG 4759 4773	Luther College
+T89	ORG 4857 4878	University of Chicago
+T90	ORG 4927 4941	Luther College
+T92	NAME 4951 4960	Pribbenow
+T93	TITLE 4968 4974	author
+T94	NAME 5143 5152	Pribbenow
+T96	NAME 5189 5215	Abigail Crampton Pribbenow
+T97	NAME 5241 5247	Thomas
+T98	NAME 5252 5256	Maya
+T101	ORG 5603 5617	News and Media
+T102	ORG 5815 5834	Augsburg University
+T106	TITLE 5868 5881	Administrator
+T107	ORG 5892 5911	Augsburg University
+T9991	DATE-ner 114 124	First Year
+T9992	GEOPOLITICAL-ner 186 197	Minneapolis
+T9993	GEOPOLITICAL-ner 198 207	Rochester
+T9994	TITLE-ner 402 421	Physician Assistant
+T9995	TITLE-ner 430 436	Doctor
+T9996	GEOPOLITICAL-ner 494 503	Rochester
+T9997	DATE-ner 533 543	First-Year
+T9998	TITLE-ner 650 659	President
+T9999	GEOPOLITICAL-ner 711 716	Media
+T99910	TITLE-ner 900 909	President
+T99911	TITLE-ner 924 933	President
+T99912	NAME-ner 1061 1078	Paul C. Pribbenow
+T99913	NAME-ner 1086 1100	Paul Pribbenow
+T99914	TITLE-ner 1111 1120	president
+T99915	ORG-ner 1124 1143	Augsburg University
+T99916	ORG-ner 1211 1226	Lutheran Church
+T99917	GEOPOLITICAL-ner 1253 1264	Minneapolis
+T99918	NATIONALITY-ner 1373 1381	American
+T99919	GEOPOLITICAL-ner 1409 1417	Augsburg
+T99920	DATE-ner 1421 1425	2006
+T99921	GEOPOLITICAL-ner 1427 1436	Pribbenow
+T99922	TITLE-ner 1495 1502	partner
+T99923	GEOPOLITICAL-ner 1588 1596	Augsburg
+T99924	GEOPOLITICAL-ner 1732 1741	Pribbenow
+T99925	TITLE-ner 1760 1766	leader
+T99926	ORG-ner 1813 1817	ELCA
+T99927	DATE-ner 1903 1919	the 21st century
+T99928	GEOPOLITICAL-ner 1943 1951	Augsburg
+T99929	ORG-ner 1978 1994	Augsburg College
+T99930	ORG-ner 1998 2017	Augsburg University
+T99931	ORG-ner 2151 2159	Augsburg
+T99932	ORG-ner 2162 2178	Board of Regents
+T99933	DATE-ner 2195 2199	2017
+T99934	NAME-ner 2200 2213	John W. Nason
+T99935	DATE-ner 2288 2297	five-year
+T99936	GEOPOLITICAL-ner 2385 2394	Pribbenow
+T99937	GEOPOLITICAL-ner 2416 2424	Augsburg
+T99938	ORG-ner 2535 2585	Hagfors Center for Science, Business, and Religion
+T99939	DATE-ner 2600 2612	January 2018
+T99940	DATE-ner 2617 2621	2019
+T99941	NAME-ner 2623 2632	Pribbenow
+T99942	ORG-ner 2637 2656	Augsburg University
+T99943	GEOPOLITICAL-ner 3022 3030	Augsburg
+T99944	NAME-ner 3083 3092	Pribbenow
+T99945	ORG-ner 3130 3179	Coalition for Urban and Metropolitan Universities
+T99946	ORG-ner 3188 3219	Council of Independent Colleges
+T99947	ORG-ner 3246 3276	Anchor Institutions Task Force
+T99948	ORG-ner 3301 3328	Cedar-Riverside Partnership
+T99949	ORG-ner 3337 3372	Central Corridor Anchor Partnership
+T99950	TITLE-ner 3401 3409	Governor
+T99951	ORG-ner 3412 3439	Workforce Development Board
+T99952	TITLE-ner 3448 3457	executive
+T99953	ORG-ner 3475 3508	Minnesota Private College Council
+T99954	NAME-ner 3510 3519	Pribbenow
+T99955	ORG-ner 3597 3637	Association of Fundraising Professionals
+T99956	NAME-ner 3782 3791	Pribbenow
+T99957	ORG-ner 3888 3931	National Society for Experiential Education
+T99958	DATE-ner 3935 3939	2012
+T99959	TITLE-ner 3985 3991	Leader
+T99960	NAME-ner 4035 4044	Pribbenow
+T99961	ORG-ner 4059 4078	Augsburg University
+T99962	GEOPOLITICAL-ner 4128 4137	Minnesota
+T99963	GEOPOLITICAL-ner 4266 4274	Augsburg
+T99964	NAME-ner 4276 4285	Pribbenow
+T99965	TITLE-ner 4296 4305	president
+T99966	ORG-ner 4309 4325	Rockford College
+T99967	ORG-ner 4331 4350	Rockford University
+T99968	GEOPOLITICAL-ner 4355 4363	Rockford
+T99969	GEOPOLITICAL-ner 4365 4373	Illinois
+T99970	TITLE-ner 4399 4414	research fellow
+T99971	ORG-ner 4423 4460	Center of Inquiry in the Liberal Arts
+T99972	ORG-ner 4464 4478	Wabash College
+T99973	GEOPOLITICAL-ner 4480 4487	Indiana
+T99974	TITLE-ner 4490 4494	dean
+T99975	ORG-ner 4499 4518	College Advancement
+T99976	ORG-ner 4540 4557	Board of Trustees
+T99977	ORG-ner 4561 4575	Wabash College
+T99978	TITLE-ner 4577 4591	vice president
+T99979	ORG-ner 4599 4637	School of the Art Institute of Chicago
+T99980	TITLE-ner 4643 4657	associate dean
+T99981	ORG-ner 4665 4680	Divinity School
+T99982	ORG-ner 4688 4709	University of Chicago
+T99983	NAME-ner 4711 4720	Pribbenow
+T99984	DATE-ner 4748 4752	1978
+T99985	ORG-ner 4759 4773	Luther College
+T99986	DATE-ner 4804 4808	1979
+T99987	DATE-ner 4825 4829	1993
+T99988	ORG-ner 4857 4878	University of Chicago
+T99989	ORG-ner 4927 4941	Luther College
+T99990	DATE-ner 4945 4949	2008
+T99991	NAME-ner 4951 4960	Pribbenow
+T99992	TITLE-ner 4968 4974	author
+T99993	NAME-ner 5143 5152	Pribbenow
+T99994	GEOPOLITICAL-ner 5162 5173	Minneapolis
+T99995	NAME-ner 5189 5205	Abigail Crampton
+T99996	GEOPOLITICAL-ner 5206 5215	Pribbenow
+T99997	NAME-ner 5241 5247	Thomas
+T99998	NAME-ner 5252 5256	Maya
+T99999	GEOPOLITICAL-ner 5341 5352	Get Started
+T999100	GEOPOLITICAL-ner 5429 5438	Rochester
+T999101	ORG-ner 5603 5617	News and Media
+T999102	ORG-ner 5815 5834	Augsburg University
+T999103	GEOPOLITICAL-ner 5837 5848	Minneapolis
+T999104	GEOPOLITICAL-ner 5850 5852	MN
+T999105	PHONE-ner 5855 5867	612-330-1000
+T999106	TITLE-ner 5868 5881	Administrator
+T999107	ORG-ner 5892 5911	Augsburg University

@@ -1,0 +1,66 @@
+T2	NAME 78 93	Ellen DeGeneres
+T3	NAME 258 273	Ellen DeGeneres
+T4	TITLE 381 385	host
+T5	ORG 392 404	Warner Bros.
+T7	NAME 530 545	Ellen DeGeneres
+T9	NAME 677 691	Chris Pizzello
+T10	ORG 706 722	Associated Press
+T11	NAME 726 737	John Koblin
+T13	NAME 753 768	Ellen DeGeneres
+T16	TITLE 894 898	boss
+T17	NAME 983 992	DeGeneres
+T19	TITLE 1166 1170	host
+T23	NAME 1474 1483	DeGeneres
+T25	ORG 1860 1873	BuzzFeed News
+T28	ORG 2166 2177	Warner Bros
+T30	NAME 2353 2362	Ed Glavin
+T31	TITLE 2367 2385	executive producer
+T32	NAME 2387 2402	Jonathan Norman
+T33	TITLE 2406 2427	co-executive producer
+T34	NAME 2433 2444	Kevin Leman
+T35	TITLE 2450 2461	head writer
+T37	ORG 2533 2544	Warner Bros
+T38	ORG 2564 2568	AT&T
+T39	ORG 2571 2582	WarnerMedia
+T41	NAME 2622 2631	DeGeneres
+T43	ORG 2749 2760	WarnerMedia
+T44	NAME 2797 2806	DeGeneres
+T45	TITLE 2814 2818	host
+T46	ORG 2824 2836	Warner Bros.
+T48	ORG 2899 2902	NBC
+T49	NAME 2984 2993	DeGeneres
+T53	NAME 3521 3530	DeGeneres
+T55	TITLE 3656 3663	actress
+T56	TITLE 3718 3725	actress
+T58	NAME 4009 4018	DeGeneres
+T60	TITLE 4055 4057	DJ
+T61	UNKNOWN 4067 4073	tWitch
+T62	TITLE 4103 4124	co-executive producer
+T63	TITLE 4323 4330	actress
+T64	NAME 4331 4346	Tiffany Haddish
+T65	ORG 4440 4466	The New York Times Company
+T1	ORG 692 700	Invision
+T8	ORG 2252 2264	Telepictures
+T14	ORG 2736 2743	HBO Max
+T18	NAME 4030 4049	Stephen Laurel Boss
+T20	ORG 4467 4472	NYTCo
+T21	ORG 4507 4521	T Brand Studio
+R1	per_employee_of Arg1:T1 Arg2:T9	
+R2	per_employee_of Arg1:T10 Arg2:T11	
+R3	per_title Arg1:T16 Arg2:T13	
+R4	per_alternate_names Arg1:T17 Arg2:T13	
+R5	org_subsidiaries Arg1:T8 Arg2:T28	
+R6	per_title Arg1:T31 Arg2:T30	
+R7	per_title Arg1:T33 Arg2:T32	
+R8	per_title Arg1:T35 Arg2:T34	
+R9	org_parents Arg1:T39 Arg2:T38	
+R10	org_subsidiaries Arg1:T37 Arg2:T39	
+R11	org_subsidiaries Arg1:T14 Arg2:T43	
+R12	per_title Arg1:T45 Arg2:T44	
+R13	per_title Arg1:T55 Arg2:T53	
+R14	per_title Arg1:T56 Arg2:T53	
+R15	per_title Arg1:T60 Arg2:T18	
+R16	per_title Arg1:T62 Arg2:T18	
+R17	per_title Arg1:T63 Arg2:T64	
+R18	org_alternate_names Arg1:T65 Arg2:T20	
+R19	org_general Arg1:T46 Arg2:T44	

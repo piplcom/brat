@@ -1,0 +1,59 @@
+T6	ORG 365 379	NewsChannel 10
+T7	ORG 425 432	Gray TV
+T8	NAME 578 591	Brent McClure
+T9	NAME 615 619	Dave
+T12	NAME 1031 1049	Greta Van Susteren
+T14	ORG 1085 1092	Gray DC
+T20	NAME 1402 1417	Carla Patterson
+T22	NAME 1448 1463	Ricky Patterson
+T28	NAME 1878 1893	Carla Patterson
+T30	TITLE 1914 1919	judge
+T31	TITLE 1965 1979	Defense lawyer
+T32	NAME 1980 1993	Michael Woods
+T33	NAME 1999 2008	Patterson
+T34	NAME 2026 2041	Ricky Patterson
+T39	ORG 2259 2279	The Associated Press
+T48	NAME 2692 2704	Vania Patino
+T51	ORG 2840 2852	KFDA Digital
+T52	NAME 2900 2914	Tamlyn Cochran
+T54	ORG 2955 2974	Homes of Our Troops
+T56	NAME 3136 3146	Ryan Cross
+T59	NAME 3263 3278	Taylor Mitchell
+T61	ADDRESS 3317 3330;3331 3349	7900 Broadway Amarillo, TX 79105
+T63	ORG 3424 3427	FCC
+T66	ORG 3604 3607	FCC
+T69	ORG 3738 3759	Gray Media Group, Inc
+T71	ORG 3783 3803	Gray Television, Inc
+T1	ORG 391 405	Mundo Amarillo
+T2	ORG 406 424	Telemundo Amarillo
+T3	ORG 433 446	MeTV Amarillo
+T4	ORG 447 461	NewsChannel 10
+T5	ORG 943 948	WTAMU
+T10	ORG 1093 1107	Investigate TV
+T11	ORG 1295 1309	Cracker Barrel
+T13	ORG 2135 2167	Virginia Peninsula Regional Jail
+T15	NAME 3024 3038	Freixys Casado
+T16	ORG 3376 3390	Mundo Amarillo
+T17	ORG 3391 3404	MeTV Amarillo
+T18	ORG 3405 3423	Telemundo Amarillo
+T19	ORG 3511 3515	KFDA
+T21	ORG 3556 3570	Mundo Amarillo
+T23	ORG 3571 3584	MeTV Amarillo
+T24	ORG 3585 3603	Telemundo Amarillo
+T26	ORG 3691 3695	KFDA
+R1	per_children Arg1:T22 Arg2:T20	
+R2	per_title Arg1:T31 Arg2:T32	
+R3	per_alternate_names Arg1:T33 Arg2:T28	
+R5	org_general Arg1:T13 Arg2:T34	
+T25	EMAIL 3620 3648	KFDA-departmentheads@gray.tv
+T27	PHONE 3649 3661	806-331-9839
+R6	phone_email Arg1:T25 Arg2:T27	
+R7	org_email Arg1:T25 Arg2:T26	
+R8	org_phone Arg1:T27 Arg2:T26	
+T29	EMAIL 3440 3468	KFDA-departmentheads@gray.tv
+T35	PHONE 3350 3364	(806) 383-1010
+R10	org_email Arg1:T29 Arg2:T19	
+T36	PHONE 3469 3481	806-331-9839
+R11	phone_email Arg1:T29 Arg2:T36	
+R12	org_phone Arg1:T36 Arg2:T19	
+R4	org_address Arg1:T61 Arg2:T19	

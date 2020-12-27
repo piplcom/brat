@@ -1,0 +1,55 @@
+T5	NAME 279 284	Trump
+T6	NAME 293 298	Biden
+T7	NAME 367 372	Cuomo
+T8	NAME 599 604	Cuomo
+T12	ORG 745 748	MTA
+T13	NAME 821 838	Darryl Strawberry
+T14	NAME 876 887	Steve Cohen
+T15	ORG 899 903	Mets
+T17	NAME 938 950	Donald Trump
+T21	NAME 1038 1050	Kevin Durant
+T22	NAME 1055 1067	Kyrie Irving
+T34	UNKNOWN 1544 1551	Yankees
+T36	NAME 1662 1675	Rudy Guiliani
+T40	NAME 1999 2008	Jami Ganz
+T41	ORG 2009 2028	New York Daily News
+T45	TITLE 2311 2318	coroner
+T46	NAME 2319 2331	Shannon Kent
+T50	ORG 2503 2518	The Denver Post
+T52	NAME 2551 2555	Kent
+T53	NAME 2634 2644	Staci Kent
+T54	TITLE 2680 2694	deputy coroner
+T56	NAME 2794 2804	Staci Kent
+T57	NAME 3023 3035	Shannon Kent
+T58	PLATFORM 3071 3077	Google
+T59	TITLE 3145 3152	coroner
+T61	TITLE 3249 3256	coroner
+T67	ORG 3776 3836	Colorado’s Office of Funeral Home and Crematory Registration
+T69	NAME 3947 3952	Trump
+T70	NAME 3961 3966	Biden
+T75	NAME 4842 4846	Kent
+T76	ORG 4890 4939	Office of Funeral Home and Crematory Registration
+T79	NAME 5255 5260	Trump
+T80	NAME 5269 5274	Biden
+T2	ORG 1416 1420	NYPD
+T3	NAME 1598 1603	Trump
+T4	NAME 1753 1758	Trump
+T9	ORG 2346 2370	Bailey-Kent Funeral Home
+T11	ORG 2432 2456	Kent Funeral Home Gypsum
+T18	ORG 2942 2966	Bailey-Kent Funeral Home
+T19	ORG 3332 3360	Lake County Sheriff’s Office
+T23	ORG 3398 3412	The Daily News
+T24	NAME 3563 3567	Kent
+T25	ORG 3638 3660	Leadville funeral home
+T26	ORG 4271 4293	Leadville funeral home
+T28	NAME 4692 4696	Kent
+T29	ORG 4999 5018	Gypsum funeral home
+T30	ORG 5075 5085	Daily News
+R1	per_employee_of Arg1:T41 Arg2:T40	
+R2	per_title Arg1:T45 Arg2:T46	
+R3	org_founded_by Arg1:T9 Arg2:T46	
+R4	org_founded_by Arg1:T11 Arg2:T46	
+R5	per_alternate_names Arg1:T46 Arg2:T52	
+R6	per_spouse Arg1:T53 Arg2:T52	
+R7	per_title Arg1:T54 Arg2:T53	
+R8	org_founded_by Arg1:T18 Arg2:T57	

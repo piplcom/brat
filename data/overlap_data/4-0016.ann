@@ -1,0 +1,122 @@
+T1	TITLE 51 67	public relations
+T3	NAME 313 324	Andrea Mane
+T4	TITLE 327 336	President
+T5	NAME 337 343	Andrea
+T6	TITLE 364 370	writer
+T7	TITLE 372 381	publicist
+T8	TITLE 395 405	strategist
+T9	ORG 630 647	Universal Studios
+T10	ORG 657 666	Sea World
+T11	ORG 668 684	The Golf Channel
+T12	ORG 690 704	Tupperware USA
+T13	NAME 764 770	Andrea
+T14	ORG 866 870	AAAA
+T15	TITLE 933 942	president
+T16	TITLE 967 983	public relations
+T18	NAME 1026 1032	Andrea
+T19	NAME 1240 1253	Mark Howbrook
+T20	TITLE 1272 1279	Manager
+T21	NAME 1333 1337	Mark
+T22	TITLE 1566 1582	public relations
+T23	NAME 1603 1611	Markâs
+T24	ORG 1936 1965	University of Central Florida
+T25	TITLE 1982 1995	active member
+T26	ORG 2003 2046	Public Relations Student Society of America
+T27	NAME 2048 2052	Mark
+T29	NAME 2076 2090	Cathy Watanabe
+T30	TITLE 2093 2105	Art Director
+T31	NAME 2209 2214	Cathy
+T32	NAME 2658 2663	Cathy
+T33	TITLE 2674 2686	art director
+T34	TITLE 2705 2721	graphic designer
+T35	ORG 2905 2937	Ringling College of Art & Design
+T38	NAME 2960 2974	Regina Marston
+T39	TITLE 2977 2992	Senior Director
+T42	TITLE 3065 3081	public relations
+T43	NAME 3112 3118	Regina
+T44	TITLE 3167 3177	strategist
+T45	TITLE 3480 3486	leader
+T47	ORG 3841 3862	University of Florida
+T48	NAME 3891 3897	Regina
+T49	TITLE 3987 4003	public relations
+T50	NAME 4050 4069	Sally Fritch-Castro
+T51	TITLE 4072 4095	Senior Account Director
+T53	NAME 4193 4198	Sally
+T54	TITLE 4203 4211	employee
+T57	TITLE 4279 4303	senior account executive
+T58	TITLE 4325 4334	executive
+T59	ORG 4632 4648	Florida Hospital
+T60	ORG 4650 4661	Pulte Homes
+T61	ORG 4663 4675	Lennar Homes
+T62	NAME 4755 4765	Plan Aâs
+T63	TITLE 4766 4789	Senior Account Director
+T64	NAME 4791 4796	Sally
+T65	NAME 5032 5037	Sally
+T66	ORG 5090 5111	University of Florida
+T9991	TITLE-ner 51 67	public relations
+T9992	GEOPOLITICAL-ner 292 294	US
+T9993	NAME-ner 313 324	Andrea Mane
+T9994	TITLE-ner 327 336	President
+T9995	NAME-ner 337 343	Andrea
+T9996	TITLE-ner 364 370	writer
+T9997	TITLE-ner 372 381	publicist
+T9998	TITLE-ner 395 405	strategist
+T9999	ORG-ner 630 647	Universal Studios
+T99910	ORG-ner 657 666	Sea World
+T99911	ORG-ner 668 684	The Golf Channel
+T99912	ORG-ner 690 704	Tupperware USA
+T99913	NAME-ner 764 770	Andrea
+T99914	ORG-ner 866 870	AAAA
+T99915	TITLE-ner 933 942	president
+T99916	TITLE-ner 967 983	public relations
+T99917	DATE-ner 1009 1024	nearly 20 years
+T99918	NAME-ner 1026 1032	Andrea
+T99919	NAME-ner 1240 1253	Mark Howbrook
+T99920	TITLE-ner 1272 1279	Manager
+T99921	NAME-ner 1333 1337	Mark
+T99922	TITLE-ner 1566 1582	public relations
+T99923	NAME-ner 1603 1611	Markâs
+T99924	ORG-ner 1936 1965	University of Central Florida
+T99925	TITLE-ner 1982 1995	active member
+T99926	ORG-ner 2003 2046	Public Relations Student Society of America
+T99927	NAME-ner 2048 2052	Mark
+T99928	GEOPOLITICAL-ner 2067 2074	History
+T99929	NAME-ner 2076 2090	Cathy Watanabe
+T99930	TITLE-ner 2093 2105	Art Director
+T99931	NAME-ner 2209 2214	Cathy
+T99932	NAME-ner 2658 2663	Cathy
+T99933	TITLE-ner 2674 2686	art director
+T99934	TITLE-ner 2705 2721	graphic designer
+T99935	ORG-ner 2905 2937	Ringling College of Art & Design
+T99936	GEOPOLITICAL-ner 2941 2949	Sarasota
+T99937	GEOPOLITICAL-ner 2951 2958	Florida
+T99938	NAME-ner 2960 2974	Regina Marston
+T99939	TITLE-ner 2977 2992	Senior Director
+T99940	LOCATION-ner 2994 3004	West Coast
+T99941	DATE-ner 3015 3023	20 years
+T99942	TITLE-ner 3065 3081	public relations
+T99943	NAME-ner 3112 3118	Regina
+T99944	TITLE-ner 3167 3177	strategist
+T99945	TITLE-ner 3480 3486	leader
+T99946	GEOPOLITICAL-ner 3533 3539	Regina
+T99947	ORG-ner 3841 3862	University of Florida
+T99948	NAME-ner 3891 3897	Regina
+T99949	TITLE-ner 3987 4003	public relations
+T99950	NAME-ner 4050 4069	Sally Fritch-Castro
+T99951	TITLE-ner 4072 4095	Senior Account Director
+T99952	DATE-ner 4151 4169	more than 30 years
+T99953	NAME-ner 4193 4198	Sally
+T99954	TITLE-ner 4203 4211	employee
+T99955	DATE-ner 4227 4249	more than 25 years ago
+T99956	DATE-ner 4265 4275	five years
+T99957	TITLE-ner 4279 4303	senior account executive
+T99958	TITLE-ner 4325 4334	executive
+T99959	ORG-ner 4632 4648	Florida Hospital
+T99960	ORG-ner 4650 4661	Pulte Homes
+T99961	ORG-ner 4663 4675	Lennar Homes
+T99962	NAME-ner 4755 4765	Plan Aâs
+T99963	TITLE-ner 4766 4789	Senior Account Director
+T99964	NAME-ner 4791 4796	Sally
+T99965	NAME-ner 5032 5037	Sally
+T99966	ORG-ner 5090 5111	University of Florida
+T99967	DATE-ner 5133 5137	2011

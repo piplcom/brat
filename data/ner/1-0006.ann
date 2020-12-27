@@ -1,0 +1,95 @@
+T6	ORG 550 553	VRA
+T7	ORG 719 743	Property Holding Company
+T11	NAME 1334 1355	Emmanuel Antwi-Darkwa
+T12	TITLE 1356 1371	Chief Executive
+T13	TITLE 1379 1393	Civil Engineer
+T15	NAME 1413 1435	Emmanuel  Antwi-Darkwa
+T16	ORG 1467 1488	Volta River Authority
+T19	ORG 1597 1615	Ministry of Energy
+T20	TITLE 1619 1636	Director of Power
+T22	TITLE 1778 1793	Chief Executive
+T25	NAME 1872 1884	Antwi-Darkwa
+T28	TITLE 2481 2528	Lead Member for the Government Negotiating Team
+T31	NAME 2556 2577	Emmanuel Antwi-Darkwa
+T33	NAME 2947 2959	Antwi-Darkwa
+T36	ORG 3048 3068	University of Dundee
+T37	ORG 3120 3138	Harvard University
+T40	ORG 3213 3264	Kwame Nkrumah  University of Science and Technology
+T42	TITLE 3282 3288	member
+T43	ORG 3335 3365	Ghana Institution of Engineers
+T44	ORG 3374 3411	International Hydropower  Association
+T45	ORG 3413 3416	IHA
+T46	ORG 3419 3449	Society of Petroleum Engineers
+T47	ORG 3451 3454	SPE
+T48	ORG 3465 3516	Association of  International Petroleum Negotiators
+T50	ORG 3518 3522	AIPN
+T52	ORG 3577 3600	Hydro Review  Worldwide
+T54	NAME 3673 3685	Antwi-Darkwa
+T56	ORG 3787 3834	Chartered Institute of Supply Chain  Management
+T62	ORG 4186 4207	Volta River Authority
+T1	ORG 0 19	Electro Volta House
+T2	ORG 148 151	VRA
+T3	ORG 592 633	Northern Electricity Distribution Company
+T4	ORG 634 657	Akosombo Hotels Limited
+T5	ORG 658 669	Kpong Farms
+T8	ORG 670 698	Volta Lake Transport Company
+T9	ORG 699 702	VRA
+T14	ORG 745 751	PROPCo
+T17	ORG 762 765	VRA
+T18	ORG 979 982	VRA
+T21	ORG 1001 1004	VRA
+T23	ORG 1046 1049	VRA
+T24	ORG 1373 1376	VRA
+T26	ORG 1490 1493	VRA
+T30	ORG 1684 1687	VRA
+T27	ORG 3367 3371	GHIE
+T29	ORG 4049 4052	VRA
+T32	DEPARTMENT 377 407	Takoradi Thermal Power Station
+T34	DEPARTMENT 408 434	Tema Thermal Power Complex
+T35	DEPARTMENT 435 464	Takoradi 3 (T3) Thermal Plant
+T38	DEPARTMENT 465 492	Kpone Thermal Power Station
+T39	DEPARTMENT 319 339	Akosombo Hydro Plant
+T41	DEPARTMENT 340 357	Kpong Hydro Plant
+T51	DEPARTMENT 2306 2334	Takoradi Thermal Power Plant
+T10	DEPARTMENT 3549 3573	Editorial Advisory Board
+R1	per_title Arg1:T12 Arg2:T11	
+R2	per_employee_of Arg1:T24 Arg2:T11	
+R3	per_title Arg1:T13 Arg2:T15	
+R4	per_employee_of Arg1:T16 Arg2:T15	
+R5	per_employee_of Arg1:T26 Arg2:T15	
+R6	org_alternate_names Arg1:T16 Arg2:T26	
+R7	per_employee_of Arg1:T19 Arg2:T15	
+R8	per_title Arg1:T20 Arg2:T15	
+R9	per_title Arg1:T22 Arg2:T15	
+R10	per_employee_of Arg1:T30 Arg2:T15	
+R11	per_schools_attended Arg1:T36 Arg2:T33	
+R12	per_alternate_names Arg1:T31 Arg2:T33	
+R13	per_schools_attended Arg1:T37 Arg2:T33	
+R14	org_members Arg1:T43 Arg2:T33	
+R15	org_members Arg1:T27 Arg2:T33	
+R16	org_alternate_names Arg1:T43 Arg2:T27	
+R17	org_members Arg1:T44 Arg2:T33	
+R18	org_members Arg1:T45 Arg2:T33	
+R19	org_alternate_names Arg1:T45 Arg2:T44	
+R20	org_members Arg1:T46 Arg2:T33	
+R21	org_members Arg1:T47 Arg2:T33	
+R22	org_alternate_names Arg1:T47 Arg2:T46	
+R23	org_members Arg1:T48 Arg2:T33	
+R24	org_members Arg1:T50 Arg2:T33	
+R25	org_alternate_names Arg1:T48 Arg2:T50	
+R26	per_employee_of Arg1:T52 Arg2:T33	
+R27	org_department Arg1:T39 Arg2:T2	
+R28	org_department Arg1:T41 Arg2:T2	
+R29	org_department Arg1:T32 Arg2:T2	
+R30	org_department Arg1:T34 Arg2:T2	
+R31	org_department Arg1:T35 Arg2:T2	
+R32	org_department Arg1:T38 Arg2:T2	
+R33	org_alternate_names Arg1:T14 Arg2:T7	
+R34	per_alternate_names Arg1:T15 Arg2:T25	
+R35	org_department Arg1:T51 Arg2:T30	
+R36	per_title Arg1:T28 Arg2:T25	
+R37	per_title Arg1:T42 Arg2:T33	
+R38	org_alternate_names Arg1:T62 Arg2:T29	
+R39	org_department Arg1:T10 Arg2:T52	
+T49	EMAIL 56 72	corpcomm@vra.com
+R40	org_email Arg1:T49 Arg2:T1	

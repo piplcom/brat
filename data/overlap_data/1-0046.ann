@@ -1,0 +1,134 @@
+T4	NAME 583 594	Michelle Hu
+T6	NAME 689 700	Michelle Hu
+T7	TITLE 771 801	former investment bank analyst
+T8	ORG 825 842	Étoile Collective
+T9	NAME 933 944	Michelle Hu
+T10	TITLE 948 978	former investment bank analyst
+T12	NAME 1241 1249	Michelle
+T13	ORG 1258 1275	Étoile Collective
+T14	NAME 1548 1556	Michelle
+T17	ORG 1619 1636	Étoile Collective
+T18	NAME 1756 1767	Michelle Hu
+T19	NAME 1824 1832	Michelle
+T21	ORG 2299 2302	IBM
+T23	NAME 2324 2335	Michelle Hu
+T27	NAME 2622 2630	Michelle
+T29	NAME 2699 2707	Michelle
+T31	ORG 2801 2818	Étoile Collective
+T34	ORG 3630 3647	Étoile Collective
+T37	NAME 4111 4119	Michelle
+T42	NAME 4703 4711	Michelle
+T43	NAME 4820 4828	Michelle
+T46	NAME 5459 5467	Michelle
+T47	ORG 5559 5561	AR
+T48	NAME 5846 5854	Michelle
+T49	NAME 6197 6216	Anastasia Prikhodko
+T56	TITLE 6375 6395	freelance journalist
+T58	TITLE 6422 6434	staff writer
+T61	NAME 6565 6575	Mike Huynh
+T63	NAME 6654 6667	Emily Pidgeon
+T65	NAME 6760 6770	Mike Huynh
+T67	NAME 6849 6862	Emily Pidgeon
+T68	NAME 6938 6957	Anastasia Prikhodko
+T69	NAME 7015 7028	Emily Pidgeon
+T5	ORG 0 17	Étoile Collective
+T1	ORG 197 213	The CEO Magazine
+T2	ORG 520 536	The CEO Magazine
+T3	ORG 901 918	Étoile Collective
+T11	ORG 2714 2730	The CEO Magazine
+T15	ORG 3945 3962	Étoile Collective
+T16	ORG 4379 4396	Étoile Collective
+T20	ORG 6226 6242	The CEO Magazine
+T22	ORG 6438 6454	The CEO Magazine
+T24	ORG 6597 6603	DECIEM
+T25	ORG 6792 6798	DECIEM
+T26	ORG 7029 7045	The CEO Magazine
+T28	ORG 7413 7429	The CEO Magazine
+R1	per_title Arg1:T7 Arg2:T6	
+R2	org_founded_by Arg1:T8 Arg2:T6	
+R3	org_founded_by Arg1:T3 Arg2:T9	
+R4	per_title Arg1:T10 Arg2:T9	
+R5	org_founded_by Arg1:T13 Arg2:T12	
+R6	org_founded_by Arg1:T17 Arg2:T14	
+R7	per_alternate_names Arg1:T12 Arg2:T9	
+R8	org_founded_by Arg1:T15 Arg2:T37	
+T30	NAME 6280 6289	Anastasia
+R9	per_alternate_names Arg1:T30 Arg2:T49	
+R11	per_title Arg1:T56 Arg2:T30	
+R12	per_title Arg1:T58 Arg2:T30	
+R10	per_employee_of Arg1:T22 Arg2:T30	
+R13	org_general Arg1:T11 Arg2:T29	
+T9991	TITLE-ner 119 128	Executive
+T9992	ORG-ner 201 213	CEO Magazine
+T9993	TITLE-ner 524 527	CEO
+T9994	NAME-ner 583 594	Michelle Hu
+T9995	DATE-ner 661 678	02 September 2020
+T9996	NAME-ner 689 700	Michelle Hu
+T9997	TITLE-ner 794 801	analyst
+T9998	ORG-ner 825 842	Étoile Collective
+T9999	NAME-ner 933 944	Michelle Hu
+T99910	TITLE-ner 971 978	analyst
+T99911	DATE-ner 1165 1169	2016
+T99912	NAME-ner 1241 1249	Michelle
+T99913	ORG-ner 1258 1275	Étoile Collective
+T99914	NAME-ner 1548 1556	Michelle
+T99915	DATE-ner 1574 1578	2018
+T99916	DATE-ner 1580 1594	the first year
+T99917	ORG-ner 1619 1636	Étoile Collective
+T99918	NAME-ner 1756 1767	Michelle Hu
+T99919	NAME-ner 1824 1832	Michelle
+T99920	DATE-ner 2252 2270	roughly five years
+T99921	ORG-ner 2299 2302	IBM
+T99922	GEOPOLITICAL-ner 2306 2308	US
+T99923	NAME-ner 2324 2335	Michelle Hu
+T99924	DATE-ner 2367 2392	the first quarter of 2020
+T99925	DATE-ner 2511 2529	the second quarter
+T99926	DATE-ner 2582 2589	monthly
+T99927	NAME-ner 2622 2630	Michelle
+T99928	DATE-ner 2678 2697	this financial year
+T99929	NAME-ner 2699 2707	Michelle
+T99930	ORG-ner 2714 2730	The CEO Magazine
+T99931	ORG-ner 2801 2818	Étoile Collective
+T99932	DATE-ner 2933 2938	March
+T99933	DATE-ner 3425 3439	over six weeks
+T99934	ORG-ner 3630 3647	Étoile Collective
+T99935	DATE-ner 3672 3686	several months
+T99936	GEOPOLITICAL-ner 3833 3842	Melbourne
+T99937	NAME-ner 4111 4119	Michelle
+T99938	GEOPOLITICAL-ner 4200 4202	US
+T99939	GEOPOLITICAL-ner 4204 4206	UK
+T99940	GEOPOLITICAL-ner 4208 4214	Canada
+T99941	GEOPOLITICAL-ner 4219 4230	New Zealand
+T99942	NAME-ner 4703 4711	Michelle
+T99943	NAME-ner 4820 4828	Michelle
+T99944	NATIONALITY-ner 4964 4971	Finnish
+T99945	DATE-ner 5058 5078	just over six months
+T99946	NAME-ner 5459 5467	Michelle
+T99947	ORG-ner 5559 5561	AR
+T99948	NAME-ner 5846 5854	Michelle
+T99949	NAME-ner 6197 6216	Anastasia Prikhodko
+T99950	TITLE-ner 6230 6233	CEO
+T99951	GEOPOLITICAL-ner 6256 6267	New Zealand
+T99952	GEOPOLITICAL-ner 6272 6278	Russia
+T99953	NAME-ner 6280 6289	Anastasia
+T99954	GEOPOLITICAL-ner 6299 6308	Australia
+T99955	DATE-ner 6312 6316	2013
+T99956	TITLE-ner 6375 6395	freelance journalist
+T99957	GEOPOLITICAL-ner 6399 6408	Amsterdam
+T99958	TITLE-ner 6422 6434	staff writer
+T99959	ORG-ner 6438 6454	The CEO Magazine
+T99960	GEOPOLITICAL-ner 6526 6535	Australia
+T99961	NAME-ner 6565 6575	Mike Huynh
+T99962	TITLE-ner 6585 6588	CEO
+T99963	NAME-ner 6654 6667	Emily Pidgeon
+T99964	GEOPOLITICAL-ner 6721 6730	Australia
+T99965	NAME-ner 6760 6770	Mike Huynh
+T99966	TITLE-ner 6780 6783	CEO
+T99967	NAME-ner 6849 6862	Emily Pidgeon
+T99968	NAME-ner 6938 6957	Anastasia Prikhodko
+T99969	NAME-ner 7015 7028	Emily Pidgeon
+T99970	ORG-ner 7033 7045	CEO Magazine
+T99971	GEOPOLITICAL-ner 7292 7294	US
+T99972	GEOPOLITICAL-ner 7303 7305	US
+T99973	GEOPOLITICAL-ner 7355 7357	US
+T99974	TITLE-ner 7417 7420	CEO

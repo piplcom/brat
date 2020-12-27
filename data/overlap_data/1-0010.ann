@@ -1,0 +1,522 @@
+T24	ORG 2168 2172	AUEA
+T29	NAME 2671 2691	Daniel Locke-Wheaton
+T30	TITLE 2692 2701	Principal
+T33	NAME 2739 2752	Rachael Grant
+T34	TITLE 2753 2783	Attendance and Welfare Officer
+T36	NAME 2824 2839	Michael Coulson
+T37	TITLE 2840 2877	Subject Leader for English Literature
+T39	NAME 2943 2953	Neil Scott
+T40	TITLE 2954 2977	Chief Operating Officer
+T41	ORG 2979 2995	Aston University
+T42	NAME 3045 3055	Neil Scott
+T43	TITLE 3063 3086	Chief financial Officer
+T44	ORG 3091 3096	Aston
+T46	ORG 3150 3174	Staffordshire University
+T47	ORG 3176 3201	Wyvale Garden Centres plc
+T48	ORG 3203 3210	Marston
+T49	ORG 3212 3235	Thompson & Evershed plc
+T50	ORG 3244 3262	Ford Motor Company
+T51	ORG 3274 3279	Aston
+T52	ORG 3289 3307	University of Hull
+T53	TITLE 3321 3342	Chief Finance Officer
+T54	NAME 3344 3348	Neil
+T55	TITLE 3404 3412	Director
+T56	TITLE 3417 3426	Treasurer
+T57	ORG 3434 3488	Environmental Association of Universities and Colleges
+T58	ORG 3490 3494	EAUC
+T59	TITLE 3502 3514	board member
+T60	ORG 3522 3567	British Universities Finance Directors’ Group
+T61	TITLE 3627 3636	associate
+T62	ORG 3644 3689	Chartered Institute of Management Accountants
+T63	NAME 3694 3704	Iain Roche
+T64	TITLE 3705 3723	Head of Innovation
+T65	TITLE 3754 3776	Director of Innovation
+T66	NAME 3783 3793	Iain Roche
+T67	ORG 3801 3808	HS2 Ltd
+T68	TITLE 3812 3830	Head of Innovation
+T70	ORG 3890 3905	Rolls-Royce Plc
+T74	NAME 4505 4509	Iain
+T75	ORG 4557 4580	Loughborough University
+T76	ORG 4604 4650	institute of Innovation and Knowledge Exchange
+T77	ORG 4652 4656	FIKE
+T78	ORG 4674 4677	NEF
+T79	NAME 4701 4712	John Walter
+T80	TITLE 4713 4735	Director of Governance
+T81	ORG 4737 4753	Aston University
+T82	NAME 4754 4758	John
+T83	DEPARTMENT 4912 4919	Council
+T84	DEPARTMENT 4945 4960	Audit Committee
+T85	DEPARTMENT 4962 5014	Finance and Major Projects and Nominations Committee
+T86	DEPARTMENT 5021 5027	Senate
+T87	DEPARTMENT 5036 5050	Executive Team
+T88	TITLE 5063 5094	secretary to the Governing Body
+T90	ORG 5102 5138	Aston University Engineering Academy
+T92	NAME 5180 5184	John
+T93	NAME 5279 5283	John
+T94	TITLE 5302 5308	member
+T95	ORG 5316 5354	University's Research Ethics Committee
+T96	NAME 5356 5360	John
+T97	TITLE 5367 5373	member
+T98	ORG 5381 5385	AUEA
+T100	ORG 5467 5483	Aston University
+T101	NAME 5488 5499	Paul Harper
+T102	TITLE 5500 5508	Lecturer
+T104	ORG 5516 5532	Aston University
+T105	NAME 5533 5537	Paul
+T106	ORG 5569 5574	Aston
+T110	ORG 5705 5729	Photonics Research Group
+T113	NAME 5940 5944	Paul
+T114	TITLE 5951 5978	Senior Development Engineer
+T115	ORG 6136 6143	Marconi
+T117	TITLE 6147 6175	Photonic System Test Manager
+T118	NAME 6177 6181	Paul
+T119	TITLE 6187 6202	founding member
+T120	ORG 6206 6212	AUEA's
+T121	ORG 6247 6251	AUEA
+T124	NAME 6288 6300	Colin Parker
+T125	TITLE 6301 6311	Headmaster
+T129	NAME 6439 6444	Colin
+T130	TITLE 6587 6597	Headmaster
+T132	ORG 6601 6628	King Edward VI Aston School
+T133	TITLE 6640 6681	Chairman of Governors of a primary school
+T135	TITLE 6685 6712	registered Ofsted inspector
+T136	DEPARTMENT 6745 6769	Department for Education
+T137	NAME 6816 6829	Tracey Linton
+T138	TITLE 6830 6862	Governor - Lead for Safeguarding
+T140	NAME 6863 6869	Tracey
+T141	ORG 6891 6914	Birmingham City Council
+T145	NAME 7136 7142	Tracey
+T148	NAME 7468 7474	Tracey
+T150	DEPARTMENT 7680 7704	Local Safeguarding Board
+T151	DEPARTMENT 7706 7744	Early Help and Family Support services
+T154	NAME 7821 7834	Peter Hazzard
+T155	TITLE 7835 7851	Senior Associate
+T156	NAME 7861 7874	Peter Hazzard
+T157	TITLE 7876 7894	Associate Director
+T158	NAME 7906 7911	Peter
+T159	TITLE 7917 7953	Chartered Mechanical Design Engineer
+T161	NAME 8190 8195	Peter
+T164	ORG 8483 8487	AUEA
+T165	NAME 8921 8926	Peter
+T166	ORG 8946 8973	University of Hertfordshire
+T170	ORG 9125 9146	DeMontfort University
+T172	TITLE 9193 9199	Member
+T173	ORG 9203 9208	CIBSE
+T174	TITLE 9218 9236	Chartered Engineer
+T175	NAME 9238 9256	Richard Billingham
+T176	TITLE 9257 9302	Director of HR and Organisational Development
+T178	ORG 9304 9320	Aston University
+T179	NAME 9321 9339	Richard Billingham
+T180	TITLE 9347 9392	Director of HR and Organisational Development
+T182	ORG 9396 9412	Aston University
+T185	ORG 9704 9709	Aston
+T186	ORG 9715 9735	Bristol City Council
+T187	TITLE 9749 9787	Director of Human Resources and Change
+T188	NAME 9789 9796	Richard
+T189	NAME 10079 10090	Richard Toy
+T190	TITLE 10091 10094	CEO
+T191	ORG 10098 10129	Auctus Management Group Limited
+T192	NAME 10130 10137	Richard
+T195	TITLE 10247 10264	Regional Director
+T196	ORG 10293 10306	Carillion Plc
+T199	NAME 10432 10439	Richard
+T200	ORG 10447 10470	Auctus Management Group
+T201	ORG 10482 10507	Rail Safety Solutions Ltd
+T202	ORG 10509 10512	RSS
+T204	ORG 10589 10618	Auctus Training Solutions Ltd
+T206	TITLE 10747 10765	local entrepreneur
+T207	NAME 10767 10774	Richard
+T208	NAME 10925 10941	Aman Gill-Knobbs
+T209	TITLE 10942 10964	Director of Operations
+T210	ORG 10965 11024	College of Engineering & Physical Sciences Aston University
+T212	NAME 11028 11043	Antonio Fratini
+T213	TITLE 11044 11085	Senior Lecturer in Biomedical Engineering
+T215	ORG 11087 11121	School of Life and Health Sciences
+T216	NAME 11122 11133	Sarah Plumb
+T218	TITLE 11134 11149	Parent Governor
+T219	NAME 11150 11160	Lee Harvey
+T220	TITLE 11161 11176	Parent Governor
+T221	NAME 11177 11188	Mandy  Ross
+T222	TITLE 11189 11218	Associate Non-Voting Governor
+T229	ORG 12047 12083	Aston University Engineering Academy
+T2	ORG 330 334	AUEA
+T3	ORG 587 591	AUEA
+T4	ORG 1140 1144	AUEA
+T5	ORG 1401 1405	AUEA
+T7	ORG 1771 1775	AUEA
+T8	TITLE 3006 3039	Chair of Governing Board/Trustees
+T9	ORG 3725 3753	High Speed Two (HS2) Limited
+T10	ORG 3778 3781	HS2
+T11	ORG 5782 5787	Aston
+T12	ORG 5888 5903	Marconi-Solstis
+T13	ORG 6313 6340	King Edward VI Aston School
+T14	ORG 7853 7860	Cundall
+T15	ORG 7898 7905	Cundall
+T16	ORG 8589 8594	ESFA’
+T17	ORG 8740 8747	Cundall
+T18	TITLE 9819 9837	Chair of Governors
+T19	ORG 10269 10275	Adecco
+T20	ORG 10317 10324	SkyBlue
+T21	ORG 11471 11475	AUEA
+T22	ORG 11727 11731	AUEA
+T1	DEPARTMENT 5460 5463	UTC
+T26	ORG 8354 8358	DCSF
+R1	per_title Arg1:T30 Arg2:T29	
+R2	per_title Arg1:T34 Arg2:T33	
+R3	per_title Arg1:T37 Arg2:T36	
+R4	per_title Arg1:T40 Arg2:T39	
+R5	per_employee_of Arg1:T41 Arg2:T39	
+R6	per_title Arg1:T8 Arg2:T39	
+R7	per_title Arg1:T43 Arg2:T42	
+R8	per_employee_of Arg1:T44 Arg2:T42	
+R9	org_alternate_names Arg1:T44 Arg2:T41	
+R10	per_employee_of Arg1:T46 Arg2:T42	
+R11	per_employee_of Arg1:T47 Arg2:T42	
+R12	per_employee_of Arg1:T48 Arg2:T42	
+R13	per_employee_of Arg1:T49 Arg2:T42	
+R14	per_employee_of Arg1:T50 Arg2:T42	
+R15	per_employee_of Arg1:T51 Arg2:T42	
+R16	per_employee_of Arg1:T52 Arg2:T42	
+R17	org_alternate_names Arg1:T41 Arg2:T24	
+R18	per_title Arg1:T53 Arg2:T42	
+R19	per_title Arg1:T55 Arg2:T54	
+R20	per_title Arg1:T56 Arg2:T54	
+R21	org_alternate_names Arg1:T58 Arg2:T57	
+R22	per_employee_of Arg1:T57 Arg2:T54	
+R23	per_employee_of Arg1:T58 Arg2:T54	
+R24	per_title Arg1:T59 Arg2:T54	
+R25	org_members Arg1:T60 Arg2:T54	
+R26	per_title Arg1:T61 Arg2:T54	
+R27	per_employee_of Arg1:T62 Arg2:T54	
+R28	per_title Arg1:T64 Arg2:T63	
+R29	per_employee_of Arg1:T9 Arg2:T63	
+R30	per_title Arg1:T65 Arg2:T63	
+R31	per_employee_of Arg1:T10 Arg2:T63	
+R32	org_alternate_names Arg1:T10 Arg2:T9	
+R33	org_alternate_names Arg1:T67 Arg2:T10	
+R34	org_alternate_names Arg1:T67 Arg2:T9	
+R35	per_employee_of Arg1:T67 Arg2:T66	
+R36	per_title Arg1:T68 Arg2:T66	
+R37	per_employee_of Arg1:T70 Arg2:T66	
+R38	per_schools_attended Arg1:T75 Arg2:T74	
+R39	per_schools_attended Arg1:T76 Arg2:T74	
+R40	org_alternate_names Arg1:T77 Arg2:T76	
+R41	per_schools_attended Arg1:T77 Arg2:T74	
+R42	per_employee_of Arg1:T78 Arg2:T74	
+R43	per_alternate_names Arg1:T66 Arg2:T74	
+R44	per_alternate_names Arg1:T79 Arg2:T82	
+R45	per_title Arg1:T80 Arg2:T79	
+R46	per_employee_of Arg1:T81 Arg2:T79	
+R47	per_title Arg1:T88 Arg2:T82	
+R48	per_employee_of Arg1:T90 Arg2:T82	
+R49	per_title Arg1:T94 Arg2:T93	
+R50	org_members Arg1:T95 Arg2:T93	
+R51	per_title Arg1:T97 Arg2:T96	
+R52	org_members Arg1:T98 Arg2:T96	
+R53	per_employee_of Arg1:T100 Arg2:T96	
+R54	per_title Arg1:T102 Arg2:T101	
+T25	DEPARTMENT 5510 5514	SEAS
+R55	per_employee_of Arg1:T104 Arg2:T101	
+R56	per_employee_of Arg1:T106 Arg2:T105	
+R57	org_alternate_names Arg1:T106 Arg2:T104	
+R58	per_employee_of Arg1:T110 Arg2:T105	
+R59	per_employee_of Arg1:T12 Arg2:T105	
+R60	per_title Arg1:T114 Arg2:T113	
+R61	per_employee_of Arg1:T115 Arg2:T113	
+R62	per_alternate_names Arg1:T101 Arg2:T105	
+R63	per_title Arg1:T117 Arg2:T113	
+R64	per_title Arg1:T119 Arg2:T118	
+R65	per_employee_of Arg1:T120 Arg2:T118	
+R66	per_employee_of Arg1:T121 Arg2:T118	
+R67	per_title Arg1:T125 Arg2:T124	
+R68	per_employee_of Arg1:T13 Arg2:T124	
+R69	per_alternate_names Arg1:T129 Arg2:T124	
+R70	per_title Arg1:T130 Arg2:T129	
+R71	per_employee_of Arg1:T132 Arg2:T129	
+R72	per_title Arg1:T133 Arg2:T129	
+R73	per_title Arg1:T135 Arg2:T129	
+R74	per_title Arg1:T138 Arg2:T137	
+R75	per_alternate_names Arg1:T140 Arg2:T137	
+R76	per_employee_of Arg1:T141 Arg2:T137	
+R77	per_title Arg1:T155 Arg2:T154	
+R78	per_employee_of Arg1:T14 Arg2:T154	
+R79	per_alternate_names Arg1:T158 Arg2:T156	
+R80	per_title Arg1:T157 Arg2:T156	
+R81	per_employee_of Arg1:T15 Arg2:T156	
+R82	per_title Arg1:T159 Arg2:T158	
+R83	per_schools_attended Arg1:T166 Arg2:T165	
+R84	per_title Arg1:T172 Arg2:T165	
+R85	org_members Arg1:T173 Arg2:T165	
+R86	per_title Arg1:T174 Arg2:T165	
+R87	per_title Arg1:T176 Arg2:T175	
+R88	per_employee_of Arg1:T178 Arg2:T175	
+R89	per_title Arg1:T180 Arg2:T179	
+R90	per_employee_of Arg1:T182 Arg2:T179	
+R91	per_employee_of Arg1:T185 Arg2:T179	
+R92	per_employee_of Arg1:T186 Arg2:T179	
+R93	per_title Arg1:T187 Arg2:T179	
+R94	per_title Arg1:T18 Arg2:T188	
+R95	per_alternate_names Arg1:T188 Arg2:T179	
+R96	per_title Arg1:T190 Arg2:T189	
+R97	per_employee_of Arg1:T191 Arg2:T189	
+R98	per_alternate_names Arg1:T192 Arg2:T189	
+R99	per_title Arg1:T195 Arg2:T192	
+R100	per_employee_of Arg1:T19 Arg2:T192	
+R101	per_employee_of Arg1:T196 Arg2:T192	
+R102	org_founded_by Arg1:T20 Arg2:T192	
+R103	org_founded_by Arg1:T200 Arg2:T199	
+R104	per_employee_of Arg1:T201 Arg2:T199	
+R105	org_alternate_names Arg1:T202 Arg2:T201	
+R106	per_employee_of Arg1:T202 Arg2:T199	
+R107	org_founded_by Arg1:T204 Arg2:T199	
+R108	per_title Arg1:T206 Arg2:T207	
+R109	per_title Arg1:T209 Arg2:T208	
+R110	per_employee_of Arg1:T210 Arg2:T208	
+R111	per_title Arg1:T213 Arg2:T212	
+R112	per_employee_of Arg1:T215 Arg2:T212	
+R113	per_title Arg1:T218 Arg2:T216	
+R114	per_title Arg1:T220 Arg2:T219	
+R115	per_title Arg1:T222 Arg2:T221	
+R116	org_alternate_names Arg1:T22 Arg2:T229	
+R117	org_department Arg1:T83 Arg2:T81	
+R118	org_department Arg1:T84 Arg2:T81	
+R119	org_department Arg1:T85 Arg2:T81	
+R120	org_department Arg1:T86 Arg2:T81	
+R121	org_department Arg1:T87 Arg2:T81	
+R122	org_department Arg1:T1 Arg2:T100	
+R123	org_department Arg1:T25 Arg2:T104	
+R124	per_employee_of Arg1:T83 Arg2:T82	
+R125	per_employee_of Arg1:T84 Arg2:T82	
+R126	per_employee_of Arg1:T85 Arg2:T82	
+R127	per_employee_of Arg1:T86 Arg2:T82	
+R128	per_employee_of Arg1:T87 Arg2:T82	
+R129	per_employee_of Arg1:T136 Arg2:T129	
+R130	per_employee_of Arg1:T150 Arg2:T148	
+R131	per_employee_of Arg1:T151 Arg2:T148	
+T9991	TITLE-ner 93 102	Principal
+T9992	GEOPOLITICAL-ner 307 311	Join
+T9993	DATE-ner 394 400	Year 9
+T9994	TITLE-ner 449 454	Cadet
+T9995	DATE-ner 616 622	Year 9
+T9996	TITLE-ner 915 924	Principal
+T9997	DATE-ner 1204 1210	Year 9
+T9998	DATE-ner 1234 1241	Year 10
+T9999	TITLE-ner 1259 1264	Cadet
+T99910	GEOPOLITICAL-ner 1338 1348	Curriculum
+T99911	GEOPOLITICAL-ner 1406 1411	Trips
+T99912	DATE-ner 1443 1460	Year 9 Admissions
+T99913	DATE-ner 1483 1489	Year 9
+T99914	GEOPOLITICAL-ner 1568 1573	Trips
+T99915	ORG-ner 1607 1619	Armed Forces
+T99916	GEOPOLITICAL-ner 1712 1716	View
+T99917	DATE-ner 1816 1822	Year 8
+T99918	ORG-ner 1839 1862	Engineering and Science
+T99919	DATE-ner 1925 1952	Thursday 12th November 2020
+T99920	DATE-ner 1988 1995	Year 11
+T99921	ORG-ner 2012 2053	Engineering, Science, Health and Business
+T99922	DATE-ner 2078 2085	Year 12
+T99923	DATE-ner 2117 2144	Thursday 19th November 2020
+T99924	ORG-ner 2168 2172	AUEA
+T99925	DATE-ner 2191 2203	October half
+T99926	DATE-ner 2214 2247	19th October to 30th October 2020
+T99927	DATE-ner 2266 2290	Monday 2nd November 2020
+T99928	NATIONALITY-ner 2336 2342	Groups
+T99929	NAME-ner 2671 2683	Daniel Locke
+T99930	TITLE-ner 2692 2701	Principal
+T99931	EMAIL-ner 2702 2724	principalpa@auea.co.uk
+T99932	DATE-ner 2734 2738	1541
+T99933	NAME-ner 2739 2752	Rachael Grant
+T99934	TITLE-ner 2776 2783	Officer
+T99935	EMAIL-ner 2784 2808	rachael.grant@auea.co.uk
+T99936	NAME-ner 2824 2839	Michael Coulson
+T99937	TITLE-ner 2848 2854	Leader
+T99938	EMAIL-ner 2878 2904	michael.coulson@auea.co.uk
+T99939	NAME-ner 2943 2953	Neil Scott
+T99940	TITLE-ner 2954 2977	Chief Operating Officer
+T99941	ORG-ner 2979 2995	Aston University
+T99942	ORG-ner 3015 3030	Governing Board
+T99943	NAME-ner 3045 3055	Neil Scott
+T99944	TITLE-ner 3063 3086	Chief financial Officer
+T99945	ORG-ner 3091 3096	Aston
+T99946	TITLE-ner 3121 3130	executive
+T99947	ORG-ner 3150 3174	Staffordshire University
+T99948	ORG-ner 3176 3201	Wyvale Garden Centres plc
+T99949	ORG-ner 3203 3210	Marston
+T99950	ORG-ner 3212 3235	Thompson & Evershed plc
+T99951	ORG-ner 3244 3262	Ford Motor Company
+T99952	ORG-ner 3274 3279	Aston
+T99953	ORG-ner 3289 3307	University of Hull
+T99954	TITLE-ner 3327 3342	Finance Officer
+T99955	NAME-ner 3344 3348	Neil
+T99956	TITLE-ner 3404 3412	Director
+T99957	TITLE-ner 3417 3426	Treasurer
+T99958	ORG-ner 3434 3488	Environmental Association of Universities and Colleges
+T99959	ORG-ner 3490 3494	EAUC
+T99960	TITLE-ner 3502 3514	board member
+T99961	ORG-ner 3522 3567	British Universities Finance Directors’ Group
+T99962	TITLE-ner 3627 3636	associate
+T99963	ORG-ner 3644 3689	Chartered Institute of Management Accountants
+T99964	NAME-ner 3694 3704	Iain Roche
+T99965	TITLE-ner 3705 3709	Head
+T99966	TITLE-ner 3754 3762	Director
+T99967	NAME-ner 3783 3793	Iain Roche
+T99968	ORG-ner 3801 3808	HS2 Ltd
+T99969	TITLE-ner 3812 3816	Head
+T99970	DATE-ner 3834 3848	September 2015
+T99971	ORG-ner 3890 3905	Rolls-Royce Plc
+T99972	NAME-ner 3979 3983	Iain
+T99973	LOCATION-ner 4068 4074	Europe
+T99974	LOCATION-ner 4079 4094	the Middle East
+T99975	NAME-ner 4505 4509	Iain
+T99976	ORG-ner 4557 4580	Loughborough University
+T99977	ORG-ner 4604 4650	institute of Innovation and Knowledge Exchange
+T99978	ORG-ner 4652 4656	FIKE
+T99979	ORG-ner 4674 4677	NEF
+T99980	NAME-ner 4701 4712	John Walter
+T99981	TITLE-ner 4713 4721	Director
+T99982	ORG-ner 4737 4753	Aston University
+T99983	NAME-ner 4754 4758	John
+T99984	ORG-ner 4912 4919	Council
+T99985	ORG-ner 4945 4960	Audit Committee
+T99986	ORG-ner 4974 5014	Major Projects and Nominations Committee
+T99987	ORG-ner 5021 5027	Senate
+T99988	ORG-ner 5036 5050	Executive Team
+T99989	TITLE-ner 5063 5072	secretary
+T99990	ORG-ner 5080 5094	Governing Body
+T99991	ORG-ner 5102 5107	Aston
+T99992	ORG-ner 5108 5138	University Engineering Academy
+T99993	ORG-ner 5150 5178	Leadership and Finance Forum
+T99994	NAME-ner 5180 5184	John
+T99995	NAME-ner 5279 5283	John
+T99996	TITLE-ner 5302 5308	member
+T99997	ORG-ner 5329 5354	Research Ethics Committee
+T99998	NAME-ner 5356 5360	John
+T99999	TITLE-ner 5367 5373	member
+T999100	ORG-ner 5381 5385	AUEA
+T999101	ORG-ner 5398 5403	Board
+T999102	GEOPOLITICAL-ner 5460 5463	UTC
+T999103	ORG-ner 5467 5483	Aston University
+T999104	NAME-ner 5488 5499	Paul Harper
+T999105	TITLE-ner 5500 5508	Lecturer
+T999106	ORG-ner 5510 5514	SEAS
+T999107	ORG-ner 5516 5532	Aston University
+T999108	NAME-ner 5533 5537	Paul
+T999109	ORG-ner 5569 5574	Aston
+T999110	DATE-ner 5578 5582	1994
+T999111	TITLE-ner 5588 5599	PhD student
+T999112	DATE-ner 5650 5664	the early days
+T999113	ORG-ner 5705 5729	Photonics Research Group
+T999114	DATE-ner 5751 5755	1997
+T999115	DATE-ner 5806 5814	May 2002
+T999116	NAME-ner 5940 5944	Paul
+T999117	TITLE-ner 5951 5978	Senior Development Engineer
+T999118	NAME-ner 6136 6143	Marconi
+T999119	TITLE-ner 6163 6175	Test Manager
+T999120	NAME-ner 6177 6181	Paul
+T999121	TITLE-ner 6187 6202	founding member
+T999122	ORG-ner 6206 6212	AUEA's
+T999123	ORG-ner 6247 6253	AUEA's
+T999124	ORG-ner 6254 6272	Disciplinary Board
+T999125	DATE-ner 6279 6283	2012
+T999126	NAME-ner 6288 6300	Colin Parker
+T999127	TITLE-ner 6301 6311	Headmaster
+T999128	ORG-ner 6313 6340	King Edward VI Aston School
+T999129	GEOPOLITICAL-ner 6342 6352	Birmingham
+T999130	NATIONALITY-ner 6370 6377	Masters
+T999131	NAME-ner 6439 6444	Colin
+T999132	TITLE-ner 6587 6597	Headmaster
+T999133	TITLE-ner 6601 6605	King
+T999134	TITLE-ner 6640 6648	Chairman
+T999135	ORG-ner 6696 6702	Ofsted
+T999136	TITLE-ner 6703 6712	inspector
+T999137	ORG-ner 6745 6769	Department for Education
+T999138	NAME-ner 6816 6829	Tracey Linton
+T999139	TITLE-ner 6830 6838	Governor
+T999140	TITLE-ner 6841 6845	Lead
+T999141	NAME-ner 6863 6869	Tracey
+T999142	ORG-ner 6891 6914	Birmingham City Council
+T999143	DATE-ner 6919 6932	over 25 years
+T999144	DATE-ner 6987 6998	early years
+T999145	DATE-ner 7096 7111	the Early Years
+T999146	NAME-ner 7136 7142	Tracey
+T999147	TITLE-ner 7147 7151	lead
+T999148	DATE-ner 7425 7435	4 year old
+T999149	NAME-ner 7468 7474	Tracey
+T999150	DATE-ner 7555 7566	early years
+T999151	ORG-ner 7680 7704	Local Safeguarding Board
+T999152	ORG-ner 7706 7735	Early Help and Family Support
+T999153	ORG-ner 7746 7752	Ofsted
+T999154	NAME-ner 7821 7834	Peter Hazzard
+T999155	TITLE-ner 7835 7851	Senior Associate
+T999156	NAME-ner 7861 7874	Peter Hazzard
+T999157	TITLE-ner 7876 7894	Associate Director
+T999158	NAME-ner 7906 7911	Peter
+T999159	TITLE-ner 7927 7953	Mechanical Design Engineer
+T999160	DATE-ner 7959 7967	29 years
+T999161	NAME-ner 8190 8195	Peter
+T999162	DATE-ner 8425 8429	2016
+T999163	GEOPOLITICAL-ner 8458 8468	Birmingham
+T999164	ORG-ner 8483 8487	AUEA
+T999165	NAME-ner 8921 8926	Peter
+T999166	ORG-ner 8946 8973	University of Hertfordshire
+T999167	DATE-ner 8977 8981	1996
+T999168	ORG-ner 9003 9032	Building Services Engineering
+T999169	DATE-ner 9038 9042	2005
+T999170	ORG-ner 9125 9146	DeMontfort University
+T999171	DATE-ner 9162 9166	2008
+T999172	TITLE-ner 9193 9199	Member
+T999173	ORG-ner 9203 9208	CIBSE
+T999174	TITLE-ner 9228 9236	Engineer
+T999175	NAME-ner 9238 9256	Richard Billingham
+T999176	ORG-ner 9269 9302	HR and Organisational Development
+T999177	ORG-ner 9304 9320	Aston University
+T999178	NAME-ner 9321 9339	Richard Billingham
+T999179	ORG-ner 9359 9392	HR and Organisational Development
+T999180	ORG-ner 9396 9412	Aston University
+T999181	GEOPOLITICAL-ner 9530 9532	UK
+T999182	TITLE-ner 9614 9623	executive
+T999183	ORG-ner 9704 9709	Aston
+T999184	ORG-ner 9715 9735	Bristol City Council
+T999185	ORG-ner 9761 9787	Human Resources and Change
+T999186	NAME-ner 9789 9796	Richard
+T999187	NAME-ner 10079 10090	Richard Toy
+T999188	TITLE-ner 10091 10094	CEO
+T999189	ORG-ner 10098 10129	Auctus Management Group Limited
+T999190	NAME-ner 10130 10137	Richard
+T999191	DATE-ner 10219 10223	1987
+T999192	DATE-ner 10235 10243	10 years
+T999193	TITLE-ner 10247 10264	Regional Director
+T999194	ORG-ner 10293 10306	Carillion Plc
+T999195	DATE-ner 10362 10369	9 years
+T999196	DATE-ner 10422 10430	May 2012
+T999197	NAME-ner 10432 10439	Richard
+T999198	ORG-ner 10447 10470	Auctus Management Group
+T999199	ORG-ner 10482 10507	Rail Safety Solutions Ltd
+T999200	ORG-ner 10509 10512	RSS
+T999201	TITLE-ner 10529 10539	contractor
+T999202	ORG-ner 10589 10618	Auctus Training Solutions Ltd
+T999203	ORG-ner 10683 10687	NEET
+T999204	TITLE-ner 10753 10765	entrepreneur
+T999205	NAME-ner 10767 10774	Richard
+T999206	NAME-ner 10925 10934	Aman Gill
+T999207	NAME-ner 10935 10941	Knobbs
+T999208	TITLE-ner 10942 10964	Director of Operations
+T999209	ORG-ner 10965 11007	College of Engineering & Physical Sciences
+T999210	ORG-ner 11008 11024	Aston University
+T999211	NAME-ner 11028 11043	Antonio Fratini
+T999212	TITLE-ner 11044 11059	Senior Lecturer
+T999213	ORG-ner 11063 11085	Biomedical Engineering
+T999214	ORG-ner 11087 11121	School of Life and Health Sciences
+T999215	NAME-ner 11122 11133	Sarah Plumb
+T999216	TITLE-ner 11141 11149	Governor
+T999217	NAME-ner 11150 11160	Lee Harvey
+T999218	TITLE-ner 11168 11176	Governor
+T999219	NAME-ner 11177 11188	Mandy  Ross
+T999220	TITLE-ner 11189 11198	Associate
+T999221	TITLE-ner 11210 11218	Governor
+T999222	TITLE-ner 11235 11244	Principal
+T999223	GEOPOLITICAL-ner 11448 11452	Join
+T999224	DATE-ner 11535 11541	Year 9
+T999225	TITLE-ner 11590 11595	Cadet
+T999226	DATE-ner 12042 12046	2020
+T999227	ORG-ner 12047 12083	Aston University Engineering Academy

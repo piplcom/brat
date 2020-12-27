@@ -1,0 +1,141 @@
+T1	ORG 82 107	Eileen Murphy Consultants
+T5	ORG 675 700	Eileen Murphy Consultants
+T12	NAME 1661 1674	Eileen Murphy
+T13	NAME 1676 1689	Eileen Murphy
+T18	NAME 1955 1961	Eileen
+T19	NAME 2195 2201	Eileen
+T23	TITLE 2351 2370	Social Work Manager
+T25	NAME 2488 2494	Mawuli
+T27	NAME 2669 2675	Mawuli
+T29	NAME 2795 2806	Kevin Foley
+T30	TITLE 2841 2847	Author
+T31	NAME 2870 2875	Kevin
+T34	NAME 3023 3028	Kevin
+T38	TITLE 3209 3216	trainer
+T39	NAME 3286 3291	Kevin
+T40	ORG 3404 3431	Nottingham Trent University
+T41	NAME 3433 3443	Sean Foley
+T44	NAME 3490 3494	Sean
+T48	NAME 3676 3680	Sean
+T49	NAME 3890 3894	Sean
+T52	NAME 4337 4341	Sean
+T53	TITLE 4353 4363	Consultant
+T54	NAME 4422 4434	Tony Attwood
+T57	NAME 4954 4969	Jamie Greenwood
+T58	TITLE 4971 4997	Skills Development Advisor
+T63	ORG 5205 5208	NHS
+T81	NAME 6888 6899	Liz Perfect
+T82	TITLE 6902 6931	Priority Families Coordinator
+T84	ORG 6978 6996	Derby City Council
+T86	NAME 7079 7093	Rebecca Reeves
+T87	TITLE 7096 7127	Intensive Family Support Worker
+T90	NAME 7202 7215	Eileen Murphy
+T91	NAME 7680 7694	Rachel McManus
+T92	TITLE 7696 7726	Senior Lecturer in Social Work
+T94	ORG 7728 7748	Sheffield University
+T96	NAME 7798 7811	Eileen Murphy
+T100	NAME 8749 8764	Cathrine Silver
+T101	TITLE 8766 8788	Manager, On Track Team
+T109	NAME 9523 9533	Pat Lalley
+T110	TITLE 9535 9549	Assistant Head
+T115	NAME 10050 10063	Julie Deaking
+T116	TITLE 10065 10080	Learning Mentor
+T117	ORG 10081 10117	Freeston Business Enterprise College
+T118	NAME 10340 10351	Felix Kupay
+T120	ORG 10714 10717	NHS
+T122	NAME 10943 10954	Kath Randle
+T123	ORG 10961 10989	Community Mental Health Team
+T125	NAME 11142 11152	Joan Marsh
+T127	NAME 11518 11524	Eileen
+T128	NAME 11629 11648	Paul Thomas Chester
+T129	ORG 11650 11673	Young Offending Service
+T132	PLATFORM 11912 11920	Facebook
+T133	PLATFORM 11960 11969	Pinterest
+T134	PLATFORM 11987 11995	LinkedIn
+T144	NAME 13351 13364	Aneurin Bevan
+T145	NAME 13423 13432	Tony Benn
+T146	PLATFORM 13640 13647	Twitter
+T148	PLATFORM 13679 13686	Twitter
+T149	PLATFORM 13715 13722	Twitter
+T150	PLATFORM 13963 13970	Twitter
+T152	PLATFORM 14002 14009	Twitter
+T154	PLATFORM 14038 14045	Twitter
+T6	ORG 1608 1633	Eileen Murphy Consultants
+T8	ORG 1700 1711	Consultancy
+T10	ORG 1986 1997	Consultancy
+T11	NAME 2322 2334	Mawuli Amesu
+T14	ORG 2707 2718	Consultancy
+T17	TITLE 3192 3204	practitioner
+T20	ORG 3457 3468	Consultancy
+T21	ORG 4999 5012	E2E, Barnsley
+T22	ORG 5095 5120	Eileen Murphy Consultants
+T24	ORG 6418 6443	Eileen Murphy Consultants
+T32	ORG 7129 7147	Derby City Council
+T33	ORG 8790 8822	Rhondda Cynon Taf County Council
+T35	ORG 9551 9590	St Cuthberts Catholic Community College
+T36	DEPARTMENT 10353 10367	Housing Office
+T37	ORG 10369 10406	Solihull Metropolitan Borough Council
+T42	TITLE 10956 10959	CPN
+T43	TITLE 11154 11178	Therapeutic Co-ordinator
+T45	ORG 11180 11201	Royal Oldham Hospital
+T46	ORG 11271 11301	West Midlands Police Authority
+T47	PLATFORM 11938 11945	Twitter
+T50	PLATFORM 12011 12015	Digg
+T51	ORG 12615 12640	Eileen Murphy Consultants
+T55	ORG 12690 12715	Eileen Murphy Consultants
+T56	ORG 12947 12972	Eileen Murphy Consultants
+T59	ORG 13327 13344	Kingston Hospital
+T3	DEPARTMENT 6933 6955	Commissioning Division
+R1	org_founded_by Arg1:T12 Arg2:T6	
+R2	org_founded_by Arg1:T8 Arg2:T13	
+R3	per_alternate_names Arg1:T18 Arg2:T13	
+R4	org_alternate_names Arg1:T8 Arg2:T6	
+R5	per_employee_of Arg1:T10 Arg2:T18	
+R6	per_title Arg1:T23 Arg2:T11	
+R7	per_alternate_names Arg1:T25 Arg2:T11	
+R8	per_employee_of Arg1:T14 Arg2:T27	
+R9	per_title Arg1:T30 Arg2:T29	
+R10	per_alternate_names Arg1:T31 Arg2:T29	
+R11	per_title Arg1:T17 Arg2:T34	
+R12	per_title Arg1:T38 Arg2:T34	
+R13	per_employee_of Arg1:T40 Arg2:T39	
+R14	per_employee_of Arg1:T20 Arg2:T41	
+R15	per_alternate_names Arg1:T44 Arg2:T41	
+R16	per_title Arg1:T53 Arg2:T52	
+T2	TITLE 4440 4475	world’s leading expert on Aspergers
+R17	per_title Arg1:T2 Arg2:T54	
+R18	per_title Arg1:T58 Arg2:T57	
+R19	per_employee_of Arg1:T21 Arg2:T57	
+R20	per_title Arg1:T82 Arg2:T81	
+R21	org_department Arg1:T3 Arg2:T84	
+R22	per_employee_of Arg1:T84 Arg2:T81	
+R23	per_title Arg1:T87 Arg2:T86	
+R24	per_employee_of Arg1:T32 Arg2:T86	
+R25	per_title Arg1:T92 Arg2:T91	
+R26	per_employee_of Arg1:T94 Arg2:T91	
+R27	per_title Arg1:T101 Arg2:T100	
+R28	per_employee_of Arg1:T33 Arg2:T100	
+R29	per_title Arg1:T110 Arg2:T109	
+R30	per_employee_of Arg1:T35 Arg2:T109	
+R31	per_title Arg1:T116 Arg2:T115	
+R32	per_employee_of Arg1:T117 Arg2:T115	
+R33	org_department Arg1:T36 Arg2:T37	
+R34	per_employee_of Arg1:T37 Arg2:T118	
+R35	per_title Arg1:T42 Arg2:T122	
+R36	per_employee_of Arg1:T123 Arg2:T122	
+R37	per_title Arg1:T43 Arg2:T125	
+R38	per_employee_of Arg1:T45 Arg2:T125	
+R39	per_employee_of Arg1:T129 Arg2:T128	
+T4	EMAIL 735 760	info@brief-therapy-uk.com
+T7	PHONE 761 774	0208 947 8093
+T9	PHONE 775 788	07779 242 289
+R40	phone_email Arg1:T4 Arg2:T7	
+R41	phone_email Arg1:T4 Arg2:T9	
+R42	org_email Arg1:T4 Arg2:T5	
+R43	org_phone Arg1:T9 Arg2:T5	
+R44	org_phone Arg1:T7 Arg2:T5	
+T15	PHONE 12933 12946	07779 242 289
+T16	EMAIL 12898 12923	info@brief-therapy-uk.com
+R45	phone_email Arg1:T15 Arg2:T16	
+R46	org_email Arg1:T16 Arg2:T55	
+R47	org_phone Arg1:T15 Arg2:T55	

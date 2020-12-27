@@ -1,0 +1,81 @@
+T1	ORG 208 221	Team Business
+T2	ORG 515 528	Team Business
+T3	ORG 1095 1108	Team Business
+T4	TITLE 1283 1293	instructor
+T5	ORG 1295 1308	Team Business
+T6	ORG 1482 1495	Team Business
+T7	NAME 1760 1772	David Banner
+T8	ORG 1775 1795	Dartmouth University
+T9	ORG 1812 1825	Team Business
+T10	NAME 2171 2193	Patricia Hayling Price
+T13	ORG 2437 2450	Team Business
+T15	NAME 2560 2575	Anne Greenhalgh
+T16	ORG 2578 2596	The Wharton School
+T17	ORG 2598 2624	University of Pennsylvania
+T18	NAME 2647 2657	Lara Azzam
+T19	TITLE 2658 2667	President
+T20	ORG 2669 2682	Team Business
+T21	NAME 2683 2693	Lara Azzam
+T22	TITLE 2698 2710	entrepreneur
+T24	NAME 3066 3070	Lara
+T25	ORG 3079 3092	Team Business
+T27	NAME 3195 3199	Lara
+T28	ORG 3218 3221	The
+T29	ORG 3222 3236	Wharton School
+T30	ORG 3281 3301	The Lauder Institute
+T31	NAME 3303 3322	André Van Der Bergh
+T32	TITLE 3323 3337	Vice President
+T33	ORG 3351 3364	Team Business
+T34	TITLE 3401 3412	facilitator
+T35	ORG 3416 3429	Team Business
+T36	NAME 3440 3445	André
+T41	NAME 3617 3622	André
+T42	NAME 3833 3838	André
+T43	ORG 3890 3903	Team Business
+T44	TITLE 3933 3944	facilitator
+T9991	ORG-ner 208 221	Team Business
+T9992	ORG-ner 515 528	Team Business
+T9993	TITLE-ner 1283 1293	instructor
+T9994	ORG-ner 1295 1308	Team Business
+T9995	ORG-ner 1487 1495	Business
+T9996	NAME-ner 1760 1772	David Banner
+T9997	ORG-ner 1775 1795	Dartmouth University
+T9998	ORG-ner 1812 1825	Team Business
+T9999	NAME-ner 2171 2193	Patricia Hayling Price
+T99910	DATE-ner 2222 2230	Tomorrow
+T99911	DATE-ner 2280 2286	summer
+T99912	ORG-ner 2437 2450	Team Business
+T99913	HONORIFIC-ner 2556 2559	Dr.
+T99914	NAME-ner 2560 2575	Anne Greenhalgh
+T99915	ORG-ner 2578 2596	The Wharton School
+T99916	ORG-ner 2598 2624	University of Pennsylvania
+T99917	ORG-ner 2632 2645	Team Business
+T99918	NAME-ner 2647 2657	Lara Azzam
+T99919	TITLE-ner 2658 2667	President
+T99920	ORG-ner 2669 2682	Team Business
+T99921	NAME-ner 2683 2693	Lara Azzam
+T99922	TITLE-ner 2698 2710	entrepreneur
+T99923	DATE-ner 2796 2804	25+ year
+T99924	NAME-ner 3066 3070	Lara
+T99925	ORG-ner 3079 3092	Team Business
+T99926	DATE-ner 3096 3100	2002
+T99927	NAME-ner 3195 3199	Lara
+T99928	ORG-ner 3218 3236	The Wharton School
+T99929	ORG-ner 3281 3301	The Lauder Institute
+T99930	NAME-ner 3303 3322	André Van Der Bergh
+T99931	TITLE-ner 3323 3337	Vice President
+T99932	ORG-ner 3351 3364	Team Business
+T99933	TITLE-ner 3401 3412	facilitator
+T99934	ORG-ner 3416 3429	Team Business
+T99935	NAME-ner 3440 3445	André
+T99936	GEOPOLITICAL-ner 3496 3508	South Africa
+T99937	LOCATION-ner 3513 3528	the Middle East
+T99938	DATE-ner 3533 3551	more than 25 years
+T99939	DATE-ner 3611 3615	1998
+T99940	NAME-ner 3617 3622	André
+T99941	NAME-ner 3833 3838	André
+T99942	ORG-ner 3890 3903	Team Business
+T99943	TITLE-ner 3933 3944	facilitator
+T99944	GEOPOLITICAL-ner 3948 3965	the United States
+T99945	EMAIL-ner 4306 4327	info@teambusiness.com
+T99946	PHONE-ner 4335 4350	+1-410-837-1414

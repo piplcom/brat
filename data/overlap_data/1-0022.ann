@@ -1,0 +1,723 @@
+T2	ADDRESS 17 41;42 63	244 John B. Brooks Road, Pendergrass, GA 30567
+T7	ORG 214 238	Seydel-Woolley & Company
+T9	ORG 275 292	JRS Manufacturing
+T11	ORG 1890 1910	The Seydel Companies
+T12	ORG 2016 2036	The Seydel Companies
+T14	NAME 2080 2097	Scott Seydel, Sr.
+T15	TITLE 2100 2108	Chairman
+T16	TITLE 2111 2135	Chief Innovation Officer
+T17	ORG 2137 2157	The Seydel Companies
+T18	NAME 2158 2170	Scott Seydel
+T19	ORG 2192 2204	Georgia Tech
+T20	TITLE 2231 2237	weaver
+T21	TITLE 2239 2252	loom mechanic
+T22	TITLE 2258 2284	quality control supervisor
+T23	ORG 2298 2323	University of North Texas
+T24	NAME 2400 2405	Scott
+T26	ORG 2477 2497	Seydel International
+T27	NAME 2556 2561	Scott
+T28	ORG 2607 2627	The Seydel Companies
+T32	ORG 3067 3087	The Seydel Companies
+T36	NAME 3511 3516	Scott
+T37	TITLE 3623 3636	Board Trustee
+T39	ORG 3694 3706	Global Green
+T40	TITLE 3719 3733	Board Director
+T41	NAME 3737 3754	Mikhail Gorbachev
+T43	ORG 3803 3819	Elemental Impact
+T44	ORG 3828 3847	GreenBlue Institute
+T45	TITLE 3854 3861	founder
+T46	ORG 3869 3900	Sustainable Packaging Coalition
+T47	TITLE 3918 3930	Board Member
+T48	ORG 3938 3966	National Recycling Coalition
+T49	TITLE 3975 3985	Vice Chair
+T50	ORG 3993 4022	Container Recycling Institute
+T51	NAME 4068 4073	Scott
+T52	ORG 4088 4123	The Coalition for Resource Recovery
+T53	NAME 4126 4131	Scott
+T54	TITLE 4151 4172	Chairman of the Board
+T55	ORG 4177 4201	Georgia State University
+T56	ORG 4204 4220	Robinson College
+T58	ORG 4250 4274	Georgia Hi-Tech Alliance
+T59	ORG 4280 4312	Georgia World Congress Institute
+T60	ORG 4321 4362	Atlanta Chamber’s International Committee
+T63	NAME 4394 4399	Scott
+T64	NAME 4618 4623	Scott
+T65	NAME 4628 4647	Pat Mitchell Seydel
+T69	NAME 4821 4840	Scott O. Seydel, Jr
+T70	TITLE 4844 4859	President & CEO
+T71	NAME 4882 4911	Scott O. Seydel, Jr., “Scotto
+T74	TITLE 4917 4932	President & CEO
+T75	ORG 4936 4956	The Seydel Companies
+T76	ORG 4983 5003	The Seydel Companies
+T78	TITLE 5017 5038	Laboratory Technician
+T79	ORG 5059 5080	University of Georgia
+T80	ORG 5151 5154	UGA
+T81	NAME 5156 5162	Scotto
+T82	ORG 5175 5195	The Seydel Companies
+T83	TITLE 5201 5218	Financial Analyst
+T84	ORG 5262 5290	University of South Carolina
+T85	ORG 5375 5378	USC
+T87	NAME 5416 5422	Scotto
+T89	TITLE 5448 5474	Senior Business Consultant
+T90	ORG 5479 5494	Arthur Andersen
+T91	ORG 5499 5522	PriceWaterhouse Coopers
+T94	TITLE 5739 5757	Marketing Director
+T95	ORG 5766 5789	American Cancer Society
+T96	NAME 5848 5854	Scotto
+T97	TITLE 5890 5899	President
+T98	ORG 5903 5923	The Seydel Companies
+T99	NAME 6088 6092	Tess
+T100	NAME 6120 6132	Fred Wellons
+T101	TITLE 6135 6144	President
+T102	ORG 6146 6165	Chemol Company, Inc
+T103	NAME 6167 6179	Fred Wellons
+T105	TITLE 6210 6225	Process Manager
+T106	TITLE 6230 6238	Engineer
+T108	NAME 6298 6302	Fred
+T109	ORG 6320 6339	Chemol Company, Inc
+T110	ORG 6349 6381	Division of Carolina By-Products
+T112	TITLE 6389 6412	Assistant Plant Manager
+T113	TITLE 6432 6452	Sales Representative
+T114	TITLE 6478 6493	General Manager
+T117	NAME 6523 6527	Fred
+T119	TITLE 6573 6637	Director of QA/QC and Business Development, Governmental Affairs
+T120	ORG 6657 6676	Tellurian Biodiesel
+T121	TITLE 6680 6706	Vice President, Operations
+T123	NAME 6723 6727	Fred
+T124	TITLE 6773 6782	President
+T125	NAME 6784 6788	Fred
+T127	TITLE 6952 6965	Vice-Chairman
+T129	NAME 7453 7465	Graham Marsh
+T130	TITLE 7468 7491	Chief Financial Officer
+T131	ORG 7493 7513	The Seydel Companies
+T132	NAME 7514 7526	Graham Marsh
+T135	TITLE 7578 7588	Accountant
+T137	TITLE 7640 7660	Corporate Controller
+T138	ORG 7665 7680	FEB Middle East
+T144	NAME 7811 7817	Graham
+T145	ORG 7825 7845	The Seydel Companies
+T146	TITLE 7851 7871	Financial Controller
+T147	ORG 7901 7907	Seydel
+T148	NAME 7909 7915	Graham
+T149	NAME 8161 8167	Graham
+T150	TITLE 8178 8181	CFO
+T153	NAME 8225 8236	Dave Grillo
+T154	TITLE 8239 8253	Vice President
+T155	TITLE 8256 8271	General Manager
+T156	ORG 8273 8292	Chemol Company, Inc
+T157	NAME 8294 8305	Dave Grillo
+T158	TITLE 8327 8359	Director of Business Development
+T162	TITLE 8465 8479	Vice President
+T163	TITLE 8482 8497	General Manager
+T164	NAME 8513 8517	Dave
+T165	NAME 8679 8683	Dave
+T166	ORG 8695 8719	Twin Rivers Technologies
+T167	ORG 8721 8736	Inolex Chemical
+T168	ORG 8742 8754	Mallinckrodt
+T171	NAME 8855 8859	Dave
+T172	ORG 8900 8917	Lehigh University
+T173	ORG 8931 8948	Lehigh University
+T174	ORG 8989 9009	Villanova University
+T175	NAME 9011 9015	Dave
+T176	TITLE 9022 9035	active member
+T177	ORG 9085 9125	American Institute of Chemical Engineers
+T178	ORG 9127 9169	National Society of Professional Engineers
+T179	ORG 9171 9200	American Oil Chemists Society
+T180	ORG 9202 9230	Society of Cosmetic Chemists
+T181	ORG 9240 9289	Society of Tribologists and Lubrication Engineers
+T182	NAME 9305 9317	Nathan Evans
+T183	TITLE 9320 9343	Vice President of Sales
+T184	ORG 9345 9369	Seydel-Woolley & Company
+T185	NAME 9370 9382	Nathan Evans
+T186	ORG 9405 9425	The Seydel Companies
+T190	NAME 9570 9576	Nathan
+T191	ORG 9599 9619	The Seydel Companies
+T192	TITLE 9625 9646	Laboratory Technician
+T193	ORG 9670 9689	Gainesville College
+T195	NAME 9736 9742	Nathan
+T196	TITLE 9752 9782	Technical Sales Representative
+T197	TITLE 9809 9831	National Sales Manager
+T198	NAME 9833 9839	Nathan
+T199	ORG 9892 9932	North Georgia College & State University
+T200	NAME 9934 9947	Isaiah Norris
+T201	TITLE 9950 9982	Director, Research & Development
+T202	NAME 9983 9989	Isaiah
+T203	ORG 10012 10032	The Seydel Companies
+T205	ORG 10067 10088	University of Georgia
+T208	ORG 10452 10458	Seydel
+T209	NAME 10460 10466	Isaiah
+T210	NAME 10647 10656	Jon Kline
+T211	TITLE 10659 10672	Plant Manager
+T212	ORG 10674 10693	Chemol Company, Inc
+T213	NAME 10695 10704	Jon Kline
+T214	TITLE 10735 10761	third shift Lab Technician
+T216	NAME 10794 10797	Jon
+T217	TITLE 10858 10881	Quality Control Manager
+T218	TITLE 10883 10901	Laboratory Manager
+T219	TITLE 10903 10922	Maintenance Manager
+T220	TITLE 10924 10942	Production Manager
+T221	TITLE 10971 10984	Plant Manager
+T222	NAME 10986 10990	John
+T223	ORG 11019 11025	Chemol
+T224	NAME 11072 11075	Jon
+T225	ORG 11120 11144	University of Pittsburgh
+T226	NAME 11146 11160	William Newlin
+T227	TITLE 11163 11184	Environmental Manager
+T228	ORG 11186 11205	Chemol Company, Inc
+T229	NAME 11207 11221	William Newlin
+T231	TITLE 11250 11273	Quality Control Manager
+T232	TITLE 11284 11297	Plant Manager
+T233	ORG 11302 11318	Siler City Mills
+T234	ORG 11324 11342	Chatham Industries
+T236	NAME 11426 11433	William
+T237	TITLE 11453 11475	Production Coordinator
+T238	TITLE 11502 11520	Production Manager
+T240	NAME 11626 11633	William
+T241	TITLE 11650 11668	Purchasing Manager
+T245	TITLE 11772 11793	Environmental Manager
+T247	NAME 11854 11861	William
+T249	ORG 11941 11972	North Carolina State University
+T251	NAME 11982 11997	Rita Crosswhite
+T252	TITLE 12000 12025	Manager, Customer Service
+T253	NAME 12026 12041	Rita Crosswhite
+T254	ORG 12064 12078	Seydel-Woolley
+T255	ORG 12093 12108	AZS Corporation
+T257	TITLE 12123 12149	customer service associate
+T258	ORG 12157 12160	AZS
+T259	ORG 12177 12197	The Seydel Companies
+T261	NAME 12207 12211	Rita
+T262	TITLE 12228 12252	Customer Service Manager
+T263	NAME 12254 12258	Rita
+T265	ORG 12399 12405	Seydel
+T266	NAME 12407 12411	Rita
+T267	NAME 12541 12545	Rita
+T268	NAME 12621 12634	Karee Bullock
+T269	TITLE 12637 12661	Manager, Human Resources
+T271	NAME 12662 12675	Karee Bullock
+T272	ORG 12698 12718	The Seydel Companies
+T274	TITLE 12736 12748	receptionist
+T275	TITLE 12753 12775	accounts payable clerk
+T282	ORG 13135 13141	Seydel
+T285	PLATFORM 13451 13459	Facebook
+T286	PLATFORM 13460 13468	Linkedin
+T289	ADDRESS 13575 13599;13600 13621	244 John B. Brooks Road, Pendergrass, GA 30567
+T293	ORG 13716 13740	The Seydel Companies Inc
+T1	ORG 239 253	Chemol Company
+T3	ORG 254 274	Seydel International
+T4	ORG 3152 3161	Toyo Soda
+T5	ORG 3171 3189	Reynolds Chemicals
+T6	ORG 3199 3214	Valley Proteins
+T8	ORG 3644 3673	Ellen MacArthur Foundation US
+T10	ORG 3757 3768	Green Cross
+T13	TITLE 3785 3799	chair emeritus
+T25	ORG 4222 4244	the metro Atlanta YMCA
+T29	ORG 4861 4881	The Seydel Companies
+T30	ORG 6273 6287	Ralston Purina
+T31	ORG 6533 6539	Chemol
+T33	ORG 6548 6565	Baker Commodities
+T34	ORG 6750 6756	Chemol
+T35	TITLE 6970 6979	Secretary
+T38	ORG 6987 7011	National Biodiesel Board
+T42	TITLE 7013 7022	Secretary
+T57	ORG 7030 7072	Industrial Specialty Chemicals Association
+T61	ORG 7090 7096	Chemol
+T62	ORG 7106 7136	National Renderers Association
+T66	ORG 7141 7174	Fats Proteins Research Foundation
+T67	NAME 7190 7194	Fred
+T68	ORG 7264 7294	California Air Resources Board
+T72	ORG 7303 7337	US Environmental Protection Agency
+T73	NAME 7339 7343	Fred
+T77	ORG 7420 7451	North Carolina State University
+T86	ORG 7593 7619	FEB Construction Chemicals
+T88	ORG 8313 8319	Chemol
+T92	ORG 8567 8573	Chemol
+T93	ORG 8671 8677	Chemol
+T104	ORG 10723 10729	Chemol
+T107	ORG 11441 11447	Chemol
+T111	ORG 11641 11647	Chemol
+R1	org_parents Arg1:T11 Arg2:T9	
+R2	org_parents Arg1:T11 Arg2:T3	
+R3	org_parents Arg1:T11 Arg2:T1	
+R4	org_parents Arg1:T11 Arg2:T7	
+R5	per_title Arg1:T15 Arg2:T14	
+R6	per_title Arg1:T16 Arg2:T14	
+R7	per_employee_of Arg1:T17 Arg2:T14	
+R8	per_alternate_names Arg1:T18 Arg2:T14	
+R9	per_schools_attended Arg1:T19 Arg2:T18	
+R10	per_title Arg1:T20 Arg2:T18	
+R11	per_title Arg1:T21 Arg2:T18	
+R12	per_title Arg1:T22 Arg2:T18	
+R13	per_schools_attended Arg1:T23 Arg2:T18	
+R14	per_alternate_names Arg1:T24 Arg2:T18	
+R15	org_founded_by Arg1:T24 Arg2:T26	
+R16	org_founded_by Arg1:T27 Arg2:T28	
+R17	org_address Arg1:T289 Arg2:T293	
+R18	org_subsidiaries Arg1:T4 Arg2:T32	
+R19	org_subsidiaries Arg1:T5 Arg2:T32	
+R20	org_subsidiaries Arg1:T6 Arg2:T32	
+R21	per_title Arg1:T37 Arg2:T36	
+R22	per_employee_of Arg1:T8 Arg2:T36	
+R23	per_employee_of Arg1:T39 Arg2:T36	
+R24	per_title Arg1:T40 Arg2:T36	
+R25	per_employee_of Arg1:T10 Arg2:T36	
+R26	per_title Arg1:T13 Arg2:T36	
+R27	per_employee_of Arg1:T43 Arg2:T36	
+R28	per_employee_of Arg1:T44 Arg2:T36	
+R29	per_title Arg1:T45 Arg2:T36	
+R30	org_founded_by Arg1:T46 Arg2:T36	
+R31	per_title Arg1:T47 Arg2:T36	
+R32	per_employee_of Arg1:T48 Arg2:T36	
+R33	per_title Arg1:T49 Arg2:T36	
+R34	per_employee_of Arg1:T50 Arg2:T36	
+R35	per_title Arg1:T54 Arg2:T53	
+R37	org_subsidiaries Arg1:T56 Arg2:T55	
+R38	per_employee_of Arg1:T25 Arg2:T53	
+R39	per_employee_of Arg1:T56 Arg2:T53	
+R36	per_employee_of Arg1:T58 Arg2:T53	
+R40	per_employee_of Arg1:T59 Arg2:T53	
+R41	per_employee_of Arg1:T60 Arg2:T53	
+R42	per_spouse Arg1:T65 Arg2:T64	
+R43	per_title Arg1:T70 Arg2:T69	
+R44	per_employee_of Arg1:T29 Arg2:T69	
+R45	per_alternate_names Arg1:T71 Arg2:T69	
+R46	per_title Arg1:T74 Arg2:T71	
+R47	per_employee_of Arg1:T75 Arg2:T71	
+R48	per_title Arg1:T78 Arg2:T71	
+R49	per_schools_attended Arg1:T79 Arg2:T71	
+R50	per_schools_attended Arg1:T80 Arg2:T71	
+R51	per_alternate_names Arg1:T81 Arg2:T71	
+R52	per_title Arg1:T83 Arg2:T71	
+R53	per_employee_of Arg1:T76 Arg2:T71	
+R54	per_employee_of Arg1:T82 Arg2:T71	
+R55	per_schools_attended Arg1:T84 Arg2:T71	
+R56	per_title Arg1:T89 Arg2:T87	
+R57	per_employee_of Arg1:T90 Arg2:T87	
+R58	per_employee_of Arg1:T91 Arg2:T87	
+R59	per_title Arg1:T94 Arg2:T87	
+R60	per_employee_of Arg1:T95 Arg2:T87	
+R61	per_title Arg1:T97 Arg2:T96	
+R62	per_employee_of Arg1:T98 Arg2:T96	
+R63	per_spouse Arg1:T99 Arg2:T96	
+R64	per_title Arg1:T101 Arg2:T100	
+R65	per_employee_of Arg1:T102 Arg2:T100	
+R66	per_title Arg1:T105 Arg2:T103	
+R67	per_title Arg1:T106 Arg2:T103	
+R68	per_employee_of Arg1:T30 Arg2:T103	
+R69	per_alternate_names Arg1:T108 Arg2:T103	
+R70	per_employee_of Arg1:T109 Arg2:T108	
+R71	per_employee_of Arg1:T110 Arg2:T108	
+R72	per_title Arg1:T112 Arg2:T108	
+R73	per_title Arg1:T113 Arg2:T108	
+R74	per_title Arg1:T114 Arg2:T108	
+R75	per_employee_of Arg1:T31 Arg2:T117	
+R76	per_employee_of Arg1:T33 Arg2:T117	
+R77	per_title Arg1:T119 Arg2:T117	
+R78	per_employee_of Arg1:T120 Arg2:T117	
+R79	per_title Arg1:T121 Arg2:T117	
+R80	per_employee_of Arg1:T34 Arg2:T123	
+R81	per_title Arg1:T124 Arg2:T123	
+R82	per_title Arg1:T127 Arg2:T125	
+R83	per_title Arg1:T35 Arg2:T125	
+R84	per_employee_of Arg1:T38 Arg2:T125	
+R85	per_title Arg1:T42 Arg2:T125	
+R86	per_employee_of Arg1:T57 Arg2:T125	
+R87	per_employee_of Arg1:T61 Arg2:T125	
+R88	per_employee_of Arg1:T62 Arg2:T125	
+R89	per_employee_of Arg1:T66 Arg2:T125	
+R90	per_employee_of Arg1:T68 Arg2:T67	
+R91	per_employee_of Arg1:T72 Arg2:T67	
+R92	per_schools_attended Arg1:T77 Arg2:T73	
+R93	per_title Arg1:T130 Arg2:T129	
+R94	per_employee_of Arg1:T131 Arg2:T129	
+R95	per_title Arg1:T135 Arg2:T132	
+R96	per_employee_of Arg1:T86 Arg2:T132	
+R97	per_title Arg1:T137 Arg2:T132	
+R98	per_employee_of Arg1:T138 Arg2:T132	
+R99	per_alternate_names Arg1:T144 Arg2:T132	
+R100	per_employee_of Arg1:T145 Arg2:T144	
+R101	per_title Arg1:T146 Arg2:T144	
+R102	per_employee_of Arg1:T147 Arg2:T148	
+R103	per_title Arg1:T150 Arg2:T149	
+R104	per_title Arg1:T154 Arg2:T153	
+R105	per_title Arg1:T155 Arg2:T153	
+R106	per_employee_of Arg1:T156 Arg2:T153	
+R107	per_employee_of Arg1:T88 Arg2:T157	
+R108	per_title Arg1:T158 Arg2:T157	
+R109	per_title Arg1:T162 Arg2:T157	
+R110	per_title Arg1:T163 Arg2:T157	
+R111	per_alternate_names Arg1:T164 Arg2:T157	
+R112	per_employee_of Arg1:T92 Arg2:T164	
+R113	per_employee_of Arg1:T93 Arg2:T164	
+R114	per_employee_of Arg1:T166 Arg2:T165	
+R115	per_employee_of Arg1:T167 Arg2:T165	
+R116	per_employee_of Arg1:T168 Arg2:T165	
+R117	per_schools_attended Arg1:T172 Arg2:T171	
+R118	per_schools_attended Arg1:T173 Arg2:T171	
+R119	per_schools_attended Arg1:T174 Arg2:T171	
+R120	per_title Arg1:T176 Arg2:T175	
+R121	org_members Arg1:T177 Arg2:T175	
+R122	org_members Arg1:T178 Arg2:T175	
+R123	org_members Arg1:T179 Arg2:T175	
+R124	org_members Arg1:T180 Arg2:T175	
+R125	org_members Arg1:T181 Arg2:T175	
+R126	per_title Arg1:T183 Arg2:T182	
+R127	per_employee_of Arg1:T184 Arg2:T182	
+R128	per_employee_of Arg1:T186 Arg2:T185	
+R129	per_alternate_names Arg1:T190 Arg2:T185	
+R130	per_employee_of Arg1:T191 Arg2:T190	
+R131	per_title Arg1:T192 Arg2:T190	
+R132	per_schools_attended Arg1:T193 Arg2:T190	
+R133	per_title Arg1:T196 Arg2:T195	
+R134	per_title Arg1:T197 Arg2:T195	
+R135	per_schools_attended Arg1:T199 Arg2:T198	
+R136	per_title Arg1:T201 Arg2:T200	
+R137	per_alternate_names Arg1:T200 Arg2:T202	
+R138	per_employee_of Arg1:T203 Arg2:T202	
+R139	per_schools_attended Arg1:T205 Arg2:T202	
+R140	per_employee_of Arg1:T208 Arg2:T209	
+R141	per_title Arg1:T211 Arg2:T210	
+R142	per_employee_of Arg1:T212 Arg2:T210	
+R143	per_employee_of Arg1:T104 Arg2:T213	
+R144	per_title Arg1:T214 Arg2:T213	
+R145	per_alternate_names Arg1:T216 Arg2:T213	
+R146	per_title Arg1:T217 Arg2:T216	
+R147	per_title Arg1:T218 Arg2:T216	
+R148	per_title Arg1:T219 Arg2:T216	
+R149	per_title Arg1:T220 Arg2:T216	
+R150	per_title Arg1:T221 Arg2:T216	
+R151	per_employee_of Arg1:T223 Arg2:T222	
+R152	per_schools_attended Arg1:T225 Arg2:T224	
+R153	per_alternate_names Arg1:T222 Arg2:T213	
+R154	per_alternate_names Arg1:T222 Arg2:T213	
+R155	per_title Arg1:T227 Arg2:T226	
+R156	per_employee_of Arg1:T228 Arg2:T226	
+R157	per_title Arg1:T231 Arg2:T229	
+R158	per_title Arg1:T232 Arg2:T229	
+R159	per_employee_of Arg1:T233 Arg2:T229	
+R160	org_alternate_names Arg1:T234 Arg2:T233	
+R161	per_employee_of Arg1:T234 Arg2:T229	
+R162	per_alternate_names Arg1:T236 Arg2:T229	
+R163	per_employee_of Arg1:T107 Arg2:T236	
+R164	per_title Arg1:T237 Arg2:T236	
+R165	per_title Arg1:T238 Arg2:T236	
+R166	per_employee_of Arg1:T111 Arg2:T240	
+R167	per_title Arg1:T241 Arg2:T240	
+R168	per_title Arg1:T245 Arg2:T240	
+R169	per_schools_attended Arg1:T249 Arg2:T247	
+R170	per_title Arg1:T252 Arg2:T251	
+R171	per_employee_of Arg1:T254 Arg2:T253	
+R172	org_alternate_names Arg1:T255 Arg2:T254	
+R173	per_employee_of Arg1:T255 Arg2:T253	
+R174	per_title Arg1:T257 Arg2:T253	
+R175	per_employee_of Arg1:T258 Arg2:T253	
+R176	per_employee_of Arg1:T259 Arg2:T253	
+R178	per_alternate_names Arg1:T261 Arg2:T253	
+R179	per_title Arg1:T262 Arg2:T261	
+R180	per_employee_of Arg1:T265 Arg2:T266	
+R181	per_title Arg1:T269 Arg2:T268	
+R182	per_employee_of Arg1:T272 Arg2:T271	
+R183	per_title Arg1:T274 Arg2:T271	
+R184	per_title Arg1:T275 Arg2:T271	
+R177	org_parents Arg1:T259 Arg2:T258	
+R185	org_general Arg1:T52 Arg2:T51	
+R186	org_alternate_names Arg1:T85 Arg2:T84	
+R187	per_schools_attended Arg1:T85 Arg2:T87	
+T9991	ADDRESS-ner 42 63	Pendergrass, GA 30567
+T9992	PHONE-ner 74 86	706-693-2266
+T9993	PHONE-ner 87 99	706-693-2074
+T9994	EMAIL-ner 114 140	customerservice@seydel.com
+T9995	GEOPOLITICAL-ner 173 175	Us
+T9996	ORG-ner 214 220	Seydel
+T9997	ORG-ner 221 238	Woolley & Company
+T9998	ORG-ner 275 292	JRS Manufacturing
+T9999	DATE-ner 1722 1730	25 years
+T99910	ORG-ner 1890 1910	The Seydel Companies
+T99911	ORG-ner 2016 2036	The Seydel Companies
+T99912	TITLE-ner 2043 2051	employee
+T99913	NAME-ner 2080 2092	Scott Seydel
+T99914	TITLE-ner 2100 2108	Chairman
+T99915	TITLE-ner 2111 2135	Chief Innovation Officer
+T99916	ORG-ner 2137 2157	The Seydel Companies
+T99917	NAME-ner 2158 2170	Scott Seydel
+T99918	ORG-ner 2192 2204	Georgia Tech
+T99919	TITLE-ner 2231 2237	weaver
+T99920	TITLE-ner 2244 2252	mechanic
+T99921	TITLE-ner 2258 2284	quality control supervisor
+T99922	ORG-ner 2298 2323	University of North Texas
+T99923	NAME-ner 2400 2405	Scott
+T99924	GEOPOLITICAL-ner 2451 2455	U.S.
+T99925	ORG-ner 2477 2497	Seydel International
+T99926	NAME-ner 2556 2561	Scott
+T99927	ORG-ner 2607 2627	The Seydel Companies
+T99928	GEOPOLITICAL-ner 2705 2709	U.S.
+T99929	DATE-ner 2835 2844	the 1980s
+T99930	ORG-ner 2930 2937	Company
+T99931	ORG-ner 3071 3087	Seydel Companies
+T99932	NATIONALITY-ner 3104 3118	North American
+T99933	GEOPOLITICAL-ner 3163 3168	Japan
+T99934	DATE-ner 3488 3509	the past four decades
+T99935	NAME-ner 3511 3516	Scott
+T99936	TITLE-ner 3629 3636	Trustee
+T99937	ORG-ner 3644 3673	Ellen MacArthur Foundation US
+T99938	ORG-ner 3694 3706	Global Green
+T99939	TITLE-ner 3719 3733	Board Director
+T99940	NAME-ner 3737 3754	Mikhail Gorbachev
+T99941	GEOPOLITICAL-ner 3770 3776	Geneva
+T99942	ORG-ner 3803 3819	Elemental Impact
+T99943	ORG-ner 3828 3847	GreenBlue Institute
+T99944	TITLE-ner 3854 3861	founder
+T99945	ORG-ner 3869 3900	Sustainable Packaging Coalition
+T99946	TITLE-ner 3918 3930	Board Member
+T99947	ORG-ner 3938 3966	National Recycling Coalition
+T99948	TITLE-ner 3975 3985	Vice Chair
+T99949	ORG-ner 3993 4022	Container Recycling Institute
+T99950	NAME-ner 4068 4073	Scott
+T99951	ORG-ner 4088 4123	The Coalition for Resource Recovery
+T99952	NAME-ner 4126 4131	Scott
+T99953	ORG-ner 4167 4172	Board
+T99954	ORG-ner 4177 4201	Georgia State University
+T99955	ORG-ner 4204 4220	Robinson College
+T99956	GEOPOLITICAL-ner 4232 4239	Atlanta
+T99957	ORG-ner 4250 4274	Georgia Hi-Tech Alliance
+T99958	ORG-ner 4280 4312	Georgia World Congress Institute
+T99959	ORG-ner 4321 4336	Atlanta Chamber
+T99960	ORG-ner 4339 4362	International Committee
+T99961	DATE-ner 4374 4378	1996
+T99962	NAME-ner 4394 4399	Scott
+T99963	NAME-ner 4618 4623	Scott
+T99964	NAME-ner 4628 4647	Pat Mitchell Seydel
+T99965	GEOPOLITICAL-ner 4708 4715	Chicago
+T99966	GEOPOLITICAL-ner 4717 4725	New York
+T99967	GEOPOLITICAL-ner 4731 4738	Atlanta
+T99968	NAME-ner 4821 4840	Scott O. Seydel, Jr
+T99969	TITLE-ner 4844 4859	President & CEO
+T99970	NAME-ner 4882 4897	Scott O. Seydel
+T99971	NAME-ner 4905 4912	Scotto”
+T99972	TITLE-ner 4917 4932	President & CEO
+T99973	ORG-ner 4936 4956	The Seydel Companies
+T99974	ORG-ner 4983 5003	The Seydel Companies
+T99975	DATE-ner 5007 5011	1992
+T99976	LOCATION-ner 5017 5038	Laboratory Technician
+T99977	ORG-ner 5059 5080	University of Georgia
+T99978	ORG-ner 5151 5154	UGA
+T99979	NAME-ner 5156 5162	Scotto
+T99980	ORG-ner 5175 5195	The Seydel Companies
+T99981	TITLE-ner 5201 5218	Financial Analyst
+T99982	ORG-ner 5262 5290	University of South Carolina
+T99983	ORG-ner 5375 5378	USC
+T99984	ORG-ner 5382 5414	International Business & Finance
+T99985	NAME-ner 5416 5422	Scotto
+T99986	DATE-ner 5429 5442	half a decade
+T99987	TITLE-ner 5448 5474	Senior Business Consultant
+T99988	ORG-ner 5479 5494	Arthur Andersen
+T99989	ORG-ner 5499 5522	PriceWaterhouse Coopers
+T99990	GEOPOLITICAL-ner 5669 5678	Argentina
+T99991	DATE-ner 5725 5735	four years
+T99992	TITLE-ner 5739 5757	Marketing Director
+T99993	ORG-ner 5766 5789	American Cancer Society
+T99994	NAME-ner 5848 5854	Scotto
+T99995	TITLE-ner 5890 5899	President
+T99996	ORG-ner 5903 5923	The Seydel Companies
+T99997	NAME-ner 6088 6092	Tess
+T99998	NAME-ner 6120 6132	Fred Wellons
+T99999	TITLE-ner 6135 6144	President
+T999100	ORG-ner 6146 6165	Chemol Company, Inc
+T999101	NAME-ner 6167 6179	Fred Wellons
+T999102	DATE-ner 6200 6204	1978
+T999103	TITLE-ner 6210 6225	Process Manager
+T999104	TITLE-ner 6230 6238	Engineer
+T999105	DATE-ner 6292 6296	1980
+T999106	NAME-ner 6298 6302	Fred
+T999107	ORG-ner 6320 6339	Chemol Company, Inc
+T999108	ORG-ner 6349 6381	Division of Carolina By-Products
+T999109	TITLE-ner 6389 6412	Assistant Plant Manager
+T999110	TITLE-ner 6432 6452	Sales Representative
+T999111	TITLE-ner 6478 6493	General Manager
+T999112	DATE-ner 6497 6501	1988
+T999113	DATE-ner 6503 6521	Twelve years later
+T999114	NAME-ner 6523 6527	Fred
+T999115	ORG-ner 6548 6565	Baker Commodities
+T999116	TITLE-ner 6573 6581	Director
+T999117	ORG-ner 6657 6676	Tellurian Biodiesel
+T999118	TITLE-ner 6680 6694	Vice President
+T999119	DATE-ner 6711 6721	early 2010
+T999120	NAME-ner 6723 6727	Fred
+T999121	TITLE-ner 6773 6782	President
+T999122	NAME-ner 6784 6788	Fred
+T999123	TITLE-ner 6813 6819	leader
+T999124	TITLE-ner 6952 6965	Vice-Chairman
+T999125	ORG-ner 6987 7011	National Biodiesel Board
+T999126	TITLE-ner 7013 7022	Secretary
+T999127	ORG-ner 7030 7072	Industrial Specialty Chemicals Association
+T999128	ORG-ner 7106 7136	National Renderers Association
+T999129	ORG-ner 7141 7174	Fats Proteins Research Foundation
+T999130	NAME-ner 7190 7194	Fred
+T999131	ORG-ner 7264 7294	California Air Resources Board
+T999132	ORG-ner 7303 7337	US Environmental Protection Agency
+T999133	NAME-ner 7339 7343	Fred
+T999134	GEOPOLITICAL-ner 7420 7434	North Carolina
+T999135	NAME-ner 7453 7465	Graham Marsh
+T999136	TITLE-ner 7468 7491	Chief Financial Officer
+T999137	ORG-ner 7493 7513	The Seydel Companies
+T999138	NAME-ner 7514 7526	Graham Marsh
+T999139	GEOPOLITICAL-ner 7544 7554	Manchester
+T999140	GEOPOLITICAL-ner 7556 7563	England
+T999141	TITLE-ner 7578 7588	Accountant
+T999142	GEOPOLITICAL-ner 7621 7634	Great Britain
+T999143	TITLE-ner 7640 7660	Corporate Controller
+T999144	ORG-ner 7665 7680	FEB Middle East
+T999145	GEOPOLITICAL-ner 7707 7714	Atlanta
+T999146	GEOPOLITICAL-ner 7716 7723	Georgia
+T999147	DATE-ner 7727 7731	1980
+T999148	GEOPOLITICAL-ner 7765 7769	U.S.
+T999149	DATE-ner 7805 7809	1988
+T999150	NAME-ner 7811 7817	Graham
+T999151	ORG-ner 7825 7845	The Seydel Companies
+T999152	TITLE-ner 7851 7871	Financial Controller
+T999153	ORG-ner 7901 7907	Seydel
+T999154	NAME-ner 7909 7915	Graham
+T999155	NAME-ner 8161 8167	Graham
+T999156	TITLE-ner 8178 8181	CFO
+T999157	DATE-ner 8185 8189	2010
+T999158	ORG-ner 8205 8223	Board of Directors
+T999159	NAME-ner 8225 8236	Dave Grillo
+T999160	TITLE-ner 8239 8253	Vice President
+T999161	TITLE-ner 8256 8271	General Manager
+T999162	ORG-ner 8273 8292	Chemol Company, Inc
+T999163	NAME-ner 8294 8305	Dave Grillo
+T999164	TITLE-ner 8327 8335	Director
+T999165	DATE-ner 8363 8367	1998
+T999166	TITLE-ner 8371 8375	lead
+T999167	DATE-ner 8422 8426	2004
+T999168	TITLE-ner 8465 8479	Vice President
+T999169	TITLE-ner 8482 8497	General Manager
+T999170	NAME-ner 8513 8517	Dave
+T999171	NAME-ner 8679 8683	Dave
+T999172	ORG-ner 8695 8719	Twin Rivers Technologies
+T999173	ORG-ner 8721 8736	Inolex Chemical
+T999174	ORG-ner 8742 8754	Mallinckrodt
+T999175	TITLE-ner 8774 8783	executive
+T999176	TITLE-ner 8797 8814	sales & marketing
+T999177	NAME-ner 8855 8859	Dave
+T999178	ORG-ner 8900 8917	Lehigh University
+T999179	ORG-ner 8931 8948	Lehigh University
+T999180	ORG-ner 8989 9009	Villanova University
+T999181	NAME-ner 9011 9015	Dave
+T999182	TITLE-ner 9022 9035	active member
+T999183	ORG-ner 9085 9125	American Institute of Chemical Engineers
+T999184	ORG-ner 9127 9169	National Society of Professional Engineers
+T999185	ORG-ner 9171 9200	American Oil Chemists Society
+T999186	ORG-ner 9202 9230	Society of Cosmetic Chemists
+T999187	ORG-ner 9240 9289	Society of Tribologists and Lubrication Engineers
+T999188	NAME-ner 9305 9317	Nathan Evans
+T999189	TITLE-ner 9320 9343	Vice President of Sales
+T999190	ORG-ner 9345 9369	Seydel-Woolley & Company
+T999191	NAME-ner 9370 9382	Nathan Evans
+T999192	ORG-ner 9405 9425	The Seydel Companies
+T999193	DATE-ner 9429 9433	1990
+T999194	TITLE-ner 9471 9486	quality control
+T999195	DATE-ner 9546 9550	1992
+T999196	NAME-ner 9570 9576	Nathan
+T999197	ORG-ner 9599 9619	The Seydel Companies
+T999198	TITLE-ner 9625 9646	Laboratory Technician
+T999199	ORG-ner 9670 9689	Gainesville College
+T999200	ORG-ner 9724 9734	Technology
+T999201	NAME-ner 9736 9742	Nathan
+T999202	TITLE-ner 9752 9782	Technical Sales Representative
+T999203	TITLE-ner 9809 9831	National Sales Manager
+T999204	NAME-ner 9833 9839	Nathan
+T999205	ORG-ner 9892 9932	North Georgia College & State University
+T999206	NAME-ner 9934 9947	Isaiah Norris
+T999207	TITLE-ner 9950 9958	Director
+T999208	NAME-ner 9983 9989	Isaiah
+T999209	ORG-ner 10012 10032	The Seydel Companies
+T999210	DATE-ner 10036 10040	2014
+T999211	ORG-ner 10067 10088	University of Georgia
+T999212	TITLE-ner 10338 10355	technical support
+T999213	TITLE-ner 10373 10388	quality control
+T999214	ORG-ner 10452 10458	Seydel
+T999215	NAME-ner 10460 10466	Isaiah
+T999216	NAME-ner 10647 10656	Jon Kline
+T999217	TITLE-ner 10659 10672	Plant Manager
+T999218	ORG-ner 10674 10693	Chemol Company, Inc
+T999219	NAME-ner 10695 10704	Jon Kline
+T999220	TITLE-ner 10747 10761	Lab Technician
+T999221	DATE-ner 10765 10769	1996
+T999222	NAME-ner 10794 10797	Jon
+T999223	TITLE-ner 10858 10881	Quality Control Manager
+T999224	TITLE-ner 10883 10901	Laboratory Manager
+T999225	TITLE-ner 10903 10922	Maintenance Manager
+T999226	TITLE-ner 10924 10942	Production Manager
+T999227	TITLE-ner 10971 10984	Plant Manager
+T999228	NAME-ner 10986 10990	John
+T999229	ORG-ner 11019 11025	Chemol
+T999230	NAME-ner 11072 11075	Jon
+T999231	ORG-ner 11120 11144	University of Pittsburgh
+T999232	NAME-ner 11146 11160	William Newlin
+T999233	TITLE-ner 11163 11184	Environmental Manager
+T999234	ORG-ner 11186 11205	Chemol Company, Inc
+T999235	NAME-ner 11207 11221	William Newlin
+T999236	DATE-ner 11242 11246	1983
+T999237	TITLE-ner 11250 11273	Quality Control Manager
+T999238	TITLE-ner 11284 11297	Plant Manager
+T999239	ORG-ner 11302 11318	Siler City Mills
+T999240	ORG-ner 11324 11342	Chatham Industries
+T999241	DATE-ner 11420 11424	1988
+T999242	NAME-ner 11426 11433	William
+T999243	TITLE-ner 11453 11475	Production Coordinator
+T999244	TITLE-ner 11502 11520	Production Manager
+T999245	DATE-ner 11620 11624	2001
+T999246	NAME-ner 11626 11633	William
+T999247	TITLE-ner 11650 11668	Purchasing Manager
+T999248	TITLE-ner 11692 11694	HR
+T999249	TITLE-ner 11699 11715	Accounts Payable
+T999250	DATE-ner 11737 11741	2008
+T999251	TITLE-ner 11772 11793	Environmental Manager
+T999252	TITLE-ner 11807 11811	Tier
+T999253	NAME-ner 11854 11861	William
+T999254	DATE-ner 11906 11910	1979
+T999255	ORG-ner 11941 11972	North Carolina State University
+T999256	DATE-ner 11976 11980	1981
+T999257	NAME-ner 11982 11997	Rita Crosswhite
+T999258	TITLE-ner 12000 12007	Manager
+T999259	NAME-ner 12026 12041	Rita Crosswhite
+T999260	ORG-ner 12064 12078	Seydel-Woolley
+T999261	ORG-ner 12093 12108	AZS Corporation
+T999262	DATE-ner 12113 12117	1982
+T999263	TITLE-ner 12123 12149	customer service associate
+T999264	ORG-ner 12157 12160	AZS
+T999265	ORG-ner 12177 12197	The Seydel Companies
+T999266	DATE-ner 12201 12205	1987
+T999267	NAME-ner 12207 12211	Rita
+T999268	TITLE-ner 12228 12252	Customer Service Manager
+T999269	NAME-ner 12254 12258	Rita
+T999270	DATE-ner 12369 12384	almost 30 years
+T999271	ORG-ner 12399 12405	Seydel
+T999272	NAME-ner 12407 12411	Rita
+T999273	NAME-ner 12541 12545	Rita
+T999274	NAME-ner 12621 12634	Karee Bullock
+T999275	TITLE-ner 12637 12644	Manager
+T999276	ORG-ner 12646 12661	Human Resources
+T999277	NAME-ner 12662 12675	Karee Bullock
+T999278	ORG-ner 12698 12718	The Seydel Companies
+T999279	DATE-ner 12722 12730	May 1998
+T999280	TITLE-ner 12736 12748	receptionist
+T999281	TITLE-ner 12753 12775	accounts payable clerk
+T999282	DATE-ner 12780 12784	2002
+T999283	ORG-ner 12810 12824	Human Resource
+T999284	ORG-ner 12953 12967	Human Resource
+T999285	ORG-ner 12998 13005	Finance
+T999286	GEOPOLITICAL-ner 13120 13122	Us
+T999287	DATE-ner 13129 13133	1907
+T999288	ORG-ner 13135 13141	Seydel
+T999289	GEOPOLITICAL-ner 13423 13430	Georgia
+T999290	GEOPOLITICAL-ner 13435 13449	North Carolina
+T999291	PLATFORM-ner 13451 13459	Facebook
+T999292	PLATFORM-ner 13460 13468	Linkedin
+T999293	GEOPOLITICAL-ner 13481 13483	Us
+T999294	ORG-ner 13558 13561	USA
+T999295	ADDRESS-ner 13575 13599;13600 13621	244 John B. Brooks Road, Pendergrass, GA 30567
+T999296	PHONE-ner 13632 13644	706-693-2266
+T999297	PHONE-ner 13645 13657	706-693-2074
+T999298	EMAIL-ner 13672 13698	customerservice@seydel.com
+T999299	ORG-ner 13720 13740	Seydel Companies Inc

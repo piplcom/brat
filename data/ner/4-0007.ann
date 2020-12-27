@@ -1,0 +1,155 @@
+T1	ORG 21 24	FBI
+T2	PLATFORM 127 135	Facebook
+T3	PLATFORM 152 159	Twitter
+T4	PLATFORM 190 198	LinkedIn
+T5	PLATFORM 204 213	Instagram
+T6	ORG 226 229	FBI
+T7	ORG 244 278	FBIFederal Bureau of Investigation
+T8	ORG 434 437	FBI
+T9	TITLE 452 460	Director
+T10	NAME 461 477	Christopher Wray
+T12	NAME 503 519	Christopher Wray
+T13	TITLE 538 546	Director
+T14	ORG 554 557	FBI
+T17	NAME 581 585	Wray
+T19	ORG 643 664	Department of Justice
+T20	TITLE 671 680	assistant
+T22	TITLE 686 694	attorney
+T26	NAME 751 755	Wray
+T29	NAME 904 908	Wray
+T30	TITLE 919 952	associate deputy attorney general
+T31	TITLE 963 1006	principal associate deputy attorney general
+T32	ORG 1015 1028	Office of the
+T33	TITLE 1029 1052	Deputy Attorney General
+T36	ORG 1107 1128	Department of Justice
+T37	ORG 1130 1133	DOJ
+T38	ORG 1203 1206	DOJ
+T40	NAME 1239 1243	Wray
+T41	TITLE 1261 1270	President
+T42	NAME 1271 1285	George W. Bush
+T44	TITLE 1304 1330	assistant attorney general
+T45	ORG 1335 1338	DOJ
+T46	ORG 1341 1358	Criminal Division
+T47	ORG 1500 1546	Counterintelligence and Export Control Section
+T48	ORG 1571 1588	Criminal Division
+T49	ORG 1612 1615	DOJ
+T50	ORG 1659 1685	National Security Division
+T52	NAME 1692 1696	Wray
+T53	TITLE 1703 1709	member
+T54	TITLE 1717 1726	President
+T55	ORG 1772 1788	Enron Task Force
+T56	TITLE 1806 1812	leader
+T57	ORG 1816 1819	DOJ
+T59	NAME 1971 1975	Wray
+T60	ORG 2018 2021	DOJ
+T62	NAME 2077 2081	Wray
+T64	ORG 2152 2167	Yale University
+T66	ORG 2207 2222	Yale Law School
+T68	TITLE 2247 2252	Judge
+T69	NAME 2253 2254	J
+T70	NAME 2256 2270	Michael Luttig
+T71	ORG 2278 2299	U.S. Court of Appeals
+T72	ORG 2308 2322	Fourth Circuit
+T75	NAME 2337 2341	Wray
+T76	ORG 2379 2398	King & Spalding LLP
+T78	ORG 2558 2561	FBI
+T79	TITLE 2562 2570	Director
+T81	NAME 2576 2580	Wray
+T82	ORG 2605 2665	Special Matters and Government Investigations Practice Group
+T83	TITLE 2680 2695	Deputy Director
+T84	NAME 2698 2711	David Bowdich
+T85	TITLE 2712 2737	Associate Deputy Director
+T86	NAME 2740 2751	Paul Abbate
+T87	TITLE 2752 2766	Chief of Staff
+T88	NAME 2769 2783	Paul B. Murphy
+T89	TITLE 2798 2806	Director
+T90	TITLE 2807 2822	Deputy Director
+T91	TITLE 2823 2848	Associate Deputy Director
+T92	ORG 2849 2880	Finance and Facilities Division
+T93	NAME 2883 2899	David Schlendorf
+T94	ORG 2900 2931	Information Management Division
+T95	NAME 2934 2948	Arlene Gaylord
+T96	NAME 2973 2974	M
+T97	NAME 2974 2977	.A.
+T98	NAME 2979 2988	Mo" Myers
+T99	NAME 3011 3026	Douglas A. Leff
+T100	TITLE 3041 3066	Chief Information Officer
+T101	NAME 3069 3083	Jonathan Moffa
+T102	ORG 3093 3124	Office of Congressional Affairs
+T103	NAME 3127 3140	Jill C. Tyson
+T104	ORG 3151 3162	EEO Affairs
+T105	NAME 3165 3166	A
+T106	NAME 3168 3178	Tonya Odom
+T107	TITLE 3193 3208	General Counsel
+T108	NAME 3211 3225	Jason A. Jones
+T109	ORG 3226 3260	Office of Integrity and Compliance
+T110	NAME 3263 3278	Catherine Bruno
+T111	ORG 3279 3302	Office of the Ombudsman
+T112	NAME 3305 3325	Monique A. Bookstein
+T113	ORG 3326 3363	Office of Professional Responsibility
+T114	NAME 3366 3378	Stuart Platt
+T115	ORG 3379 3405	Office of Public Affairs –
+T116	NAME 3406 3419	Brian P. Hale
+T117	ORG 3420 3444	Resource Planning Office
+T118	NAME 3447 3460	Caroline Otto
+T119	TITLE 3461 3480	Executive Assistant
+T120	TITLE 3495 3504	Assistant
+T121	ORG 3515 3539	National Security Branch
+T122	TITLE 3542 3570	Executive Assistant Director
+T123	NAME 3573 3583	John Brown
+T124	ORG 3584 3612	Counterintelligence Division
+T125	NAME 3615 3633	Alan E. Kohler, Jr
+T126	NAME 3663 3675	Jill Sanborn
+T127	NAME 3718 3731	Paul W. Brown
+T128	NAME 3762 3778	Charles H. Kable
+T129	ORG 3783 3822	Weapons of Mass Destruction Directorate
+T130	NAME 3825 3837	Donald Alway
+T131	ORG 3838 3884	Criminal, Cyber, Response, and Services Branch
+T132	TITLE 3887 3915	Executive Assistant Director
+T133	NAME 3918 3928	Terry Wade
+T134	ORG 3929 3960	Criminal Investigative Division
+T135	NAME 3963 3977	Calvin Shivers
+T136	ORG 3978 4010	Critical Incident Response Group
+T137	NAME 4013 4028	John P. Selleck
+T138	ORG 4029 4043	Cyber Division
+T139	NAME 4046 4057	Matt Gorham
+T140	ORG 4058 4091	International Operations Division
+T141	NAME 4094 4109	Charles Spencer
+T142	ORG 4110 4134	Victim Services Division
+T143	NAME 4137 4152	Regina Thompson
+T144	TITLE 4176 4204	Executive Assistant Director
+T145	NAME 4207 4222	Stephen Laycock
+T146	NAME 4253 4266	Ryan T. Young
+T147	TITLE 4277 4284	Partner
+T148	NAME 4298 4313	George P. Beach
+T149	NAME 4345 4361	Michael Sullivan
+T150	TITLE 4395 4423	Executive Assistant Director
+T151	NAME 4426 4441	Darrin E. Jones
+T152	ORG 4442 4488	Criminal Justice Information Services Division
+T153	NAME 4491 4508	Michael D. DeLeon
+T154	NAME 4531 4547	G. Clayton Grigg
+T155	ORG 4548 4579	Operational Technology Division
+T156	NAME 4582 4597	Brian C. Turner
+T157	TITLE 4634 4662	Executive Assistant Director
+T158	NAME 4665 4678	Michael Gavin
+T159	ORG 4688 4721	IT Applications and Data Division
+T160	NAME 4724 4737	Nathan Taylor
+T161	ORG 4747 4773	IT Infrastructure Division
+T162	NAME 4776 4789	Dean Phillips
+T163	TITLE 4815 4843	Executive Assistant Director
+T164	NAME 4846 4863	Jeffrey S. Sallet
+T165	ORG 4864 4888	Human Resources Division
+T166	NAME 4891 4903	Hayden Temin
+T167	TITLE 4904 4912	Security
+T168	NAME 4924 4940	Larissa L. Knapp
+T169	NAME 4961 4976	Renae McDermott
+T171	ORG 5346 5349	WMD
+T172	ORG 5364 5368	CIRG
+T173	ORG 5644 5647	FBI
+T174	ORG 5678 5681	FBI
+T175	ORG 5730 5735	FOIPA
+T176	ORG 5751 5759	FBI Kids
+T177	ORG 5760 5768	FBI Tour
+T179	ORG 5980 6006	U.S. Department of Justice
+T180	ORG 6190 6198	FBI Kids
+T181	ORG 6199 6207	FBI Jobs

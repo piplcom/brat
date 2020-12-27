@@ -1,0 +1,18 @@
+T3	NAME 374 383	Joe Biden
+T4	NAME 384 394	Cam Newton
+T11	TITLE 571 587	Attorney General
+T12	NAME 588 599	Linda Kelly
+T13	NAME 691 706	Samiha Guirguis
+T17	ORG 839 862	Philadelphia Daily News
+T19	NAME 896 904	Guirguis
+T23	NAME 1287 1295	Guirguis
+T25	NAME 1376 1384	Guirguis
+T64	ORG 4300 4309	Sotheby's
+T66	ORG 4443 4474	United Press International, Inc
+T1	ORG 115 118	NFL
+T2	ORG 119 122	NBA
+T5	ORG 123 126	MLB
+T6	ORG 4373 4376	UPI
+R1	per_title Arg1:T11 Arg2:T12	
+R2	per_alternate_names Arg1:T19 Arg2:T13	
+R3	org_alternate_names Arg1:T66 Arg2:T6	

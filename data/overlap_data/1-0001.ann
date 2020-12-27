@@ -1,0 +1,283 @@
+T2	TITLE 79 88	President
+T3	NAME 89 100	Livingstone
+T4	NAME 101 121	Linda A. Livingstone
+T35	ORG 1596 1602	Baylor
+T37	TITLE 1636 1645	President
+T38	NAME 1646 1657	Livingstone
+T39	NAME 1659 1679	Linda A. Livingstone
+T40	NAME 1687 1707	Linda A. Livingstone
+T42	NAME 1719 1739	Linda A. Livingstone
+T43	TITLE 1752 1761	president
+T44	ORG 1765 1782	Baylor University
+T45	TITLE 1809 1813	dean
+T46	TITLE 1818 1841	professor of management
+T47	ORG 1845 1896	The George Washington University School of Business
+T48	TITLE 1901 1905	dean
+T49	TITLE 1910 1933	professor of management
+T50	ORG 1937 1958	Pepperdine University
+T51	ORG 1961 2004	Graziadio School of Business and Management
+T52	TITLE 2023 2037	faculty member
+T53	TITLE 2042 2077	associate dean of graduate programs
+T54	ORG 2081 2117	Baylor’s Hankamer School of Business
+T55	ORG 2122 2128	Baylor
+T56	TITLE 2131 2140	president
+T58	ORG 2190 2196	Baylor
+T59	ORG 2250 2256	Baylor
+T63	TITLE 2545 2633	scholar in organizational behavior, leadership, creativity, and university accreditation
+T64	ORG 2981 3010	Capital Southwest Industrials
+T66	ORG 3038 3064	Baylor College of Medicine
+T67	ORG 3096 3125	American Council on Education
+T68	ORG 3157 3208	Independent Colleges and Universities of Texas, Inc
+T70	ORG 3282 3299	Big 12 Conference
+T71	TITLE 3344 3353	treasurer
+T73	NAME 3359 3370	Livingstone
+T76	TITLE 3442 3448	member
+T77	ORG 3456 3481	Spears School of Business
+T83	ORG 3707 3732	Oklahoma State University
+T86	NAME 3922 3926	Brad
+T87	TITLE 3930 3957	high school history teacher
+T88	ORG 3985 3999	Oklahoma State
+T89	NAME 4025 4031	Shelby
+T90	TITLE 4107 4116	President
+T91	NAME 4117 4128	Livingstone
+T92	NAME 4129 4149	Linda A. Livingstone
+T95	ORG 4388 4394	Baylor
+T101	ORG 4623 4650	Hankamer School of Business
+T102	ORG 4677 4712	Louise Herrington School of Nursing
+T103	ORG 4725 4742	Baylor University
+T104	ORG 4743 4787	Robbins College of Health and Human Sciences
+T105	DEPARTMENT 4788 4807	School of Education
+T106	DEPARTMENT 4808 4848	School of Engineering & Computer Science
+T107	ORG 4934 4951	Baylor Law School
+T110	ORG 5476 5494	Baylor® University
+T111	ORG 5538 5555	Baylor University
+T114	TITLE 5598 5607	President
+T115	NAME 5608 5619	Livingstone
+T116	NAME 5620 5640	Linda A. Livingstone
+T7	NAME 2146 2157	Livingstone
+T8	NAME 2504 2515	Livingstone
+T9	ORG 2728 2752	American Business Review
+T13	ORG 3599 3602	OSU
+T14	NAME 3666 3677	Livingstone
+T15	ORG 4054 4100	Baylor’s George W. Truett Theological Seminary
+T16	ORG 4281 4287	Baylor
+T17	ORG 4322 4328	Baylor
+T19	DEPARTMENT 4486 4502	Baylor Libraries
+T18	DEPARTMENT 4503 4529	College of Arts & Sciences
+T20	ORG 4530 4568	Diana R. Garland School of Social Work
+T21	ORG 4569 4606	George W. Truett Theological Seminary
+T22	DEPARTMENT 4607 4622	Graduate School
+T23	ORG 4651 4665	Honors College
+T24	DEPARTMENT 4666 4676	Law School
+T25	DEPARTMENT 4849 4864	School of Music
+T26	ORG 4993 5030	George W. Truett Theological Seminary
+T27	DEPARTMENT 5162 5187	Office of General Counsel
+T28	DEPARTMENT 5188 5211	Office of the President
+T29	DEPARTMENT 5212 5233	Office of the Provost
+T31	ORG 5329 5335	Baylor
+T32	ORG 7108 7114	Baylor
+T12	UNKNOWN 2754 2788	Journal of Organizational Behavior
+T33	UNKNOWN 2790 2836	Journal of High Technology Management Research
+T30	ORG 1589 1595	Baylor
+T1	DEPARTMENT 1605 1628	Office of the President
+R1	per_title Arg1:T2 Arg2:T3	
+R2	per_title Arg1:T2 Arg2:T4	
+R3	per_title Arg1:T37 Arg2:T38	
+R4	per_title Arg1:T37 Arg2:T39	
+R5	per_title Arg1:T43 Arg2:T42	
+R6	per_employee_of Arg1:T44 Arg2:T42	
+R7	per_title Arg1:T45 Arg2:T42	
+R8	per_title Arg1:T46 Arg2:T42	
+R9	per_employee_of Arg1:T47 Arg2:T42	
+R10	per_title Arg1:T48 Arg2:T42	
+R11	per_title Arg1:T49 Arg2:T42	
+R13	per_employee_of Arg1:T51 Arg2:T42	
+R15	org_subsidiaries Arg1:T51 Arg2:T50	
+R12	per_title Arg1:T52 Arg2:T42	
+R14	per_title Arg1:T53 Arg2:T42	
+R16	per_employee_of Arg1:T54 Arg2:T42	
+R17	per_title Arg1:T56 Arg2:T7	
+R18	per_employee_of Arg1:T55 Arg2:T7	
+R19	per_employee_of Arg1:T58 Arg2:T7	
+R20	per_employee_of Arg1:T59 Arg2:T7	
+R21	per_title Arg1:T63 Arg2:T8	
+R22	per_employee_of Arg1:T64 Arg2:T8	
+R23	per_employee_of Arg1:T66 Arg2:T8	
+R24	per_employee_of Arg1:T67 Arg2:T8	
+R25	per_employee_of Arg1:T68 Arg2:T8	
+R26	per_employee_of Arg1:T70 Arg2:T8	
+R27	per_title Arg1:T71 Arg2:T8	
+R28	per_title Arg1:T76 Arg2:T73	
+R29	org_members Arg1:T77 Arg2:T73	
+R30	per_schools_attended Arg1:T83 Arg2:T14	
+R31	per_title Arg1:T87 Arg2:T86	
+R32	per_schools_attended Arg1:T88 Arg2:T86	
+R33	per_schools_attended Arg1:T15 Arg2:T89	
+R34	per_title Arg1:T90 Arg2:T91	
+R35	per_title Arg1:T114 Arg2:T115	
+R36	per_spouse Arg1:T86 Arg2:T14	
+R37	org_alternate_names Arg1:T13 Arg2:T83	
+R38	org_alternate_names Arg1:T83 Arg2:T88	
+R39	org_alternate_names Arg1:T13 Arg2:T88	
+R43	per_alternate_names Arg1:T39 Arg2:T38	
+R44	per_alternate_names Arg1:T115 Arg2:T116	
+R53	per_alternate_names Arg1:T4 Arg2:T3	
+R40	org_department Arg1:T35 Arg2:T1	
+R54	per_children Arg1:T89 Arg2:T14	
+R55	per_children Arg1:T89 Arg2:T86	
+R41	org_department Arg1:T19 Arg2:T95	
+R42	org_department Arg1:T18 Arg2:T95	
+R45	org_department Arg1:T22 Arg2:T95	
+R46	org_department Arg1:T24 Arg2:T95	
+R47	org_department Arg1:T105 Arg2:T95	
+R48	org_department Arg1:T106 Arg2:T95	
+R49	org_department Arg1:T25 Arg2:T95	
+R50	org_department Arg1:T27 Arg2:T31	
+R51	org_department Arg1:T28 Arg2:T31	
+R52	org_department Arg1:T29 Arg2:T31	
+R56	org_general Arg1:T9 Arg2:T8	
+T9991	TITLE-ner 59 68	President
+T9992	TITLE-ner 79 88	President
+T9993	NAME-ner 89 100	Livingstone
+T9994	NAME-ner 101 121	Linda A. Livingstone
+T9995	TITLE-ner 165 179	Vice President
+T9996	TITLE-ner 184 198	Chief of Staff
+T9997	NATIONALITY-ner 349 359	Christians
+T9998	DATE-ner 439 448	2019-2020
+T9999	NATIONALITY-ner 469 478	Christian
+T99910	NAME-ner 532 538	George
+T99911	NAME-ner 543 547	West
+T99912	DATE-ner 628 632	2019
+T99913	DATE-ner 633 642	2018-2019
+T99914	DATE-ner 680 692	May 11, 2019
+T99915	DATE-ner 735 739	2019
+T99916	LOCATION-ner 782 808	San Antonio Conversation -
+T99917	DATE-ner 809 822	Oct. 26, 2018
+T99918	GEOPOLITICAL-ner 861 885	San Diego Conversation -
+T99919	DATE-ner 894 898	2018
+T99920	DATE-ner 899 908	2017-2018
+T99921	GEOPOLITICAL-ner 929 939	Washington
+T99922	LOCATION-ner 972 982	Costa Mesa
+T99923	DATE-ner 1006 1010	2018
+T99924	LOCATION-ner 1011 1055	Westlake Village Conversation - Jun. 6, 2018
+T99925	GEOPOLITICAL-ner 1132 1138	Austin
+T99926	GEOPOLITICAL-ner 1168 1175	Atlanta
+T99927	DATE-ner 1191 1202	May 3, 2018
+T99928	GEOPOLITICAL-ner 1203 1209	Denver
+T99929	GEOPOLITICAL-ner 1299 1321	Houston Conversation -
+T99930	DATE-ner 1330 1334	2018
+T99931	DATE-ner 1401 1409	21, 2018
+T99932	DATE-ner 1503 1515	Nov. 9, 2017
+T99933	GEOPOLITICAL-ner 1516 1523	Updates
+T99934	ORG-ner 1596 1602	Baylor
+T99935	TITLE-ner 1619 1628	President
+T99936	TITLE-ner 1636 1645	President
+T99937	NAME-ner 1646 1657	Livingstone
+T99938	NAME-ner 1659 1679	Linda A. Livingstone
+T99939	NAME-ner 1687 1707	Linda A. Livingstone
+T99940	HONORIFIC-ner 1715 1718	Dr.
+T99941	NAME-ner 1719 1739	Linda A. Livingstone
+T99942	TITLE-ner 1752 1761	president
+T99943	ORG-ner 1765 1782	Baylor University
+T99944	TITLE-ner 1809 1813	dean
+T99945	TITLE-ner 1818 1827	professor
+T99946	ORG-ner 1845 1896	The George Washington University School of Business
+T99947	TITLE-ner 1901 1905	dean
+T99948	TITLE-ner 1910 1919	professor
+T99949	ORG-ner 1937 1958	Pepperdine University
+T99950	ORG-ner 1961 2004	Graziadio School of Business and Management
+T99951	TITLE-ner 2023 2037	faculty member
+T99952	TITLE-ner 2042 2056	associate dean
+T99953	ORG-ner 2081 2087	Baylor
+T99954	ORG-ner 2090 2117	Hankamer School of Business
+T99955	ORG-ner 2122 2128	Baylor
+T99956	TITLE-ner 2131 2140	president
+T99957	HONORIFIC-ner 2142 2145	Dr.
+T99958	ORG-ner 2190 2196	Baylor
+T99959	ORG-ner 2250 2256	Baylor
+T99960	NATIONALITY-ner 2292 2301	Christian
+T99961	NATIONALITY-ner 2473 2481	American
+T99962	HONORIFIC-ner 2500 2503	Dr.
+T99963	TITLE-ner 2545 2552	scholar
+T99964	ORG-ner 2981 3010	Capital Southwest Industrials
+T99965	ORG-ner 3016 3033	Board of Trustees
+T99966	ORG-ner 3096 3125	American Council on Education
+T99967	ORG-ner 3157 3208	Independent Colleges and Universities of Texas, Inc
+T99968	TITLE-ner 3255 3264	executive
+T99969	TITLE-ner 3344 3353	treasurer
+T99970	HONORIFIC-ner 3355 3358	Dr.
+T99971	ORG-ner 3389 3403	Oklahoma State
+T99972	DATE-ner 3422 3426	2019
+T99973	TITLE-ner 3442 3448	member
+T99974	ORG-ner 3456 3494	Spears School of Business Hall of Fame
+T99975	DATE-ner 3585 3589	2015
+T99976	GEOPOLITICAL-ner 3643 3650	Perkins
+T99977	GEOPOLITICAL-ner 3652 3660	Oklahoma
+T99978	HONORIFIC-ner 3662 3665	Dr.
+T99979	NAME-ner 3666 3677	Livingstone
+T99980	ORG-ner 3707 3732	Oklahoma State University
+T99981	TITLE-ner 3804 3837	Master of Business Administration
+T99982	TITLE-ner 3845 3851	Doctor
+T99983	NAME-ner 3922 3926	Brad
+T99984	TITLE-ner 3942 3957	history teacher
+T99985	ORG-ner 3985 3999	Oklahoma State
+T99986	NAME-ner 4025 4031	Shelby
+T99987	ORG-ner 4054 4060	Baylor
+T99988	NAME-ner 4063 4100	George W. Truett Theological Seminary
+T99989	TITLE-ner 4107 4116	President
+T99990	NAME-ner 4117 4128	Livingstone
+T99991	NAME-ner 4129 4149	Linda A. Livingstone
+T99992	ORG-ner 4193 4232	Colleges, Schools, Libraries & Research
+T99993	GEOPOLITICAL-ner 4339 4347	Calendar
+T99994	ORG-ner 4388 4394	Baylor
+T99995	ORG-ner 4435 4446	Pro Futuris
+T99996	ORG-ner 4471 4476	Media
+T99997	ORG-ner 4486 4502	Baylor Libraries
+T99998	ORG-ner 4503 4529	College of Arts & Sciences
+T99999	NAME-ner 4530 4568	Diana R. Garland School of Social Work
+T999100	ORG-ner 4623 4650	Hankamer School of Business
+T999101	ORG-ner 4677 4712	Louise Herrington School of Nursing
+T999102	ORG-ner 4725 4742	Baylor University
+T999103	ORG-ner 4743 4787	Robbins College of Health and Human Sciences
+T999104	ORG-ner 4788 4807	School of Education
+T999105	ORG-ner 4808 4848	School of Engineering & Computer Science
+T999106	ORG-ner 4934 4951	Baylor Law School
+T999107	TITLE-ner 5172 5187	General Counsel
+T999108	TITLE-ner 5202 5211	President
+T999109	ORG-ner 5476 5494	Baylor® University
+T999110	ORG-ner 5538 5555	Baylor University
+T999111	GEOPOLITICAL-ner 5564 5569	Texas
+T999112	PHONE-ner 5578 5592	1-800-229-5678
+T999113	TITLE-ner 5598 5607	President
+T999114	NAME-ner 5608 5619	Livingstone
+T999115	NAME-ner 5620 5640	Linda A. Livingstone
+T999116	TITLE-ner 5684 5698	Vice President
+T999117	TITLE-ner 5703 5717	Chief of Staff
+T999118	NATIONALITY-ner 5868 5878	Christians
+T999119	DATE-ner 5958 5967	2019-2020
+T999120	NATIONALITY-ner 5988 5997	Christian
+T999121	NAME-ner 6051 6057	George
+T999122	NAME-ner 6062 6066	West
+T999123	ORG-ner 6102 6115	Faculty Panel
+T999124	DATE-ner 6147 6151	2019
+T999125	DATE-ner 6152 6161	2018-2019
+T999126	DATE-ner 6199 6211	May 11, 2019
+T999127	DATE-ner 6254 6258	2019
+T999128	LOCATION-ner 6301 6327	San Antonio Conversation -
+T999129	DATE-ner 6328 6341	Oct. 26, 2018
+T999130	GEOPOLITICAL-ner 6380 6404	San Diego Conversation -
+T999131	DATE-ner 6413 6417	2018
+T999132	DATE-ner 6418 6427	2017-2018
+T999133	GEOPOLITICAL-ner 6448 6458	Washington
+T999134	LOCATION-ner 6491 6501	Costa Mesa
+T999135	DATE-ner 6525 6529	2018
+T999136	LOCATION-ner 6530 6574	Westlake Village Conversation - Jun. 6, 2018
+T999137	GEOPOLITICAL-ner 6651 6657	Austin
+T999138	GEOPOLITICAL-ner 6687 6694	Atlanta
+T999139	DATE-ner 6710 6721	May 3, 2018
+T999140	GEOPOLITICAL-ner 6722 6728	Denver
+T999141	GEOPOLITICAL-ner 6818 6840	Houston Conversation -
+T999142	DATE-ner 6849 6853	2018
+T999143	DATE-ner 6920 6928	21, 2018
+T999144	DATE-ner 7022 7034	Nov. 9, 2017
+T999145	GEOPOLITICAL-ner 7035 7042	Updates

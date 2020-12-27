@@ -1,0 +1,31 @@
+T7	ORG 293 300	Capitol
+T10	ORG 449 460	Capitol Oil
+T11	ORG 562 573	Capitol Oil
+T12	NAME 603 609	Edward
+T13	NAME 614 631	William Zacharias
+T14	ORG 663 668	Shell
+T17	ORG 927 938	Capitol Oil
+T24	ORG 1299 1310	Capitol Oil
+T25	ORG 1322 1349	Capitol Heating and Cooling
+T26	ORG 1371 1378	Capitol
+T27	ORG 1774 1785	Capitol Oil
+T31	ORG 2055 2064	GeneracÂ®
+T32	ORG 2158 2165	Capitol
+T33	NAME 2291 2303	Ed Zacharias
+T1	ORG 372 399	Capitol Heating and Cooling
+R1	org_founded_by Arg1:T11 Arg2:T12	
+R2	org_founded_by Arg1:T11 Arg2:T13	
+R3	org_alternate_names Arg1:T25 Arg2:T24	
+R4	per_employee_of Arg1:T32 Arg2:T33	
+R5	per_alternate_names Arg1:T12 Arg2:T33	
+R6	per_siblings Arg1:T12 Arg2:T13	
+T2	PHONE 35 47	804-737-5460
+T3	PHONE 61 73	804-288-8668
+T4	PHONE 88 100	804-264-4768
+T5	PHONE 115 127	804-271-1220
+T6	PHONE 140 152	804-271-1220
+R7	org_phone Arg1:T7 Arg2:T6	
+R8	org_phone Arg1:T5 Arg2:T7	
+R9	org_phone Arg1:T4 Arg2:T7	
+R10	org_phone Arg1:T3 Arg2:T7	
+R11	org_phone Arg1:T2 Arg2:T7	

@@ -1,0 +1,63 @@
+T1	ORG 208 221	Team Business
+T2	ORG 515 528	Team Business
+T3	ORG 1095 1108	Team Business
+T5	ORG 1295 1308	Team Business
+T6	ORG 1482 1495	Team Business
+T7	NAME 1760 1772	David Banner
+T8	ORG 1775 1795	Dartmouth University
+T9	ORG 1812 1825	Team Business
+T10	NAME 2171 2193	Patricia Hayling Price
+T13	ORG 2437 2450	Team Business
+T15	NAME 2560 2575	Anne Greenhalgh
+T16	ORG 2578 2596	The Wharton School
+T17	ORG 2598 2624	University of Pennsylvania
+T18	NAME 2647 2657	Lara Azzam
+T19	TITLE 2658 2667	President
+T20	ORG 2669 2682	Team Business
+T21	NAME 2683 2693	Lara Azzam
+T24	NAME 3066 3070	Lara
+T25	ORG 3079 3092	Team Business
+T27	NAME 3195 3199	Lara
+T29	ORG 3218 3236	The Wharton School
+T30	ORG 3281 3301	The Lauder Institute
+T31	NAME 3303 3322	André Van Der Bergh
+T32	TITLE 3323 3349	Vice President of Programs
+T33	ORG 3351 3364	Team Business
+T34	TITLE 3401 3412	facilitator
+T35	ORG 3416 3429	Team Business
+T36	NAME 3440 3445	André
+T41	NAME 3617 3622	André
+T42	NAME 3833 3838	André
+T43	ORG 3890 3903	Team Business
+T44	TITLE 3925 3944	primary facilitator
+T11	ORG 651 664	Team Business
+T4	ORG 2196 2230	Management Leadership for Tomorrow
+T12	ORG 2232 2235	MLT
+T14	ORG 2245 2258	Team Business
+T23	ORG 2632 2645	Team Business
+T26	ORG 3642 3655	Team Business
+T28	ORG 4033 4046	Team Business
+R1	per_employee_of Arg1:T8 Arg2:T7	
+R2	per_employee_of Arg1:T4 Arg2:T10	
+R3	org_alternate_names Arg1:T12 Arg2:T4	
+R4	per_employee_of Arg1:T12 Arg2:T10	
+R5	org_subsidiaries Arg1:T16 Arg2:T17	
+R6	per_employee_of Arg1:T17 Arg2:T15	
+R7	per_title Arg1:T19 Arg2:T18	
+R8	per_employee_of Arg1:T20 Arg2:T18	
+R9	org_founded_by Arg1:T25 Arg2:T24	
+R10	per_schools_attended Arg1:T29 Arg2:T27	
+R11	org_founded_by Arg1:T30 Arg2:T27	
+R12	per_title Arg1:T32 Arg2:T31	
+R13	per_employee_of Arg1:T33 Arg2:T31	
+R14	per_title Arg1:T34 Arg2:T31	
+R15	per_employee_of Arg1:T35 Arg2:T31	
+R16	per_employee_of Arg1:T26 Arg2:T41	
+R17	per_employee_of Arg1:T43 Arg2:T42	
+R18	per_title Arg1:T44 Arg2:T42	
+R19	per_alternate_names Arg1:T24 Arg2:T21	
+R20	per_alternate_names Arg1:T36 Arg2:T31	
+T22	PHONE 4335 4350	+1-410-837-1414
+T37	EMAIL 4306 4327	info@teambusiness.com
+R21	org_email Arg1:T37 Arg2:T28	
+R22	org_phone Arg1:T22 Arg2:T28	

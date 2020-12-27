@@ -1,0 +1,635 @@
+T14	TITLE 777 798	President and founder
+T15	ORG 802 818	Blackline Marine
+T16	NAME 910 918	Campbell
+T17	TITLE 1063 1077	Vice President
+T18	TITLE 1079 1095	technical writer
+T19	TITLE 1100 1129	consultant in adult education
+T20	NAME 1167 1172	Peter
+T21	TITLE 1180 1194	primary writer
+T22	TITLE 1277 1307	Lifetime mechanical technician
+T23	TITLE 1312 1321	President
+T25	NAME 1438 1441	Ben
+T27	TITLE 1553 1569	designer-builder
+T29	TITLE 1574 1590	marine architect
+T30	TITLE 1592 1597	Owner
+T31	ORG 1602 1619	Paul Gartside Ltd
+T32	NAME 1622 1626	Paul
+T34	TITLE 1791 1800	President
+T37	NAME 1951 1955	Drew
+T40	TITLE 2079 2104	Assistant Service Manager
+T42	NAME 2128 2132	Matt
+T44	TITLE 2300 2315	Service Manager
+T45	TITLE 2320 2343	Marine Surveyor partner
+T46	ORG 2347 2377	Yacht Associates International
+T47	NAME 2380 2385	Sarah
+T51	TITLE 2592 2608	Managing Partner
+T52	ORG 2612 2630	Yacht Care Systems
+T55	NAME 2791 2796	Brian
+T58	NAME 2905 2917	Roger Boulet
+T59	TITLE 2923 2927	ABYC
+T61	TITLE 2947 2956	installer
+T62	TITLE 2962 2976	Owner/Operator
+T65	NAME 3054 3059	Roger
+T70	NAME 3357 3367	Gord Allan
+T72	TITLE 3389 3398	installer
+T73	TITLE 3403 3410	partner
+T74	ORG 3414 3444	Bayview Yachts Sales & Service
+T77	NAME 3532 3536	Gord
+T78	NAME 3584 3595	Scott Allan
+T80	NAME 3708 3713	Scott
+T83	NAME 3806 3817	Darcy Baine
+T84	TITLE 3824 3829	owner
+T87	NAME 3865 3870	Darcy
+T91	NAME 4027 4042	Brendan Burgess
+T92	TITLE 4052 4062	shipwright
+T93	ORG 4066 4082	Commodores Boats
+T95	NAME 4097 4104	Brendan
+T98	ORG 4212 4233	Vector Yacht Services
+T100	NAME 4293 4308	Serge Gabilondo
+T101	TITLE 4336 4364	metal fabrication specialist
+T104	NAME 4457 4462	Serge
+T105	NAME 4502 4514	Mark Gilbert
+T106	TITLE 4516 4530	Owner/Operator
+T107	ORG 4534 4551	MG Yacht Services
+T108	TITLE 4558 4565	partner
+T109	ORG 4569 4599	Yacht Associates International
+T111	NAME 4618 4622	Mark
+T114	NAME 4690 4703	Les Gunderson
+T115	TITLE 4705 4732	Master wood boat Shipwright
+T118	NAME 4894 4904	Jason Gunn
+T120	TITLE 4931 4940	installer
+T124	NAME 5054 5059	Jason
+T127	NAME 5106 5120	Eric Jespersen
+T128	TITLE 5122 5144	Journeyman Boatbuilder
+T129	TITLE 5147 5156	President
+T130	NAME 5282 5286	Eric
+T131	NAME 5313 5325	Keenan Laing
+T132	TITLE 5327 5341	Owner/Operator
+T138	NAME 5507 5521	Ralph Pressner
+T143	NAME 5714 5719	Ralph
+T145	NAME 5765 5781	Stuart MacKenzie
+T146	TITLE 5783 5788	owner
+T149	NAME 6018 6028	Paul Magas
+T150	TITLE 6030 6059	Composites Department Manager
+T154	NAME 6161 6165	Paul
+T156	NAME 6209 6220	Pete Medley
+T158	ORG 6309 6330	Vector Yacht Services
+T160	NAME 6475 6479	Pete
+T161	NAME 6514 6529	Andrea Morrison
+T162	TITLE 6536 6575	Kayak manufacture and repair specialist
+T164	NAME 6601 6607	Andrea
+T166	NAME 6695 6705	Jim Normey
+T167	TITLE 6712 6724	Cabinetmaker
+T168	TITLE 6726 6758	Accredited Marine Surveyor/owner
+T174	NAME 6945 6948	Jim
+T176	TITLE 6963 6979	Chief Instructor
+T177	NAME 6981 6992	Tad Roberts
+T180	NAME 7152 7155	Tad
+T182	NAME 7183 7194	Alex Strong
+T183	TITLE 7204 7222	Yacht Park Manager
+T186	NAME 7393 7397	Alex
+T187	NAME 7455 7467	Trevor Smith
+T192	NAME 7647 7658	Kelly Thody
+T193	TITLE 7660 7674	Owner/Operator
+T196	NAME 7863 7876	Geoff Thorner
+T197	TITLE 7878 7883	Owner
+T202	NAME 8058 8063	Geoff
+T205	NAME 8105 8117	Rob Trelford
+T208	TITLE 8124 8163	Paint and Coating Technology specialist
+T211	NAME 8272 8275	Rob
+T212	NAME 8305 8317	Nick Webster
+T215	TITLE 8358 8363	owner
+T216	ORG 8367 8382	Stones Boatyard
+T217	NAME 8385 8389	Nick
+T219	NAME 8485 8496	Steve White
+T223	NAME 8659 8664	Steve
+T225	NAME 8850 8861	Alex Brydon
+T226	TITLE 8863 8878	Naval Architect
+T227	TITLE 8881 8886	Owner
+T232	NAME 8958 8971	Tyler Caddell
+T233	TITLE 8973 9004	Professional Marine Restoration
+T234	TITLE 9007 9024	Repair instructor
+T236	NAME 9065 9078	Kris Campbell
+T237	TITLE 9098 9118	mechanical lead hand
+T238	NAME 9186 9196	Rob Carlow
+T239	TITLE 9203 9215	Boat builder
+T241	TITLE 9234 9241	manager
+T242	ORG 9245 9268	Jespersen Boat Builders
+T244	NAME 9283 9292	Jeff Cote
+T245	TITLE 9294 9317	Systems Design Engineer
+T246	TITLE 9319 9324	Owner
+T247	ORG 9328 9349	Pacific Yacht Systems
+T248	TITLE 9357 9375	Advanced Installer
+T249	TITLE 9378 9388	instructor
+T250	NAME 9409 9420	Paul Gibson
+T252	NAME 9524 9534	Bert Haupt
+T253	TITLE 9536 9576	Wood boat repair and building specialist
+T254	TITLE 9579 9614	Professional woodworking instructor
+T255	ORG 9618 9642	Belmont Secondary School
+T256	NAME 9645 9657	Brent Jacobi
+T258	TITLE 9659 9704	Rigging & Metal Fabrication manager / partner
+T262	NAME 9741 9754	Geoff Macklin
+T263	TITLE 9756 9793	Owner/Operator Superstition Boatworks
+T265	NAME 9847 9864	Reed Radziszewski
+T266	TITLE 9866 9871	Owner
+T268	TITLE 9896 9910	MST/Shipwright
+T1	ORG 66 91	Quadrant Marine Institute
+T2	ORG 188 196	Quadrant
+T3	ORG 566 574	Quadrant
+T4	ORG 585 593	Quadrant
+T5	NAME 753 767	CAMPBELL BLACK
+T6	ORG 768 776	Quadrant
+T7	NAME 1052 1062	PETER DAHL
+T8	ORG 1203 1211	Quadrant
+T9	NAME 1264 1276	BEN GARTSIDE
+T11	ORG 1325 1348	Gartside Marine Engines
+T10	NAME 1512 1525	PAUL GARTSIDE
+T12	NAME 1780 1790	DREW IRWIN
+T13	ORG 1805 1825	Philbrook’s Boatyard
+T24	NAME 2056 2070	MATT SCHINBEIN
+T26	TITLE 2071 2074	MST
+T28	ORG 2109 2125	Blackline Marine
+T33	ORG 2273 2281	Quadrant
+T35	NAME 2283 2294	SARAH WHITE
+T36	TITLE 2295 2298	MST
+T38	NAME 2580 2591	BRIAN RENIX
+T39	TITLE 2918 2921	MST
+T41	ORG 2932 2936	NMEA
+T43	ORG 3176 3184	Quadrant
+T48	TITLE 3369 3372	MST
+T49	ORG 3374 3378	NMEA
+T50	TITLE 3597 3600	MST
+T53	ORG 3723 3743	Blackline Marine Inc
+T54	TITLE 3819 3822	MST
+T56	ORG 3833 3845	Baine Marine
+T57	TITLE 4044 4047	MST
+T60	NAME 4151 4163	Brook Butler
+T63	TITLE 4165 4168	MST
+T64	TITLE 4310 4313	MST
+T66	TITLE 4315 4331	Sailboat rigging
+T67	ORG 4368 4388	Blackline Marine Inc
+T68	TITLE 4906 4909	MST
+T69	TITLE 4911 4914	MMT
+T71	ORG 4916 4920	NMEA
+T75	ORG 4960 4983	Victoria General Marine
+T76	ORG 5160 5182	Jespersen Boatbuilders
+T79	ORG 5345 5355	KPL Marine
+T81	TITLE 5523 5551	Red Seal Heavy Duty Mechanic
+T82	ORG 5629 5660	Desolation Sound Yacht Charters
+T85	ORG 5792 5818	Comox Marine & Woodworking
+T86	ORG 6063 6078	Platinum Marine
+T88	TITLE 6531 6534	MST
+T89	ORG 6579 6599	Blackline Marine Inc
+T90	TITLE 6707 6710	MST
+T94	ORG 6762 6789	Nordik Marine Surveyors Inc
+T96	ORG 6952 6960	Quadrant
+T97	ORG 7131 7149	Tad Roberts Design
+T99	TITLE 7196 7199	MST
+T102	ORG 7226 7241	Van Isle Marina
+T103	ORG 7529 7554	Granville Island Boatyard
+T110	ORG 7678 7705	Total Boat Marine Surveyors
+T112	ORG 7887 7905	GT Marine Electric
+T116	TITLE 8119 8122	MST
+T117	ORG 8167 8187	Blackline Marine Inc
+T119	ORG 8588 8607	Steve White Rigging
+T121	ORG 8723 8731	Quadrant
+T123	ORG 9028 9053	Parkland Secondary School
+T125	TITLE 9080 9083	MST
+T126	TITLE 9085 9088	MMT
+T133	ORG 9122 9142	Philbrook’s Boatyard
+T134	TITLE 9198 9201	MST
+T135	ORG 9352 9356	NMEA
+T136	TITLE 9422 9425	MST
+T137	ORG 9429 9445	Blackline Marine
+T139	ORG 9708 9728	Blackline Marine Inc
+T140	ORG 9875 9895	Shipwright Reed Ltd.
+T141	ORG 10046 10076	Quadrant Marine Institute Inc.
+T142	ADDRESS 10079 10130	7-2300 Canoe Cove Road, Sidney, BC, V8L 3X9, Canada
+T144	ORG 8890 8904	Merlion Marine
+R1	org_alternate_names Arg1:T2 Arg2:T1	
+R2	per_employee_of Arg1:T6 Arg2:T5	
+R3	per_title Arg1:T14 Arg2:T5	
+R4	org_founded_by Arg1:T15 Arg2:T5	
+R5	per_alternate_names Arg1:T16 Arg2:T5	
+R6	per_title Arg1:T17 Arg2:T7	
+R7	per_title Arg1:T18 Arg2:T7	
+R8	per_title Arg1:T19 Arg2:T7	
+R9	per_alternate_names Arg1:T20 Arg2:T7	
+R10	per_title Arg1:T21 Arg2:T20	
+R11	per_employee_of Arg1:T8 Arg2:T20	
+R12	per_title Arg1:T22 Arg2:T9	
+R13	per_title Arg1:T23 Arg2:T9	
+R14	per_employee_of Arg1:T11 Arg2:T9	
+R15	per_alternate_names Arg1:T25 Arg2:T9	
+R16	per_title Arg1:T27 Arg2:T10	
+R17	per_title Arg1:T29 Arg2:T10	
+R18	org_founded_by Arg1:T31 Arg2:T10	
+R19	per_title Arg1:T30 Arg2:T10	
+R20	per_alternate_names Arg1:T32 Arg2:T10	
+R21	per_title Arg1:T34 Arg2:T12	
+R22	per_employee_of Arg1:T13 Arg2:T12	
+R23	per_alternate_names Arg1:T37 Arg2:T12	
+R24	per_title Arg1:T26 Arg2:T24	
+R25	per_title Arg1:T40 Arg2:T24	
+R26	per_employee_of Arg1:T28 Arg2:T24	
+R27	per_alternate_names Arg1:T42 Arg2:T24	
+R28	per_employee_of Arg1:T33 Arg2:T42	
+R29	per_title Arg1:T36 Arg2:T35	
+R30	per_title Arg1:T44 Arg2:T35	
+R31	per_title Arg1:T45 Arg2:T35	
+R32	per_employee_of Arg1:T46 Arg2:T35	
+R33	per_alternate_names Arg1:T47 Arg2:T35	
+R34	per_title Arg1:T51 Arg2:T38	
+R35	per_employee_of Arg1:T52 Arg2:T38	
+R36	per_alternate_names Arg1:T55 Arg2:T38	
+R37	per_title Arg1:T39 Arg2:T58	
+R38	per_title Arg1:T39 Arg2:T58	
+R39	per_title Arg1:T59 Arg2:T58	
+R40	per_title Arg1:T61 Arg2:T58	
+T113	ORG 2980 3007	Pilot Marine Yacht Services
+R41	per_employee_of Arg1:T113 Arg2:T58	
+R42	per_title Arg1:T62 Arg2:T58	
+R43	per_alternate_names Arg1:T65 Arg2:T58	
+R44	per_title Arg1:T48 Arg2:T70	
+R45	per_title Arg1:T72 Arg2:T70	
+R46	per_title Arg1:T73 Arg2:T70	
+R47	per_employee_of Arg1:T74 Arg2:T70	
+R48	per_alternate_names Arg1:T77 Arg2:T70	
+R49	per_title Arg1:T50 Arg2:T78	
+R50	per_alternate_names Arg1:T80 Arg2:T78	
+R51	per_employee_of Arg1:T53 Arg2:T80	
+R52	per_title Arg1:T54 Arg2:T83	
+R53	per_title Arg1:T84 Arg2:T83	
+R54	org_founded_by Arg1:T56 Arg2:T83	
+R55	per_alternate_names Arg1:T87 Arg2:T83	
+R56	per_title Arg1:T57 Arg2:T91	
+R57	per_title Arg1:T92 Arg2:T91	
+R58	per_alternate_names Arg1:T95 Arg2:T91	
+R59	per_title Arg1:T63 Arg2:T60	
+R60	per_employee_of Arg1:T98 Arg2:T60	
+R61	per_title Arg1:T64 Arg2:T100	
+R62	per_title Arg1:T66 Arg2:T100	
+R63	per_title Arg1:T101 Arg2:T100	
+R64	per_employee_of Arg1:T67 Arg2:T100	
+R65	per_alternate_names Arg1:T104 Arg2:T100	
+R66	per_title Arg1:T106 Arg2:T105	
+R67	per_employee_of Arg1:T107 Arg2:T105	
+R68	per_title Arg1:T108 Arg2:T105	
+R69	per_employee_of Arg1:T109 Arg2:T105	
+R70	per_alternate_names Arg1:T111 Arg2:T105	
+R71	per_title Arg1:T115 Arg2:T114	
+R72	per_title Arg1:T68 Arg2:T118	
+R73	per_title Arg1:T69 Arg2:T118	
+R74	per_title Arg1:T120 Arg2:T118	
+R75	per_employee_of Arg1:T75 Arg2:T118	
+R76	per_alternate_names Arg1:T124 Arg2:T118	
+R77	per_title Arg1:T128 Arg2:T127	
+R78	per_title Arg1:T129 Arg2:T127	
+R79	per_employee_of Arg1:T76 Arg2:T127	
+R80	per_alternate_names Arg1:T130 Arg2:T127	
+R81	per_title Arg1:T132 Arg2:T131	
+R82	per_employee_of Arg1:T79 Arg2:T131	
+R83	per_title Arg1:T81 Arg2:T138	
+R84	per_employee_of Arg1:T82 Arg2:T138	
+R85	per_alternate_names Arg1:T143 Arg2:T138	
+R86	per_title Arg1:T146 Arg2:T145	
+R87	org_founded_by Arg1:T85 Arg2:T145	
+R88	per_title Arg1:T150 Arg2:T149	
+R89	per_employee_of Arg1:T86 Arg2:T149	
+R90	per_alternate_names Arg1:T154 Arg2:T149	
+R91	per_employee_of Arg1:T158 Arg2:T156	
+R92	per_alternate_names Arg1:T160 Arg2:T156	
+R93	per_title Arg1:T88 Arg2:T161	
+R94	per_title Arg1:T162 Arg2:T161	
+R95	per_employee_of Arg1:T89 Arg2:T161	
+R96	per_alternate_names Arg1:T164 Arg2:T161	
+R97	per_title Arg1:T90 Arg2:T166	
+R98	per_title Arg1:T167 Arg2:T166	
+R99	per_title Arg1:T168 Arg2:T166	
+R100	per_employee_of Arg1:T94 Arg2:T166	
+R101	per_employee_of Arg1:T96 Arg2:T174	
+R102	per_title Arg1:T176 Arg2:T174	
+R103	per_alternate_names Arg1:T174 Arg2:T166	
+R104	org_founded_by Arg1:T97 Arg2:T177	
+R105	per_alternate_names Arg1:T180 Arg2:T177	
+R106	per_title Arg1:T99 Arg2:T182	
+R107	per_title Arg1:T183 Arg2:T182	
+R108	per_employee_of Arg1:T102 Arg2:T182	
+R109	per_alternate_names Arg1:T186 Arg2:T182	
+R110	per_employee_of Arg1:T103 Arg2:T187	
+R111	per_title Arg1:T193 Arg2:T192	
+R112	per_employee_of Arg1:T110 Arg2:T192	
+R113	per_title Arg1:T197 Arg2:T196	
+R114	org_founded_by Arg1:T112 Arg2:T196	
+R115	per_alternate_names Arg1:T202 Arg2:T196	
+R116	per_alternate_names Arg1:T217 Arg2:T212	
+R117	per_title Arg1:T116 Arg2:T205	
+R118	per_title Arg1:T208 Arg2:T205	
+R119	per_employee_of Arg1:T117 Arg2:T205	
+R120	per_alternate_names Arg1:T211 Arg2:T205	
+R121	per_title Arg1:T215 Arg2:T212	
+R122	org_founded_by Arg1:T216 Arg2:T212	
+R123	org_founded_by Arg1:T119 Arg2:T219	
+R124	per_alternate_names Arg1:T223 Arg2:T219	
+R125	per_title Arg1:T226 Arg2:T225	
+R126	per_title Arg1:T227 Arg2:T225	
+R127	per_employee_of Arg1:T144 Arg2:T225	
+R128	per_title Arg1:T233 Arg2:T232	
+R129	per_title Arg1:T234 Arg2:T232	
+R130	per_employee_of Arg1:T123 Arg2:T232	
+R131	per_title Arg1:T125 Arg2:T236	
+R132	per_title Arg1:T126 Arg2:T236	
+R133	per_title Arg1:T237 Arg2:T236	
+R134	per_employee_of Arg1:T133 Arg2:T236	
+R135	per_title Arg1:T134 Arg2:T238	
+R136	per_title Arg1:T239 Arg2:T238	
+R137	per_title Arg1:T241 Arg2:T238	
+R138	per_employee_of Arg1:T242 Arg2:T238	
+R139	per_title Arg1:T245 Arg2:T244	
+R140	per_title Arg1:T246 Arg2:T244	
+R141	per_employee_of Arg1:T247 Arg2:T244	
+R142	per_title Arg1:T248 Arg2:T244	
+R143	per_title Arg1:T249 Arg2:T244	
+R144	per_title Arg1:T136 Arg2:T250	
+R145	per_employee_of Arg1:T137 Arg2:T250	
+R146	per_title Arg1:T253 Arg2:T252	
+R147	per_title Arg1:T254 Arg2:T252	
+R148	per_employee_of Arg1:T255 Arg2:T252	
+R149	per_title Arg1:T258 Arg2:T256	
+R150	per_employee_of Arg1:T139 Arg2:T256	
+R151	per_title Arg1:T263 Arg2:T262	
+R152	per_title Arg1:T266 Arg2:T265	
+R153	org_founded_by Arg1:T140 Arg2:T265	
+R154	per_title Arg1:T268 Arg2:T265	
+R155	org_address Arg1:T142 Arg2:T141	
+T9991	ORG-ner 75 91	Marine Institute
+T9992	DATE-ner 212 216	1999
+T9993	TITLE-ner 240 245	owner
+T9994	TITLE-ner 278 284	marine
+T9995	DATE-ner 341 357	the early 1990’s
+T9996	GEOPOLITICAL-ner 403 435	the Province of British Columbia
+T9997	GEOPOLITICAL-ner 437 443	Canada
+T9998	ORG-ner 452 476	Marine Repair Technician
+T9999	DATE-ner 495 499	1998
+T99910	ORG-ner 525 550	Marine Service Technician
+T99911	DATE-ner 560 564	2011
+T99912	TITLE-ner 675 681	marine
+T99913	TITLE-ner 777 798	President and founder
+T99914	ORG-ner 802 818	Blackline Marine
+T99915	NAME-ner 910 918	Campbell
+T99916	TITLE-ner 1063 1077	Vice President
+T99917	TITLE-ner 1079 1095	technical writer
+T99918	TITLE-ner 1100 1110	consultant
+T99919	NAME-ner 1167 1172	Peter
+T99920	TITLE-ner 1188 1194	writer
+T99921	TITLE-ner 1286 1307	mechanical technician
+T99922	TITLE-ner 1312 1321	President
+T99923	ORG-ner 1325 1348	Gartside Marine Engines
+T99924	NAME-ner 1438 1441	Ben
+T99925	TITLE-ner 1463 1469	marine
+T99926	TITLE-ner 1553 1561	designer
+T99927	TITLE-ner 1562 1569	builder
+T99928	TITLE-ner 1574 1590	marine architect
+T99929	TITLE-ner 1592 1597	Owner
+T99930	ORG-ner 1602 1619	Paul Gartside Ltd
+T99931	NAME-ner 1622 1626	Paul
+T99932	NATIONALITY-ner 1673 1679	Design
+T99933	TITLE-ner 1791 1800	President
+T99934	ORG-ner 1805 1825	Philbrook’s Boatyard
+T99935	LOCATION-ner 1834 1857	the Pacific Northwest’s
+T99936	TITLE-ner 1931 1949	project management
+T99937	NAME-ner 1951 1955	Drew
+T99938	LOCATION-ner 1971 1989	Business Practices
+T99939	TITLE-ner 2007 2025	project management
+T99940	TITLE-ner 2079 2104	Assistant Service Manager
+T99941	TITLE-ner 2119 2125	Marine
+T99942	NAME-ner 2128 2132	Matt
+T99943	GEOPOLITICAL-ner 2273 2281	Quadrant
+T99944	TITLE-ner 2300 2315	Service Manager
+T99945	TITLE-ner 2320 2343	Marine Surveyor partner
+T99946	ORG-ner 2347 2377	Yacht Associates International
+T99947	NAME-ner 2380 2385	Sarah
+T99948	DATE-ner 2396 2417	more than two decades
+T99949	TITLE-ner 2425 2431	marine
+T99950	GEOPOLITICAL-ner 2569 2578	Vancouver
+T99951	TITLE-ner 2592 2608	Managing Partner
+T99952	ORG-ner 2612 2630	Yacht Care Systems
+T99953	DATE-ner 2701 2719	more than 35 years
+T99954	TITLE-ner 2774 2780	marine
+T99955	NAME-ner 2791 2796	Brian
+T99956	ORG-ner 2852 2877	Marine Service Technician
+T99957	DATE-ner 2899 2903	2014
+T99958	NAME-ner 2905 2917	Roger Boulet
+T99959	ORG-ner 2923 2927	ABYC
+T99960	GEOPOLITICAL-ner 2932 2936	NMEA
+T99961	TITLE-ner 2947 2956	installer
+T99962	TITLE-ner 2962 2976	Owner/Operator
+T99963	ORG-ner 2980 3007	Pilot Marine Yacht Services
+T99964	TITLE-ner 3024 3030	marine
+T99965	NAME-ner 3054 3059	Roger
+T99966	DATE-ner 3064 3073	30+ years
+T99967	TITLE-ner 3081 3087	marine
+T99968	GEOPOLITICAL-ner 3132 3141	Vancouver
+T99969	TITLE-ner 3331 3337	marine
+T99970	NAME-ner 3357 3367	Gord Allan
+T99971	GEOPOLITICAL-ner 3374 3378	NMEA
+T99972	TITLE-ner 3389 3398	installer
+T99973	TITLE-ner 3403 3410	partner
+T99974	ORG-ner 3414 3444	Bayview Yachts Sales & Service
+T99975	GEOPOLITICAL-ner 3448 3454	Sidney
+T99976	DATE-ner 3509 3518	20+ years
+T99977	NAME-ner 3532 3536	Gord
+T99978	NAME-ner 3584 3595	Scott Allan
+T99979	TITLE-ner 3656 3662	marine
+T99980	NAME-ner 3708 3713	Scott
+T99981	ORG-ner 3723 3743	Blackline Marine Inc
+T99982	GEOPOLITICAL-ner 3748 3754	Sidney
+T99983	NAME-ner 3806 3817	Darcy Baine
+T99984	TITLE-ner 3824 3829	owner
+T99985	ORG-ner 3833 3845	Baine Marine
+T99986	GEOPOLITICAL-ner 3849 3863	Campbell River
+T99987	NAME-ner 3865 3870	Darcy
+T99988	DATE-ner 3875 3893	more than 24 years
+T99989	TITLE-ner 3912 3918	marine
+T99990	GEOPOLITICAL-ner 4018 4025	Nanaimo
+T99991	NAME-ner 4027 4042	Brendan Burgess
+T99992	TITLE-ner 4052 4062	shipwright
+T99993	ORG-ner 4066 4082	Commodores Boats
+T99994	GEOPOLITICAL-ner 4086 4095	Vancouver
+T99995	NAME-ner 4097 4104	Brendan
+T99996	GEOPOLITICAL-ner 4147 4149	UK
+T99997	NAME-ner 4151 4163	Brook Butler
+T99998	ORG-ner 4212 4233	Vector Yacht Services
+T99999	DATE-ner 4238 4256	more than a decade
+T999100	NAME-ner 4293 4308	Serge Gabilondo
+T999101	TITLE-ner 4354 4364	specialist
+T999102	ORG-ner 4368 4388	Blackline Marine Inc
+T999103	DATE-ner 4397 4406	20+ years
+T999104	NAME-ner 4457 4462	Serge
+T999105	NAME-ner 4502 4514	Mark Gilbert
+T999106	TITLE-ner 4516 4530	Owner/Operator
+T999107	ORG-ner 4534 4551	MG Yacht Services
+T999108	TITLE-ner 4558 4565	partner
+T999109	ORG-ner 4569 4599	Yacht Associates International
+T999110	TITLE-ner 4600 4606	marine
+T999111	NAME-ner 4618 4622	Mark
+T999112	DATE-ner 4627 4636	40+ years
+T999113	TITLE-ner 4644 4650	marine
+T999114	NAME-ner 4690 4703	Les Gunderson
+T999115	TITLE-ner 4722 4732	Shipwright
+T999116	DATE-ner 4737 4746	55+ years
+T999117	GEOPOLITICAL-ner 4883 4892	Vancouver
+T999118	NAME-ner 4894 4904	Jason Gunn
+T999119	GEOPOLITICAL-ner 4916 4920	NMEA
+T999120	TITLE-ner 4931 4940	installer
+T999121	DATE-ner 4945 4954	20+ years
+T999122	ORG-ner 4960 4983	Victoria General Marine
+T999123	LOCATION-ner 5036 5052	the Gulf Islands
+T999124	NAME-ner 5054 5059	Jason
+T999125	ORG-ner 5068 5094	Electrical and Electronics
+T999126	GEOPOLITICAL-ner 5098 5104	Sidney
+T999127	NAME-ner 5106 5120	Eric Jespersen
+T999128	TITLE-ner 5122 5132	Journeyman
+T999129	TITLE-ner 5147 5156	President
+T999130	NAME-ner 5282 5286	Eric
+T999131	NAME-ner 5313 5325	Keenan Laing
+T999132	TITLE-ner 5327 5341	Owner/Operator
+T999133	TITLE-ner 5349 5355	Marine
+T999134	GEOPOLITICAL-ner 5359 5368	Vancouver
+T999135	DATE-ner 5377 5386	30+ years
+T999136	NAME-ner 5457 5463	Keenan
+T999137	GEOPOLITICAL-ner 5496 5505	Vancouver
+T999138	NAME-ner 5507 5521	Ralph Pressner
+T999139	ORG-ner 5523 5531	Red Seal
+T999140	TITLE-ner 5543 5551	Mechanic
+T999141	DATE-ner 5557 5565	35 years
+T999142	TITLE-ner 5579 5585	marine
+T999143	NAME-ner 5714 5719	Ralph
+T999144	GEOPOLITICAL-ner 5756 5763	Nanaimo
+T999145	NAME-ner 5765 5781	Stuart MacKenzie
+T999146	TITLE-ner 5783 5788	owner
+T999147	ORG-ner 5792 5818	Comox Marine & Woodworking
+T999148	GEOPOLITICAL-ner 6009 6016	Nanaimo
+T999149	NAME-ner 6018 6028	Paul Magas
+T999150	TITLE-ner 6041 6059	Department Manager
+T999151	ORG-ner 6063 6078	Platinum Marine
+T999152	DATE-ner 6088 6097	30+ years
+T999153	TITLE-ner 6105 6111	marine
+T999154	NAME-ner 6161 6165	Paul
+T999155	GEOPOLITICAL-ner 6198 6207	Vancouver
+T999156	NAME-ner 6209 6220	Pete Medley
+T999157	DATE-ner 6252 6260	40 years
+T999158	ORG-ner 6309 6330	Vector Yacht Services
+T999159	GEOPOLITICAL-ner 6334 6340	Sidney
+T999160	NAME-ner 6475 6479	Pete
+T999161	NAME-ner 6514 6529	Andrea Morrison
+T999162	TITLE-ner 6565 6575	specialist
+T999163	ORG-ner 6579 6599	Blackline Marine Inc
+T999164	NAME-ner 6601 6607	Andrea
+T999165	DATE-ner 6612 6621	15+ years
+T999166	NAME-ner 6695 6705	Jim Normey
+T999167	TITLE-ner 6712 6724	Cabinetmaker
+T999168	TITLE-ner 6737 6752	Marine Surveyor
+T999169	TITLE-ner 6753 6758	owner
+T999170	ORG-ner 6762 6789	Nordik Marine Surveyors Inc
+T999171	ORG-ner 6798 6818	Vocational Education
+T999172	DATE-ner 6823 6841	more than 20 years
+T999173	TITLE-ner 6856 6862	marine
+T999174	NAME-ner 6945 6948	Jim
+T999175	GEOPOLITICAL-ner 6952 6960	Quadrant
+T999176	TITLE-ner 6969 6979	Instructor
+T999177	NAME-ner 6981 6992	Tad Roberts
+T999178	DATE-ner 7004 7012	34 years
+T999179	TITLE-ner 7029 7035	marine
+T999180	NAME-ner 7152 7155	Tad
+T999181	GEOPOLITICAL-ner 7174 7181	Nanaimo
+T999182	NAME-ner 7183 7194	Alex Strong
+T999183	TITLE-ner 7215 7222	Manager
+T999184	GEOPOLITICAL-ner 7245 7251	Sidney
+T999185	DATE-ner 7257 7265	15 years
+T999186	NAME-ner 7393 7397	Alex
+T999187	NAME-ner 7455 7467	Trevor Smith
+T999188	DATE-ner 7507 7514	7 years
+T999189	DATE-ner 7559 7566	3 years
+T999190	ORG-ner 7613 7632	Blocking & Securing
+T999191	GEOPOLITICAL-ner 7636 7645	Vancouver
+T999192	NAME-ner 7647 7658	Kelly Thody
+T999193	TITLE-ner 7660 7674	Owner/Operator
+T999194	ORG-ner 7678 7705	Total Boat Marine Surveyors
+T999195	DATE-ner 7795 7804	35+ years
+T999196	NAME-ner 7863 7876	Geoff Thorner
+T999197	TITLE-ner 7878 7883	Owner
+T999198	ORG-ner 7887 7905	GT Marine Electric
+T999199	GEOPOLITICAL-ner 7909 7918	Vancouver
+T999200	DATE-ner 7927 7935	15 years
+T999201	TITLE-ner 8005 8011	marine
+T999202	NAME-ner 8058 8063	Geoff
+T999203	TITLE-ner 8072 8078	marine
+T999204	GEOPOLITICAL-ner 8094 8103	Vancouver
+T999205	NAME-ner 8105 8117	Rob Trelford
+T999206	TITLE-ner 8142 8163	Technology specialist
+T999207	ORG-ner 8167 8187	Blackline Marine Inc
+T999208	DATE-ner 8196 8205	20+ years
+T999209	NAME-ner 8272 8275	Rob
+T999210	NAME-ner 8305 8317	Nick Webster
+T999211	DATE-ner 8319 8327	34 years
+T999212	TITLE-ner 8335 8341	marine
+T999213	TITLE-ner 8358 8363	owner
+T999214	ORG-ner 8367 8373	Stones
+T999215	NAME-ner 8385 8389	Nick
+T999216	GEOPOLITICAL-ner 8476 8483	Nanaimo
+T999217	NAME-ner 8485 8496	Steve White
+T999218	DATE-ner 8508 8516	45 years
+T999219	TITLE-ner 8524 8530	marine
+T999220	TITLE-ner 8559 8577	operations manager
+T999221	NAME-ner 8659 8664	Steve
+T999222	GEOPOLITICAL-ner 8684 8691	Nanaimo
+T999223	NAME-ner 8850 8861	Alex Brydon
+T999224	TITLE-ner 8869 8878	Architect
+T999225	TITLE-ner 8881 8886	Owner
+T999226	TITLE-ner 8898 8904	Marine
+T999227	GEOPOLITICAL-ner 8929 8938	Vancouver
+T999228	DATE-ner 8944 8948	2008
+T999229	DATE-ner 8952 8956	2018
+T999230	NAME-ner 8958 8971	Tyler Caddell
+T999231	ORG-ner 8973 9013	Professional Marine Restoration & Repair
+T999232	TITLE-ner 9014 9024	instructor
+T999233	GEOPOLITICAL-ner 9057 9063	Sidney
+T999234	NAME-ner 9065 9078	Kris Campbell
+T999235	ORG-ner 9085 9088	MMT
+T999236	TITLE-ner 9109 9113	lead
+T999237	NAME-ner 9186 9196	Rob Carlow
+T999238	TITLE-ner 9208 9215	builder
+T999239	DATE-ner 9220 9229	20+ years
+T999240	TITLE-ner 9234 9241	manager
+T999241	ORG-ner 9245 9268	Jespersen Boat Builders
+T999242	DATE-ner 9273 9281	14 years
+T999243	NAME-ner 9283 9292	Jeff Cote
+T999244	TITLE-ner 9302 9317	Design Engineer
+T999245	TITLE-ner 9319 9324	Owner
+T999246	ORG-ner 9328 9349	Pacific Yacht Systems
+T999247	ORG-ner 9352 9375	NMEA Advanced Installer
+T999248	TITLE-ner 9378 9388	instructor
+T999249	NAME-ner 9409 9420	Paul Gibson
+T999250	TITLE-ner 9439 9445	Marine
+T999251	NAME-ner 9524 9534	Bert Haupt
+T999252	TITLE-ner 9566 9576	specialist
+T999253	TITLE-ner 9604 9614	instructor
+T999254	ORG-ner 9618 9642	Belmont Secondary School
+T999255	NAME-ner 9645 9657	Brent Jacobi
+T999256	ORG-ner 9659 9686	Rigging & Metal Fabrication
+T999257	TITLE-ner 9687 9694	manager
+T999258	TITLE-ner 9697 9704	partner
+T999259	ORG-ner 9708 9728	Blackline Marine Inc
+T999260	GEOPOLITICAL-ner 9733 9739	Sidney
+T999261	NAME-ner 9741 9754	Geoff Macklin
+T999262	TITLE-ner 9756 9770	Owner/Operator
+T999263	ORG-ner 9784 9793	Boatworks
+T999264	NAME-ner 9847 9864	Reed Radziszewski
+T999265	TITLE-ner 9866 9871	Owner
+T999266	ORG-ner 9875 9894	Shipwright Reed Ltd
+T999267	TITLE-ner 9900 9910	Shipwright
+T999268	TITLE-ner 9927 9933	marine
+T999269	ORG-ner 10046 10075	Quadrant Marine Institute Inc
+T999270	ADDRESS-ner 10081 10118	2300 Canoe Cove Road, Sidney, BC, V8L
+T999271	ADDRESS-ner 10122 10133	, Canada250

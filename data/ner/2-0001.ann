@@ -1,0 +1,48 @@
+T5	NAME 279 284	Trump
+T6	NAME 293 298	Biden
+T7	NAME 367 372	Cuomo
+T8	NAME 599 604	Cuomo
+T12	ORG 745 748	MTA
+T13	NAME 821 838	Darryl Strawberry
+T14	NAME 876 887	Steve Cohen
+T15	ORG 899 903	Mets
+T17	NAME 938 950	Donald Trump
+T21	NAME 1038 1050	Kevin Durant
+T22	NAME 1055 1067	Kyrie Irving
+T34	UNKNOWN 1544 1551	Yankees
+T36	NAME 1662 1675	Rudy Guiliani
+T41	NAME 1999 2018	Jessica Schladebeck
+T42	ORG 2019 2038	New York Daily News
+T44	TITLE 2067 2088	former police officer
+T47	NAME 2267 2281	Scott Groshong
+T50	TITLE 2439 2445	driver
+T53	TITLE 2669 2683	police Officer
+T54	NAME 2684 2698	Scott Groshong
+T56	ORG 2705 2738	Multnomah County Sheriff's Office
+T58	TITLE 2987 2999	shop manager
+T59	NAME 3000 3012	Kevin Nimick
+T61	NAME 3142 3147	Trump
+T62	NAME 3156 3161	Biden
+T64	NAME 3766 3774	Groshong
+T65	TITLE 3833 3847	former officer
+T66	TITLE 4035 4057	veteran police officer
+T67	NAME 4115 4127	Daryl Turner
+T68	TITLE 4133 4142	president
+T69	ORG 4150 4177	Portland Police Association
+T70	TITLE 4312 4319	officer
+T72	NAME 4725 4730	Trump
+T73	NAME 4739 4744	Biden
+T2	ORG 1416 1420	NYPD
+T3	NAME 1598 1603	Trump
+T4	NAME 1753 1758	Trump
+T9	ORG 2447 2460	The Oregonian
+T11	ORG 2761 2774	The Oregonian
+T18	ORG 4545 4555	Daily News
+R1	per_employee_of Arg1:T42 Arg2:T41	
+R2	per_title Arg1:T50 Arg2:T47	
+R3	per_title Arg1:T44 Arg2:T47	
+R4	per_title Arg1:T53 Arg2:T54	
+R5	per_employee_of Arg1:T56 Arg2:T54	
+R6	per_title Arg1:T58 Arg2:T59	
+R7	per_title Arg1:T68 Arg2:T67	
+R8	per_employee_of Arg1:T69 Arg2:T67	
