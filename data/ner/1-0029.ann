@@ -1,0 +1,96 @@
+T3	NAME 408 421	Alex Jankovic
+T7	TITLE 440 449	President
+T8	TITLE 454 474	Principal Consultant
+T9	TITLE 476 483	Speaker
+T11	TITLE 515 546	Certified Management Consultant
+T13	TITLE 608 623	IT Professional
+T15	NAME 950 958	Jankovic
+T17	NAME 1228 1236	Jankovic
+T18	NAME 1366 1378	Betsy Sayers
+T20	UNKNOWN 1394 1398	ITIL
+T21	TITLE 1399 1436	Senior Business Continuity Consultant
+T22	TITLE 1438 1445	Trainer
+T23	TITLE 1447 1454	Speaker
+T24	NAME 1455 1460	Betsy
+T26	TITLE 1474 1495	DRII & DRI Instructor
+T27	TITLE 1497 1553	Director of Director IT Security & Continuity Management
+T30	UNKNOWN 1555 1558	CRA
+T32	TITLE 1561 1581	Municipal Fire Chief
+T34	TITLE 1586 1638	Municipal Community Emergency Management Coordinator
+T35	NAME 1639 1644	Betsy
+T39	TITLE 1922 1930	employee
+T40	TITLE 1932 1942	consultant
+T41	TITLE 1944 1964	conference presenter
+T42	TITLE 1966 1976	instructor
+T43	TITLE 1981 1992	facilitator
+T44	NAME 2018 2023	Betsy
+T46	ORG 2251 2285	Disaster Recovery Institute Canada
+T47	NAME 2304 2309	Betsy
+T49	ORG 2517 2537	Government of Canada
+T50	NAME 2567 2582	Jakub Pilkowski
+T51	TITLE 2599 2629	Business Continuity Consultant
+T53	NAME 2634 2643	Pilkowski
+T54	TITLE 2649 2679	Business Continuity Consultant
+T55	TITLE 2684 2708	chief creative assistant
+T57	TITLE 2983 3025	Associate Business Continuity Professional
+T62	ORG 3370 3384	StratoGrid Inc
+T65	PLATFORM 3447 3454	Twitter
+T66	PLATFORM 3457 3465	Linkedin
+T1	NAME 488 496	Jankovic
+T2	TITLE 423 426	CMC
+T4	TITLE 428 432	CBCP
+T5	TITLE 434 439	AMBCI
+T6	TITLE 548 551	CMC
+T10	TITLE 554 596	Certified Business Continuity Professional
+T14	TITLE 598 602	CBCP
+T12	TITLE 1380 1384	MBCP
+T16	TITLE 1663 1704	Canadian Business Continuity Professional
+T19	UNKNOWN 2452 2457	Betsy
+T25	ORG 2546 2565	StratoGrid Advisory
+T28	TITLE 2594 2598	ABCP
+T29	NAME 2897 2906	Pilkowski
+T31	TITLE 3027 3031	ABCP
+R1	per_title Arg1:T2 Arg2:T3	
+R2	per_title Arg1:T4 Arg2:T3	
+R3	per_title Arg1:T5 Arg2:T3	
+R4	per_title Arg1:T7 Arg2:T3	
+R5	per_title Arg1:T8 Arg2:T3	
+R6	per_title Arg1:T9 Arg2:T3	
+R7	per_alternate_names Arg1:T1 Arg2:T3	
+R8	per_title Arg1:T11 Arg2:T1	
+R9	per_title Arg1:T6 Arg2:T1	
+R10	per_title Arg1:T10 Arg2:T1	
+R11	per_title Arg1:T14 Arg2:T1	
+R12	per_title Arg1:T13 Arg2:T1	
+R13	per_title Arg1:T12 Arg2:T18	
+R14	per_title Arg1:T21 Arg2:T18	
+R15	per_title Arg1:T22 Arg2:T18	
+R16	per_title Arg1:T23 Arg2:T18	
+R17	per_alternate_names Arg1:T24 Arg2:T18	
+R18	per_title Arg1:T26 Arg2:T24	
+R19	per_title Arg1:T27 Arg2:T24	
+R20	per_title Arg1:T32 Arg2:T24	
+R21	per_title Arg1:T34 Arg2:T24	
+R22	per_title Arg1:T16 Arg2:T35	
+R23	per_title Arg1:T39 Arg2:T35	
+R24	per_title Arg1:T40 Arg2:T35	
+R25	per_title Arg1:T41 Arg2:T35	
+R26	per_title Arg1:T42 Arg2:T35	
+R27	per_title Arg1:T43 Arg2:T35	
+R28	per_title Arg1:T28 Arg2:T50	
+R29	per_title Arg1:T51 Arg2:T50	
+R30	per_title Arg1:T54 Arg2:T53	
+R31	per_alternate_names Arg1:T53 Arg2:T50	
+R32	per_title Arg1:T55 Arg2:T53	
+R33	per_title Arg1:T57 Arg2:T29	
+R34	per_title Arg1:T31 Arg2:T29	
+T33	PHONE 3326 3338	613.518.2440
+T36	PHONE 3342 3354	877.812.1570
+T37	PHONE 3405 3417	613.518.2440
+T38	PHONE 3421 3433	877.812.1570
+R35	org_phone Arg1:T33 Arg2:T62	
+R36	org_phone Arg1:T36 Arg2:T62	
+R37	org_phone Arg1:T37 Arg2:T62	
+R38	org_phone Arg1:T38 Arg2:T62	
+T45	PHONE 3103 3115	613.518.2440
+T48	PHONE 3119 3133	1.877.812.1570

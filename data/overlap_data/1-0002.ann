@@ -1,0 +1,257 @@
+T1	ORG 21 38	Temple University
+T9	ORG 2149 2166	Temple University
+T15	NAME 3248 3263	Russell Conwell
+T17	ORG 3363 3375	News & Media
+T18	ORG 3391 3408	Temple University
+T20	ORG 3679 3685	Temple
+T26	ORG 5199 5221	Fox School of Business
+T27	NAME 5377 5395	Richard M. Englert
+T28	TITLE 5397 5406	President
+T29	TITLE 5407 5416	President
+T30	NAME 5417 5435	Richard M. Englert
+T33	ORG 5566 5572	Temple
+T34	ORG 5607 5613	Temple
+T35	TITLE 5614 5621	founder
+T36	NAME 5622 5637	Russell Conwell
+T37	ORG 5677 5683	Temple
+T38	ORG 6119 6125	Temple
+T41	NAME 6430 6437	Englert
+T43	TITLE 6588 6597	President
+T44	NAME 6598 6605	Englert
+T45	TITLE 6726 6733	teacher
+T46	TITLE 6735 6748	administrator
+T47	TITLE 6753 6759	leader
+T49	TITLE 6817 6827	chancellor
+T51	TITLE 6840 6849	president
+T53	NAME 6859 6866	Englert
+T54	ORG 6878 6884	Temple
+T55	TITLE 6891 6912	assistant to the dean
+T57	DEPARTMENT 6920 6940	College of Education
+T60	TITLE 7034 7038	dean
+T61	DEPARTMENT 7046 7066	College of Education
+T62	TITLE 7071 7104	vice president for administration
+T64	TITLE 7161 7170	professor
+T65	DEPARTMENT 7178 7198	College of Education
+T66	NAME 7201 7208	Englert
+T67	ORG 7267 7291	University of California
+T69	ORG 7341 7362	Pepperdine University
+T70	NAME 7420 7438	Richard M. Englert
+T71	TITLE 7439 7448	President
+T72	ORG 7452 7469	Temple University
+T79	NAME 7615 7626	Ray Betzner
+T80	TITLE 7627 7677	Associate Vice President, Executive Communications
+T84	NAME 7716 7734	William T. Bergman
+T85	TITLE 7735 7768	Vice President for Public Affairs
+T86	NAME 7769 7785	Melissa Zavorski
+T87	TITLE 7786 7822	Executive Assistant to the President
+T88	NAME 7823 7842	Valerie I. Harrison
+T89	TITLE 7843 7893	Senior Advisor for Equity, Diversity and Inclusion
+T90	NAME 7894 7908	Mary E. Heuser
+T91	TITLE 7909 7934	Manager, Special Projects
+T92	NAME 7935 7948	George Kenney
+T93	TITLE 7949 7986	Senior Advisor for Government Affairs
+T95	TITLE 8002 8027	Manager, Special Projects
+T96	NAME 8028 8041	Anne K. Nadol
+T97	TITLE 8042 8056	Vice President
+T98	TITLE 8061 8070	Secretary
+T106	PLATFORM 8561 8569	Facebook
+T107	PLATFORM 8570 8577	Twitter
+T108	PLATFORM 8578 8587	Instagram
+T109	PLATFORM 8588 8595	YouTube
+T110	PLATFORM 8596 8604	LinkedIn
+T112	ORG 8621 8638	Temple University
+T113	ORG 8704 8710	Temple
+T10	ORG 120 137	Temple University
+T16	ORG 8221 8238	Temple University
+T22	ORG 8543 8560	Temple University
+T2	ORG 946 952	Temple
+T4	ORG 1443 1449	Temple
+T5	ORG 2235 2241	Temple
+T6	ORG 2332 2338	Temple
+T23	ORG 2894 2900	Temple
+T14	ORG 3264 3270	Temple
+T31	ORG 3349 3355	Temple
+T32	ORG 3420 3426	Temple
+T42	ORG 3577 3583	Temple
+T50	ORG 3621 3627	Temple
+T52	ORG 4003 4009	Temple
+T58	ORG 4078 4084	Temple
+T21	ORG 4149 4162	Club Quarters
+T63	ORG 4163 4179	DoubleTree Hotel
+T68	ORG 4180 4191	Hampton Inn
+T74	ORG 4192 4209	Hilton Garden Inn
+T75	ORG 4210 4247	Hilton Philadelphia at Penn's Landing
+T76	ORG 4248 4267	Holiday Inn Express
+T77	ORG 4278 4289	Loews Hotel
+T78	ORG 4290 4310	Sonesta Philadelphia
+T82	ORG 4311 4326	The Conwell Inn
+T83	ORG 4450 4478	Howard Gittis Student Center
+T24	ORG 5361 5376	Charles Library
+T25	ORG 6345 6351	Temple
+T103	ORG 6630 6636	Temple
+T48	ORG 6761 6767	Temple
+T56	ORG 7392 7410	St. John’s College
+T73	ADDRESS 7498 7514;7515 7537	1330 Polett Walk Philadelphia, PA 19122
+T81	NAME 7987 8001	Tara L. Miller
+T94	ADDRESS 8239 8259;8260 8286	1801 N. Broad Street Philadelphia, PA 19122 USA
+T99	ORG 8425 8431	Temple
+T19	ORG 113 119	Temple
+T102	ORG 475 481	Temple
+T104	ORG 608 614	Temple
+T105	ORG 644 650	Temple
+T111	ORG 694 700	Temple
+T11	TITLE 6982 7032	interim senior vice president for academic affairs
+R1	per_title Arg1:T28 Arg2:T27	
+R2	per_title Arg1:T29 Arg2:T30	
+R3	per_employee_of Arg1:T33 Arg2:T30	
+R4	per_title Arg1:T35 Arg2:T36	
+R5	org_founded_by Arg1:T34 Arg2:T36	
+R6	org_founded_by Arg1:T37 Arg2:T36	
+R7	per_title Arg1:T43 Arg2:T44	
+R8	per_employee_of Arg1:T103 Arg2:T44	
+R9	per_title Arg1:T45 Arg2:T44	
+R10	per_title Arg1:T46 Arg2:T44	
+R11	per_title Arg1:T47 Arg2:T44	
+R12	per_employee_of Arg1:T48 Arg2:T44	
+R13	per_title Arg1:T49 Arg2:T44	
+R14	per_employee_of Arg1:T54 Arg2:T53	
+R15	per_title Arg1:T55 Arg2:T53	
+R16	per_title Arg1:T11 Arg2:T53	
+R17	per_title Arg1:T60 Arg2:T53	
+R18	per_title Arg1:T62 Arg2:T53	
+R19	per_title Arg1:T64 Arg2:T53	
+R20	per_schools_attended Arg1:T67 Arg2:T66	
+R21	per_schools_attended Arg1:T69 Arg2:T66	
+R22	per_schools_attended Arg1:T56 Arg2:T66	
+R23	per_title Arg1:T71 Arg2:T70	
+R24	per_employee_of Arg1:T72 Arg2:T70	
+R25	per_title Arg1:T80 Arg2:T79	
+R26	per_title Arg1:T85 Arg2:T84	
+R27	per_title Arg1:T87 Arg2:T86	
+R28	per_title Arg1:T89 Arg2:T88	
+R29	per_title Arg1:T91 Arg2:T90	
+R30	per_title Arg1:T93 Arg2:T92	
+R31	per_title Arg1:T95 Arg2:T81	
+R32	per_title Arg1:T97 Arg2:T96	
+R33	per_title Arg1:T98 Arg2:T96	
+R34	per_title Arg1:T51 Arg2:T44	
+R37	org_address Arg1:T16 Arg2:T94	
+R35	org_department Arg1:T57 Arg2:T54	
+R36	org_department Arg1:T65 Arg2:T54	
+R38	org_department Arg1:T61 Arg2:T54	
+R39	per_employee_of Arg1:T25 Arg2:T41	
+T9991	ORG-ner 635 643	& Safety
+T9992	ORG-ner 723 743	Centers & Institutes
+T9993	ORG-ner 763 786	Faculty & Research News
+T9994	TITLE-ner 915 924	President
+T9995	ORG-ner 925 945	History & Traditions
+T9996	ORG-ner 946 959	Temple Health
+T9997	ORG-ner 960 972	News & Media
+T9998	TITLE-ner 1091 1100	President
+T9999	TITLE-ner 1125 1134	President
+T99910	ORG-ner 2149 2166	Temple University
+T99911	GEOPOLITICAL-ner 2213 2225	Philadelphia
+T99912	TITLE-ner 3127 3136	President
+T99913	TITLE-ner 3161 3170	President
+T99914	ORG-ner 3203 3226	State of the University
+T99915	NAME-ner 3248 3263	Russell Conwell
+T99916	NATIONALITY-ner 3291 3299	Diamonds
+T99917	ORG-ner 3363 3375	News & Media
+T99918	ORG-ner 3391 3408	Temple University
+T99919	ORG-ner 3499 3537	Strategic Marketing and Communications
+T99920	ORG-ner 3679 3685	Temple
+T99921	ORG-ner 4090 4130	University Approved Hotels & Car Rentals
+T99922	GEOPOLITICAL-ner 4269 4276	Midtown
+T99923	NATIONALITY-ner 4278 4283	Loews
+T99924	ORG-ner 4696 4719	Faculty Senate and News
+T99925	TITLE-ner 4781 4789	Employee
+T99926	ORG-ner 5199 5221	Fox School of Business
+T99927	NAME-ner 5377 5395	Richard M. Englert
+T99928	TITLE-ner 5397 5406	President
+T99929	TITLE-ner 5407 5416	President
+T99930	NAME-ner 5417 5435	Richard M. Englert
+T99931	DATE-ner 5508 5522	the third year
+T99932	DATE-ner 5545 5558	the 43rd year
+T99933	ORG-ner 5566 5572	Temple
+T99934	ORG-ner 5607 5613	Temple
+T99935	TITLE-ner 5614 5621	founder
+T99936	NAME-ner 5622 5637	Russell Conwell
+T99937	ORG-ner 5677 5683	Temple
+T99938	ORG-ner 6119 6125	Temple
+T99939	TITLE-ner 6387 6401	faculty member
+T99940	TITLE-ner 6403 6416	administrator
+T99941	NAME-ner 6430 6437	Englert
+T99942	DATE-ner 6574 6586	four decades
+T99943	TITLE-ner 6588 6597	President
+T99944	NAME-ner 6598 6605	Englert
+T99945	TITLE-ner 6726 6733	teacher
+T99946	TITLE-ner 6735 6748	administrator
+T99947	TITLE-ner 6753 6759	leader
+T99948	ORG-ner 6761 6787	Temple’s Board of Trustees
+T99949	TITLE-ner 6817 6827	chancellor
+T99950	DATE-ner 6831 6835	2012
+T99951	TITLE-ner 6840 6849	president
+T99952	DATE-ner 6853 6857	2016
+T99953	NAME-ner 6859 6866	Englert
+T99954	ORG-ner 6878 6884	Temple
+T99955	TITLE-ner 6891 6900	assistant
+T99956	TITLE-ner 6908 6912	dean
+T99957	ORG-ner 6920 6940	College of Education
+T99958	DATE-ner 6947 6956	the years
+T99959	TITLE-ner 6990 7011	senior vice president
+T99960	TITLE-ner 7034 7038	dean
+T99961	ORG-ner 7046 7066	College of Education
+T99962	TITLE-ner 7071 7085	vice president
+T99963	DATE-ner 7136 7140	1985
+T99964	TITLE-ner 7161 7170	professor
+T99965	ORG-ner 7178 7198	College of Education
+T99966	NAME-ner 7201 7208	Englert
+T99967	ORG-ner 7267 7291	University of California
+T99968	GEOPOLITICAL-ner 7293 7304	Los Angeles
+T99969	ORG-ner 7341 7362	Pepperdine University
+T99970	ORG-ner 7403 7410	College
+T99971	NAME-ner 7420 7438	Richard M. Englert
+T99972	TITLE-ner 7439 7448	President
+T99973	ORG-ner 7452 7469	Temple University
+T99974	TITLE-ner 7470 7476	Second
+T99975	DATE-ner 7498 7502	1330
+T99976	GEOPOLITICAL-ner 7515 7527	Philadelphia
+T99977	PHONE-ner 7538 7550	215-204-7405
+T99978	PHONE-ner 7559 7571	215-204-5600
+T99979	EMAIL-ner 7578 7598	president@temple.edu
+T99980	NAME-ner 7615 7626	Ray Betzner
+T99981	TITLE-ner 7627 7651	Associate Vice President
+T99982	ORG-ner 7653 7677	Executive Communications
+T99983	EMAIL-ner 7678 7696	betzner@temple.edu
+T99984	PHONE-ner 7697 7709	215-204-8564
+T99985	NAME-ner 7716 7734	William T. Bergman
+T99986	TITLE-ner 7735 7749	Vice President
+T99987	NAME-ner 7769 7785	Melissa Zavorski
+T99988	TITLE-ner 7796 7822	Assistant to the President
+T99989	NAME-ner 7823 7842	Valerie I. Harrison
+T99990	TITLE-ner 7843 7857	Senior Advisor
+T99991	NAME-ner 7894 7908	Mary E. Heuser
+T99992	TITLE-ner 7909 7916	Manager
+T99993	NAME-ner 7935 7948	George Kenney
+T99994	TITLE-ner 7949 7963	Senior Advisor
+T99995	NAME-ner 7987 8001	Tara L. Miller
+T99996	TITLE-ner 8002 8009	Manager
+T99997	NAME-ner 8028 8041	Anne K. Nadol
+T99998	TITLE-ner 8042 8056	Vice President
+T99999	TITLE-ner 8061 8070	Secretary
+T999100	ORG-ner 8078 8095	Board of Trustees
+T999101	TITLE-ner 8121 8130	President
+T999102	TITLE-ner 8155 8164	President
+T999103	ORG-ner 8197 8220	State of the University
+T999104	ADDRESS-ner 8239 8259;8260 8286	1801 N. Broad Street Philadelphia, PA 19122 USA
+T999105	PHONE-ner 8287 8301	(215) 204-7000
+T999106	ORG-ner 8302 8326	Cherry & White Directory
+T999107	ORG-ner 8425 8431	Temple
+T999108	PLATFORM-ner 8561 8569	Facebook
+T999109	PLATFORM-ner 8570 8577	Twitter
+T999110	PLATFORM-ner 8578 8587	Instagram
+T999111	PLATFORM-ner 8588 8595	YouTube
+T999112	PLATFORM-ner 8596 8604	LinkedIn
+T999113	DATE-ner 8605 8619	Copyright 2020
+T999114	ORG-ner 8621 8638	Temple University
+T999115	ORG-ner 8704 8710	Temple

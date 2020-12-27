@@ -1,0 +1,232 @@
+T1	ORG 21 24	FBI
+T2	PLATFORM 127 135	Facebook
+T3	PLATFORM 152 159	Twitter
+T4	PLATFORM 190 198	LinkedIn
+T5	PLATFORM 204 213	Instagram
+T6	ORG 226 229	FBI
+T7	ORG 244 278	FBIFederal Bureau of Investigation
+T8	ORG 434 437	FBI
+T9	TITLE 452 460	Director
+T10	NAME 461 477	Christopher Wray
+T12	NAME 503 519	Christopher Wray
+T13	TITLE 531 546	eighth Director
+T14	ORG 554 557	FBI
+T17	NAME 581 585	Wray
+T19	ORG 643 664	Department of Justice
+T20	TITLE 671 694	assistant U.S. attorney
+T26	NAME 751 755	Wray
+T29	NAME 904 908	Wray
+T30	TITLE 919 952	associate deputy attorney general
+T31	TITLE 963 1006	principal associate deputy attorney general
+T36	ORG 1107 1128	Department of Justice
+T37	ORG 1130 1133	DOJ
+T38	ORG 1203 1206	DOJ
+T40	NAME 1239 1243	Wray
+T41	TITLE 1261 1270	President
+T42	NAME 1271 1285	George W. Bush
+T44	TITLE 1304 1330	assistant attorney general
+T45	DEPARTMENT 1341 1358	Criminal Division
+T47	DEPARTMENT 1500 1546	Counterintelligence and Export Control Section
+T48	DEPARTMENT 1571 1588	Criminal Division
+T49	ORG 1612 1615	DOJ
+T52	NAME 1692 1696	Wray
+T53	TITLE 1703 1709	member
+T55	ORG 1772 1788	Enron Task Force
+T56	TITLE 1806 1812	leader
+T57	ORG 1816 1819	DOJ
+T59	NAME 1971 1975	Wray
+T60	ORG 2018 2021	DOJ
+T62	NAME 2077 2081	Wray
+T64	ORG 2152 2167	Yale University
+T66	ORG 2207 2222	Yale Law School
+T68	TITLE 2247 2252	Judge
+T70	NAME 2253 2270	J. Michael Luttig
+T71	ORG 2278 2299	U.S. Court of Appeals
+T72	ORG 2308 2322	Fourth Circuit
+T75	NAME 2337 2341	Wray
+T78	ORG 2558 2561	FBI
+T79	TITLE 2562 2570	Director
+T81	NAME 2576 2580	Wray
+T82	DEPARTMENT 2605 2665	Special Matters and Government Investigations Practice Group
+T83	TITLE 2680 2695	Deputy Director
+T84	NAME 2698 2711	David Bowdich
+T85	TITLE 2712 2737	Associate Deputy Director
+T86	NAME 2740 2751	Paul Abbate
+T87	TITLE 2752 2766	Chief of Staff
+T88	NAME 2769 2783	Paul B. Murphy
+T92	DEPARTMENT 2849 2880	Finance and Facilities Division
+T93	NAME 2883 2899	David Schlendorf
+T94	DEPARTMENT 2900 2931	Information Management Division
+T95	NAME 2934 2948	Arlene Gaylord
+T98	NAME 2973 2988	M.A. "Mo" Myers
+T99	NAME 3011 3026	Douglas A. Leff
+T101	NAME 3069 3083	Jonathan Moffa
+T102	DEPARTMENT 3093 3124	Office of Congressional Affairs
+T103	NAME 3127 3140	Jill C. Tyson
+T104	DEPARTMENT 3141 3162	Office of EEO Affairs
+T106	NAME 3165 3178	A. Tonya Odom
+T108	NAME 3211 3225	Jason A. Jones
+T109	DEPARTMENT 3226 3260	Office of Integrity and Compliance
+T110	NAME 3263 3278	Catherine Bruno
+T111	DEPARTMENT 3279 3302	Office of the Ombudsman
+T112	NAME 3305 3325	Monique A. Bookstein
+T113	DEPARTMENT 3326 3363	Office of Professional Responsibility
+T114	NAME 3366 3378	Stuart Platt
+T115	DEPARTMENT 3379 3405	Office of Public Affairs –
+T116	NAME 3406 3419	Brian P. Hale
+T117	DEPARTMENT 3420 3444	Resource Planning Office
+T118	NAME 3447 3460	Caroline Otto
+T122	TITLE 3542 3570	Executive Assistant Director
+T123	NAME 3573 3583	John Brown
+T124	DEPARTMENT 3584 3612	Counterintelligence Division
+T125	NAME 3615 3633	Alan E. Kohler, Jr
+T126	NAME 3663 3675	Jill Sanborn
+T127	NAME 3718 3731	Paul W. Brown
+T128	NAME 3762 3782	Charles H. Kable, IV
+T129	DEPARTMENT 3783 3822	Weapons of Mass Destruction Directorate
+T130	NAME 3825 3837	Donald Alway
+T132	TITLE 3887 3915	Executive Assistant Director
+T133	NAME 3918 3928	Terry Wade
+T134	DEPARTMENT 3929 3960	Criminal Investigative Division
+T135	NAME 3963 3977	Calvin Shivers
+T136	DEPARTMENT 3978 4010	Critical Incident Response Group
+T137	NAME 4013 4028	John P. Selleck
+T138	DEPARTMENT 4029 4043	Cyber Division
+T139	NAME 4046 4057	Matt Gorham
+T140	DEPARTMENT 4058 4091	International Operations Division
+T141	NAME 4094 4109	Charles Spencer
+T142	DEPARTMENT 4110 4134	Victim Services Division
+T143	NAME 4137 4152	Regina Thompson
+T144	TITLE 4176 4204	Executive Assistant Director
+T145	NAME 4207 4222	Stephen Laycock
+T146	NAME 4253 4266	Ryan T. Young
+T148	NAME 4298 4313	George P. Beach
+T149	NAME 4345 4361	Michael Sullivan
+T150	TITLE 4395 4423	Executive Assistant Director
+T151	NAME 4426 4441	Darrin E. Jones
+T152	DEPARTMENT 4442 4488	Criminal Justice Information Services Division
+T153	NAME 4491 4508	Michael D. DeLeon
+T154	NAME 4531 4547	G. Clayton Grigg
+T155	DEPARTMENT 4548 4579	Operational Technology Division
+T157	TITLE 4634 4662	Executive Assistant Director
+T158	NAME 4665 4678	Michael Gavin
+T159	DEPARTMENT 4688 4721	IT Applications and Data Division
+T160	NAME 4724 4737	Nathan Taylor
+T161	DEPARTMENT 4747 4773	IT Infrastructure Division
+T163	TITLE 4815 4843	Executive Assistant Director
+T164	NAME 4846 4863	Jeffrey S. Sallet
+T165	DEPARTMENT 4864 4888	Human Resources Division
+T166	NAME 4891 4903	Hayden Temin
+T168	NAME 4924 4940	Larissa L. Knapp
+T169	NAME 4961 4976	Renae McDermott
+T172	ORG 5364 5368	CIRG
+T173	ORG 5644 5647	FBI
+T174	ORG 5678 5681	FBI
+T176	ORG 5751 5754	FBI
+T177	ORG 5760 5763	FBI
+T179	ORG 5980 6006	U.S. Department of Justice
+T180	ORG 6190 6193	FBI
+T181	ORG 6199 6202	FBI
+T11	PLATFORM 165 172	Youtube
+T15	PLATFORM 178 184	Flickr
+T16	ORG 1015 1052	Office of the Deputy Attorney General
+T18	DEPARTMENT 1467 1491	Counterterrorism Section
+T21	DEPARTMENT 1659 1685	National Security Division
+T22	ORG 1717 1755	President’s Corporate Fraud Task Force
+T23	ORG 2379 2398	King & Spalding LLP
+T24	TITLE 2585 2590	chair
+T25	DEPARTMENT 2949 2970	Insider Threat Office
+T27	DEPARTMENT 2989 3008	Inspection Division
+T28	DEPARTMENT 3027 3066	Office of the Chief Information Officer
+T32	DEPARTMENT 3179 3208	Office of the General Counsel
+T33	DEPARTMENT 3635 3660	Counterterrorism Division
+T34	DEPARTMENT 3676 3715	High-Value Detainee Interrogation Group
+T35	DEPARTMENT 3733 3759	Terrorist Screening Center
+T39	DEPARTMENT 4223 4250	Directorate of Intelligence
+T43	DEPARTMENT 4267 4295	Office of Partner Engagement
+T46	DEPARTMENT 4318 4342	Office of Private Sector
+T50	DEPARTMENT 4509 4528	Laboratory Division
+T51	NAME 4776 4789	Dean Phillips
+T54	DEPARTMENT 4941 4958	Training Division
+T58	DEPARTMENT 4904 4921	Security Division
+T61	ORG 6014 6017	FBI
+T63	NAME 4582 4597	Brian C. Turner
+R1	per_title Arg1:T9 Arg2:T10	
+R2	per_title Arg1:T13 Arg2:T12	
+R3	per_employee_of Arg1:T14 Arg2:T12	
+R4	per_alternate_names Arg1:T17 Arg2:T12	
+R5	per_employee_of Arg1:T19 Arg2:T17	
+R6	per_title Arg1:T20 Arg2:T17	
+R7	per_title Arg1:T30 Arg2:T29	
+R8	per_title Arg1:T31 Arg2:T29	
+R9	per_employee_of Arg1:T16 Arg2:T29	
+R10	per_employee_of Arg1:T36 Arg2:T29	
+R11	org_alternate_names Arg1:T37 Arg2:T36	
+R12	per_employee_of Arg1:T37 Arg2:T29	
+R13	per_title Arg1:T41 Arg2:T42	
+R14	per_title Arg1:T44 Arg2:T40	
+R15	per_title Arg1:T53 Arg2:T52	
+R16	org_members Arg1:T22 Arg2:T52	
+R17	per_employee_of Arg1:T55 Arg2:T52	
+R18	per_title Arg1:T56 Arg2:T52	
+R19	per_employee_of Arg1:T57 Arg2:T52	
+R20	per_schools_attended Arg1:T64 Arg2:T62	
+R21	per_schools_attended Arg1:T66 Arg2:T62	
+R22	org_subsidiaries Arg1:T66 Arg2:T64	
+R23	per_title Arg1:T68 Arg2:T70	
+R24	per_employee_of Arg1:T71 Arg2:T70	
+R25	per_employee_of Arg1:T72 Arg2:T70	
+R26	per_employee_of Arg1:T23 Arg2:T75	
+R27	per_employee_of Arg1:T78 Arg2:T81	
+R28	per_title Arg1:T79 Arg2:T81	
+R29	per_title Arg1:T24 Arg2:T81	
+R30	per_title Arg1:T83 Arg2:T84	
+R31	per_title Arg1:T87 Arg2:T88	
+R32	per_title Arg1:T122 Arg2:T123	
+R33	per_title Arg1:T132 Arg2:T133	
+R34	per_title Arg1:T144 Arg2:T145	
+R35	per_title Arg1:T150 Arg2:T151	
+R36	per_title Arg1:T157 Arg2:T158	
+R37	per_title Arg1:T163 Arg2:T164	
+T65	ORG 1335 1338	DOJ
+R38	org_department Arg1:T45 Arg2:T65	
+R39	org_department Arg1:T18 Arg2:T65	
+R40	org_department Arg1:T47 Arg2:T65	
+R41	org_department Arg1:T48 Arg2:T65	
+R42	org_department Arg1:T49 Arg2:T21	
+R43	per_employee_of Arg1:T82 Arg2:T81	
+R44	per_employee_of Arg1:T92 Arg2:T93	
+R45	per_employee_of Arg1:T94 Arg2:T95	
+R46	per_employee_of Arg1:T25 Arg2:T98	
+R47	per_employee_of Arg1:T27 Arg2:T99	
+R48	per_employee_of Arg1:T28 Arg2:T101	
+R49	per_employee_of Arg1:T102 Arg2:T103	
+R50	per_employee_of Arg1:T104 Arg2:T106	
+R51	per_employee_of Arg1:T32 Arg2:T108	
+R52	per_employee_of Arg1:T109 Arg2:T110	
+R53	per_employee_of Arg1:T111 Arg2:T112	
+R54	per_employee_of Arg1:T113 Arg2:T114	
+R55	per_employee_of Arg1:T115 Arg2:T116	
+R56	per_employee_of Arg1:T117 Arg2:T118	
+R57	per_employee_of Arg1:T124 Arg2:T125	
+R58	per_employee_of Arg1:T33 Arg2:T126	
+R59	per_employee_of Arg1:T34 Arg2:T127	
+R60	per_employee_of Arg1:T35 Arg2:T128	
+R61	per_employee_of Arg1:T129 Arg2:T130	
+R62	per_employee_of Arg1:T134 Arg2:T135	
+R63	per_employee_of Arg1:T136 Arg2:T137	
+R64	per_employee_of Arg1:T138 Arg2:T139	
+R65	per_employee_of Arg1:T140 Arg2:T141	
+R66	per_employee_of Arg1:T142 Arg2:T143	
+R67	per_employee_of Arg1:T39 Arg2:T146	
+R68	per_employee_of Arg1:T43 Arg2:T148	
+R69	per_employee_of Arg1:T46 Arg2:T149	
+R70	per_employee_of Arg1:T152 Arg2:T153	
+R71	per_employee_of Arg1:T50 Arg2:T154	
+R72	per_employee_of Arg1:T155 Arg2:T63	
+R73	per_employee_of Arg1:T159 Arg2:T160	
+R74	per_employee_of Arg1:T161 Arg2:T51	
+R75	per_employee_of Arg1:T165 Arg2:T166	
+R76	per_employee_of Arg1:T58 Arg2:T168	
+R77	per_employee_of Arg1:T54 Arg2:T169	
+R78	per_employee_of Arg1:T8 Arg2:T10	

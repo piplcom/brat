@@ -1,0 +1,86 @@
+T2	ORG 290 297	Carroll
+T10	TITLE 865 874	PRESIDENT
+T12	NAME 908 918	James Ball
+T13	TITLE 936 945	president
+T14	ORG 949 956	Carroll
+T17	NAME 990 1005	Faye Pappalardo
+T19	TITLE 1039 1048	president
+T22	NAME 1098 1102	Ball
+T23	TITLE 1106 1159	former vice president of Academic and Student Affairs
+T26	TITLE 1164 1183	dean of the faculty
+T27	ORG 1187 1194	Carroll
+T30	NAME 1235 1239	Ball
+T33	TITLE 1363 1385	senior-level executive
+T36	NAME 1776 1791	David Bollinger
+T38	TITLE 1952 1969	college president
+T39	TITLE 2183 2198	third president
+T40	ORG 2202 2209	Carroll
+T42	NAME 2347 2351	Ball
+T43	TITLE 2573 2597	president of the college
+T46	NAME 2674 2689	Faye Pappalardo
+T47	ORG 2775 2782	Carroll
+T50	TITLE 2805 2839	vice president of student services
+T51	ORG 2843 2867	Howard Community College
+T54	TITLE 2907 2938	former assistant vice president
+T55	TITLE 2943 2962	dean of instruction
+T56	ORG 2966 2972	Howard
+T57	TITLE 2985 3026	director of adult and evening    services
+T60	ORG 3092 3133	Virginia Polytechnic and State University
+T65	ORG 3363 3391	North Texas State University
+T66	ORG 3397 3422	University of North Texas
+T67	ORG 3661 3686	Carroll Community College
+T77	ORG 3850 3864	Maryland Relay
+T78	ORG 3867 3892	Carroll Community College
+T79	PLATFORM 3944 3952	Facebook
+T80	PLATFORM 3953 3960	Twitter
+T81	PLATFORM 3961 3970	Instagram
+T82	PLATFORM 3971 3979	Snapchat
+T83	PLATFORM 3980 3988	LinkedIn
+T1	ORG 29 54	Carroll Community College
+T3	ORG 120 127	Carroll
+T4	ORG 339 346	Carroll
+T7	ORG 594 601	Carroll
+T11	NAME 853 863	JAMES BALL
+T15	ORG 878 903	CARROLL COMMUNITY COLLEGE
+T16	NAME 1060 1064	Ball
+T18	NAME 1745 1749	Ball
+T20	TITLE 1807 1812	chair
+T21	NAME 2796 2800	Ball
+T24	ORG 2869 2875	Howard
+T25	NAME 3032 3036	Ball
+T28	ADDRESS 3687 3730	1601 Washington Road, Westminster, MD 21157
+#1	AnnotatorNotes T20	full title??
+R1	per_title Arg1:T10 Arg2:T11	
+R2	per_employee_of Arg1:T15 Arg2:T11	
+R3	per_title Arg1:T13 Arg2:T12	
+R4	per_employee_of Arg1:T14 Arg2:T12	
+R5	per_title Arg1:T19 Arg2:T17	
+R6	per_title Arg1:T23 Arg2:T22	
+R7	per_title Arg1:T26 Arg2:T22	
+R8	per_employee_of Arg1:T27 Arg2:T22	
+R9	per_title Arg1:T33 Arg2:T30	
+R10	per_title Arg1:T20 Arg2:T36	
+R11	per_title Arg1:T38 Arg2:T18	
+R12	per_title Arg1:T39 Arg2:T42	
+R13	per_employee_of Arg1:T40 Arg2:T42	
+R14	per_title Arg1:T43 Arg2:T42	
+R15	per_title Arg1:T50 Arg2:T21	
+R16	per_employee_of Arg1:T47 Arg2:T21	
+R17	per_employee_of Arg1:T51 Arg2:T21	
+R18	per_employee_of Arg1:T24 Arg2:T21	
+R19	per_title Arg1:T54 Arg2:T21	
+R20	per_title Arg1:T55 Arg2:T21	
+R21	per_employee_of Arg1:T56 Arg2:T21	
+R22	per_title Arg1:T57 Arg2:T21	
+R23	per_schools_attended Arg1:T60 Arg2:T25	
+R24	per_schools_attended Arg1:T65 Arg2:T25	
+R25	org_alternate_names Arg1:T66 Arg2:T65	
+R26	per_schools_attended Arg1:T66 Arg2:T25	
+R27	org_alternate_names Arg1:T24 Arg2:T51	
+R28	org_address Arg1:T67 Arg2:T28	
+R29	per_alternate_names Arg1:T16 Arg2:T12	
+R30	org_alternate_names Arg1:T14 Arg2:T15	
+T5	PHONE 3737 3749	410-386-8000
+T6	PHONE 3755 3769	1-888-221-9748
+R31	org_phone Arg1:T5 Arg2:T67	
+R32	org_phone Arg1:T6 Arg2:T67	

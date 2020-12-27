@@ -1,0 +1,295 @@
+T24	ORG 2168 2172	AUEA
+T29	NAME 2671 2691	Daniel Locke-Wheaton
+T30	TITLE 2692 2701	Principal
+T33	NAME 2739 2752	Rachael Grant
+T34	TITLE 2753 2783	Attendance and Welfare Officer
+T36	NAME 2824 2839	Michael Coulson
+T37	TITLE 2840 2877	Subject Leader for English Literature
+T39	NAME 2943 2953	Neil Scott
+T40	TITLE 2954 2977	Chief Operating Officer
+T41	ORG 2979 2995	Aston University
+T42	NAME 3045 3055	Neil Scott
+T43	TITLE 3063 3086	Chief financial Officer
+T44	ORG 3091 3096	Aston
+T46	ORG 3150 3174	Staffordshire University
+T47	ORG 3176 3201	Wyvale Garden Centres plc
+T48	ORG 3203 3210	Marston
+T49	ORG 3212 3235	Thompson & Evershed plc
+T50	ORG 3244 3262	Ford Motor Company
+T51	ORG 3274 3279	Aston
+T52	ORG 3289 3307	University of Hull
+T53	TITLE 3321 3342	Chief Finance Officer
+T54	NAME 3344 3348	Neil
+T55	TITLE 3404 3412	Director
+T56	TITLE 3417 3426	Treasurer
+T57	ORG 3434 3488	Environmental Association of Universities and Colleges
+T58	ORG 3490 3494	EAUC
+T59	TITLE 3502 3514	board member
+T60	ORG 3522 3567	British Universities Finance Directors’ Group
+T61	TITLE 3627 3636	associate
+T62	ORG 3644 3689	Chartered Institute of Management Accountants
+T63	NAME 3694 3704	Iain Roche
+T64	TITLE 3705 3723	Head of Innovation
+T65	TITLE 3754 3776	Director of Innovation
+T66	NAME 3783 3793	Iain Roche
+T67	ORG 3801 3808	HS2 Ltd
+T68	TITLE 3812 3830	Head of Innovation
+T70	ORG 3890 3905	Rolls-Royce Plc
+T74	NAME 4505 4509	Iain
+T75	ORG 4557 4580	Loughborough University
+T76	ORG 4604 4650	institute of Innovation and Knowledge Exchange
+T77	ORG 4652 4656	FIKE
+T78	ORG 4674 4677	NEF
+T79	NAME 4701 4712	John Walter
+T80	TITLE 4713 4735	Director of Governance
+T81	ORG 4737 4753	Aston University
+T82	NAME 4754 4758	John
+T83	DEPARTMENT 4912 4919	Council
+T84	DEPARTMENT 4945 4960	Audit Committee
+T85	DEPARTMENT 4962 5014	Finance and Major Projects and Nominations Committee
+T86	DEPARTMENT 5021 5027	Senate
+T87	DEPARTMENT 5036 5050	Executive Team
+T88	TITLE 5063 5094	secretary to the Governing Body
+T90	ORG 5102 5138	Aston University Engineering Academy
+T92	NAME 5180 5184	John
+T93	NAME 5279 5283	John
+T94	TITLE 5302 5308	member
+T95	ORG 5316 5354	University's Research Ethics Committee
+T96	NAME 5356 5360	John
+T97	TITLE 5367 5373	member
+T98	ORG 5381 5385	AUEA
+T100	ORG 5467 5483	Aston University
+T101	NAME 5488 5499	Paul Harper
+T102	TITLE 5500 5508	Lecturer
+T104	ORG 5516 5532	Aston University
+T105	NAME 5533 5537	Paul
+T106	ORG 5569 5574	Aston
+T110	ORG 5705 5729	Photonics Research Group
+T113	NAME 5940 5944	Paul
+T114	TITLE 5951 5978	Senior Development Engineer
+T115	ORG 6136 6143	Marconi
+T117	TITLE 6147 6175	Photonic System Test Manager
+T118	NAME 6177 6181	Paul
+T119	TITLE 6187 6202	founding member
+T120	ORG 6206 6212	AUEA's
+T121	ORG 6247 6251	AUEA
+T124	NAME 6288 6300	Colin Parker
+T125	TITLE 6301 6311	Headmaster
+T129	NAME 6439 6444	Colin
+T130	TITLE 6587 6597	Headmaster
+T132	ORG 6601 6628	King Edward VI Aston School
+T133	TITLE 6640 6681	Chairman of Governors of a primary school
+T135	TITLE 6685 6712	registered Ofsted inspector
+T136	DEPARTMENT 6745 6769	Department for Education
+T137	NAME 6816 6829	Tracey Linton
+T138	TITLE 6830 6862	Governor - Lead for Safeguarding
+T140	NAME 6863 6869	Tracey
+T141	ORG 6891 6914	Birmingham City Council
+T145	NAME 7136 7142	Tracey
+T148	NAME 7468 7474	Tracey
+T150	DEPARTMENT 7680 7704	Local Safeguarding Board
+T151	DEPARTMENT 7706 7744	Early Help and Family Support services
+T154	NAME 7821 7834	Peter Hazzard
+T155	TITLE 7835 7851	Senior Associate
+T156	NAME 7861 7874	Peter Hazzard
+T157	TITLE 7876 7894	Associate Director
+T158	NAME 7906 7911	Peter
+T159	TITLE 7917 7953	Chartered Mechanical Design Engineer
+T161	NAME 8190 8195	Peter
+T164	ORG 8483 8487	AUEA
+T165	NAME 8921 8926	Peter
+T166	ORG 8946 8973	University of Hertfordshire
+T170	ORG 9125 9146	DeMontfort University
+T172	TITLE 9193 9199	Member
+T173	ORG 9203 9208	CIBSE
+T174	TITLE 9218 9236	Chartered Engineer
+T175	NAME 9238 9256	Richard Billingham
+T176	TITLE 9257 9302	Director of HR and Organisational Development
+T178	ORG 9304 9320	Aston University
+T179	NAME 9321 9339	Richard Billingham
+T180	TITLE 9347 9392	Director of HR and Organisational Development
+T182	ORG 9396 9412	Aston University
+T185	ORG 9704 9709	Aston
+T186	ORG 9715 9735	Bristol City Council
+T187	TITLE 9749 9787	Director of Human Resources and Change
+T188	NAME 9789 9796	Richard
+T189	NAME 10079 10090	Richard Toy
+T190	TITLE 10091 10094	CEO
+T191	ORG 10098 10129	Auctus Management Group Limited
+T192	NAME 10130 10137	Richard
+T195	TITLE 10247 10264	Regional Director
+T196	ORG 10293 10306	Carillion Plc
+T199	NAME 10432 10439	Richard
+T200	ORG 10447 10470	Auctus Management Group
+T201	ORG 10482 10507	Rail Safety Solutions Ltd
+T202	ORG 10509 10512	RSS
+T204	ORG 10589 10618	Auctus Training Solutions Ltd
+T206	TITLE 10747 10765	local entrepreneur
+T207	NAME 10767 10774	Richard
+T208	NAME 10925 10941	Aman Gill-Knobbs
+T209	TITLE 10942 10964	Director of Operations
+T210	ORG 10965 11024	College of Engineering & Physical Sciences Aston University
+T212	NAME 11028 11043	Antonio Fratini
+T213	TITLE 11044 11085	Senior Lecturer in Biomedical Engineering
+T215	ORG 11087 11121	School of Life and Health Sciences
+T216	NAME 11122 11133	Sarah Plumb
+T218	TITLE 11134 11149	Parent Governor
+T219	NAME 11150 11160	Lee Harvey
+T220	TITLE 11161 11176	Parent Governor
+T221	NAME 11177 11188	Mandy  Ross
+T222	TITLE 11189 11218	Associate Non-Voting Governor
+T229	ORG 12047 12083	Aston University Engineering Academy
+T2	ORG 330 334	AUEA
+T3	ORG 587 591	AUEA
+T4	ORG 1140 1144	AUEA
+T5	ORG 1401 1405	AUEA
+T7	ORG 1771 1775	AUEA
+T8	TITLE 3006 3039	Chair of Governing Board/Trustees
+T9	ORG 3725 3753	High Speed Two (HS2) Limited
+T10	ORG 3778 3781	HS2
+T11	ORG 5782 5787	Aston
+T12	ORG 5888 5903	Marconi-Solstis
+T13	ORG 6313 6340	King Edward VI Aston School
+T14	ORG 7853 7860	Cundall
+T15	ORG 7898 7905	Cundall
+T16	ORG 8589 8594	ESFA’
+T17	ORG 8740 8747	Cundall
+T18	TITLE 9819 9837	Chair of Governors
+T19	ORG 10269 10275	Adecco
+T20	ORG 10317 10324	SkyBlue
+T21	ORG 11471 11475	AUEA
+T22	ORG 11727 11731	AUEA
+T1	DEPARTMENT 5460 5463	UTC
+T26	ORG 8354 8358	DCSF
+R1	per_title Arg1:T30 Arg2:T29	
+R2	per_title Arg1:T34 Arg2:T33	
+R3	per_title Arg1:T37 Arg2:T36	
+R4	per_title Arg1:T40 Arg2:T39	
+R5	per_employee_of Arg1:T41 Arg2:T39	
+R6	per_title Arg1:T8 Arg2:T39	
+R7	per_title Arg1:T43 Arg2:T42	
+R8	per_employee_of Arg1:T44 Arg2:T42	
+R9	org_alternate_names Arg1:T44 Arg2:T41	
+R10	per_employee_of Arg1:T46 Arg2:T42	
+R11	per_employee_of Arg1:T47 Arg2:T42	
+R12	per_employee_of Arg1:T48 Arg2:T42	
+R13	per_employee_of Arg1:T49 Arg2:T42	
+R14	per_employee_of Arg1:T50 Arg2:T42	
+R15	per_employee_of Arg1:T51 Arg2:T42	
+R16	per_employee_of Arg1:T52 Arg2:T42	
+R17	org_alternate_names Arg1:T41 Arg2:T24	
+R18	per_title Arg1:T53 Arg2:T42	
+R19	per_title Arg1:T55 Arg2:T54	
+R20	per_title Arg1:T56 Arg2:T54	
+R21	org_alternate_names Arg1:T58 Arg2:T57	
+R22	per_employee_of Arg1:T57 Arg2:T54	
+R23	per_employee_of Arg1:T58 Arg2:T54	
+R24	per_title Arg1:T59 Arg2:T54	
+R25	org_members Arg1:T60 Arg2:T54	
+R26	per_title Arg1:T61 Arg2:T54	
+R27	per_employee_of Arg1:T62 Arg2:T54	
+R28	per_title Arg1:T64 Arg2:T63	
+R29	per_employee_of Arg1:T9 Arg2:T63	
+R30	per_title Arg1:T65 Arg2:T63	
+R31	per_employee_of Arg1:T10 Arg2:T63	
+R32	org_alternate_names Arg1:T10 Arg2:T9	
+R33	org_alternate_names Arg1:T67 Arg2:T10	
+R34	org_alternate_names Arg1:T67 Arg2:T9	
+R35	per_employee_of Arg1:T67 Arg2:T66	
+R36	per_title Arg1:T68 Arg2:T66	
+R37	per_employee_of Arg1:T70 Arg2:T66	
+R38	per_schools_attended Arg1:T75 Arg2:T74	
+R39	per_schools_attended Arg1:T76 Arg2:T74	
+R40	org_alternate_names Arg1:T77 Arg2:T76	
+R41	per_schools_attended Arg1:T77 Arg2:T74	
+R42	per_employee_of Arg1:T78 Arg2:T74	
+R43	per_alternate_names Arg1:T66 Arg2:T74	
+R44	per_alternate_names Arg1:T79 Arg2:T82	
+R45	per_title Arg1:T80 Arg2:T79	
+R46	per_employee_of Arg1:T81 Arg2:T79	
+R47	per_title Arg1:T88 Arg2:T82	
+R48	per_employee_of Arg1:T90 Arg2:T82	
+R49	per_title Arg1:T94 Arg2:T93	
+R50	org_members Arg1:T95 Arg2:T93	
+R51	per_title Arg1:T97 Arg2:T96	
+R52	org_members Arg1:T98 Arg2:T96	
+R53	per_employee_of Arg1:T100 Arg2:T96	
+R54	per_title Arg1:T102 Arg2:T101	
+T25	DEPARTMENT 5510 5514	SEAS
+R55	per_employee_of Arg1:T104 Arg2:T101	
+R56	per_employee_of Arg1:T106 Arg2:T105	
+R57	org_alternate_names Arg1:T106 Arg2:T104	
+R58	per_employee_of Arg1:T110 Arg2:T105	
+R59	per_employee_of Arg1:T12 Arg2:T105	
+R60	per_title Arg1:T114 Arg2:T113	
+R61	per_employee_of Arg1:T115 Arg2:T113	
+R62	per_alternate_names Arg1:T101 Arg2:T105	
+R63	per_title Arg1:T117 Arg2:T113	
+R64	per_title Arg1:T119 Arg2:T118	
+R65	per_employee_of Arg1:T120 Arg2:T118	
+R66	per_employee_of Arg1:T121 Arg2:T118	
+R67	per_title Arg1:T125 Arg2:T124	
+R68	per_employee_of Arg1:T13 Arg2:T124	
+R69	per_alternate_names Arg1:T129 Arg2:T124	
+R70	per_title Arg1:T130 Arg2:T129	
+R71	per_employee_of Arg1:T132 Arg2:T129	
+R72	per_title Arg1:T133 Arg2:T129	
+R73	per_title Arg1:T135 Arg2:T129	
+R74	per_title Arg1:T138 Arg2:T137	
+R75	per_alternate_names Arg1:T140 Arg2:T137	
+R76	per_employee_of Arg1:T141 Arg2:T137	
+R77	per_title Arg1:T155 Arg2:T154	
+R78	per_employee_of Arg1:T14 Arg2:T154	
+R79	per_alternate_names Arg1:T158 Arg2:T156	
+R80	per_title Arg1:T157 Arg2:T156	
+R81	per_employee_of Arg1:T15 Arg2:T156	
+R82	per_title Arg1:T159 Arg2:T158	
+R83	per_schools_attended Arg1:T166 Arg2:T165	
+R84	per_title Arg1:T172 Arg2:T165	
+R85	org_members Arg1:T173 Arg2:T165	
+R86	per_title Arg1:T174 Arg2:T165	
+R87	per_title Arg1:T176 Arg2:T175	
+R88	per_employee_of Arg1:T178 Arg2:T175	
+R89	per_title Arg1:T180 Arg2:T179	
+R90	per_employee_of Arg1:T182 Arg2:T179	
+R91	per_employee_of Arg1:T185 Arg2:T179	
+R92	per_employee_of Arg1:T186 Arg2:T179	
+R93	per_title Arg1:T187 Arg2:T179	
+R94	per_title Arg1:T18 Arg2:T188	
+R95	per_alternate_names Arg1:T188 Arg2:T179	
+R96	per_title Arg1:T190 Arg2:T189	
+R97	per_employee_of Arg1:T191 Arg2:T189	
+R98	per_alternate_names Arg1:T192 Arg2:T189	
+R99	per_title Arg1:T195 Arg2:T192	
+R100	per_employee_of Arg1:T19 Arg2:T192	
+R101	per_employee_of Arg1:T196 Arg2:T192	
+R102	org_founded_by Arg1:T20 Arg2:T192	
+R103	org_founded_by Arg1:T200 Arg2:T199	
+R104	per_employee_of Arg1:T201 Arg2:T199	
+R105	org_alternate_names Arg1:T202 Arg2:T201	
+R106	per_employee_of Arg1:T202 Arg2:T199	
+R107	org_founded_by Arg1:T204 Arg2:T199	
+R108	per_title Arg1:T206 Arg2:T207	
+R109	per_title Arg1:T209 Arg2:T208	
+R110	per_employee_of Arg1:T210 Arg2:T208	
+R111	per_title Arg1:T213 Arg2:T212	
+R112	per_employee_of Arg1:T215 Arg2:T212	
+R113	per_title Arg1:T218 Arg2:T216	
+R114	per_title Arg1:T220 Arg2:T219	
+R115	per_title Arg1:T222 Arg2:T221	
+R116	org_alternate_names Arg1:T22 Arg2:T229	
+R117	org_department Arg1:T83 Arg2:T81	
+R118	org_department Arg1:T84 Arg2:T81	
+R119	org_department Arg1:T85 Arg2:T81	
+R120	org_department Arg1:T86 Arg2:T81	
+R121	org_department Arg1:T87 Arg2:T81	
+R122	org_department Arg1:T1 Arg2:T100	
+R123	org_department Arg1:T25 Arg2:T104	
+R124	per_employee_of Arg1:T83 Arg2:T82	
+R125	per_employee_of Arg1:T84 Arg2:T82	
+R126	per_employee_of Arg1:T85 Arg2:T82	
+R127	per_employee_of Arg1:T86 Arg2:T82	
+R128	per_employee_of Arg1:T87 Arg2:T82	
+R129	per_employee_of Arg1:T136 Arg2:T129	
+R130	per_employee_of Arg1:T150 Arg2:T148	
+R131	per_employee_of Arg1:T151 Arg2:T148	

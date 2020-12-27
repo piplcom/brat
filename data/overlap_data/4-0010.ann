@@ -1,0 +1,228 @@
+T1	ORG 94 120	Wealth Management Services
+T2	TITLE 171 178	Advisor
+T3	ORG 254 267	GRP Financial
+T4	NAME 576 587	Chris Karam
+T5	TITLE 601 625	Chief Investment Officer
+T7	NAME 636 647	Justin Fisk
+T8	TITLE 654 675	Senior Vice President
+T9	ORG 677 700	Sheridan Road Financial
+T10	NAME 701 715	Daren Alcantar
+T11	TITLE 723 737	Vice President
+T12	ORG 739 771	Investment Strategy & Analytics®
+T13	NAME 772 783	Jay Sanford
+T14	TITLE 785 793	Director
+T15	ORG 816 842	Washington Financial Group
+T16	NAME 843 856	Cameron Cooke
+T17	TITLE 863 872	Principal
+T18	TITLE 875 899	Chief Investment Officer
+T19	NAME 905 913	Tom Phan
+T20	TITLE 928 948	Investment Associate
+T21	NAME 960 971	Chris Karam
+T22	TITLE 991 1003	entrepreneur
+T23	NAME 1053 1064	Chris Karam
+T24	NAME 1262 1267	Chris
+T25	ORG 1511 1538	Karam Capital Advisors, LLC
+T26	NAME 1540 1545	Chris
+T27	TITLE 1556 1580	Chief Investment Officer
+T28	ORG 1586 1613	Sheridan Road Advisors, LLC
+T30	ORG 1637 1671	Alliance Benefit Group of Michigan
+T32	NAME 1697 1708	Justin Fisk
+T33	NAME 1715 1721	Justin
+T34	TITLE 1727 1748	Senior Vice President
+T35	ORG 1752 1771	Investment Services
+T36	TITLE 1795 1801	member
+T37	NAME 1922 1928	Justin
+T39	NAME 2052 2058	Justin
+T41	NAME 2230 2244	Daren Alcantar
+T42	NAME 2252 2257	Daren
+T43	TITLE 2261 2275	Vice President
+T44	ORG 2279 2312	Investment Strategy and Analytics
+T45	ORG 2317 2330	GRP Financial
+T47	NAME 2372 2377	Daren
+T48	ORG 2549 2567	Morningstar Direct
+T49	ORG 2572 2602	Markov Processes International
+T50	NAME 2604 2609	Daren
+T51	ORG 2725 2738	GRP Financial
+T53	NAME 2748 2753	Daren
+T55	TITLE 2776 2783	analyst
+T57	NAME 2857 2862	Daren
+T58	TITLE 2892 2903	Underwriter
+T59	ORG 2908 2935	Fidelity National Financial
+T60	NAME 2939 2950	Jay Sanford
+T61	NAME 2951 2954	Jay
+T62	ORG 2958 2986	Washington Financial Group's
+T63	TITLE 2987 2995	Director
+T64	NAME 3100 3103	Jay
+T65	NAME 3234 3237	Jay
+T66	ORG 3304 3309	WFG's
+T67	NAME 3397 3400	Jay
+T70	TITLE 3541 3548	advisor
+T71	NAME 3580 3583	Jay
+T72	TITLE 3595 3609	guest lecturer
+T74	NAME 3754 3767	Cameron Cooke
+T75	ORG 3769 3772	MBA
+T76	NAME 3773 3780	Cameron
+T77	TITLE 3788 3812	Chief Investment Officer
+T78	ORG 3817 3820	MRP
+T79	NAME 3822 3829	Cameron
+T80	ORG 3851 3856	MRP's
+T81	TITLE 3925 3930	model
+T82	NAME 4128 4135	Cameron
+T84	ORG 4221 4224	MRP
+T85	TITLE 4241 4248	analyst
+T86	TITLE 4253 4270	portfolio manager
+T88	ORG 4295 4319	Wells Capital Management
+T90	ORG 4338 4357	Invesco Funds Group
+T91	ORG 4359 4373	Janco Partners
+T92	ORG 4378 4394	Kummer Financial
+T95	NAME 4408 4416	Tom Phan
+T96	ORG 4418 4422	CFA®
+T97	NAME 4423 4426	Tom
+T98	TITLE 4439 4459	investment associate
+T99	ORG 4463 4466	MRP
+T100	NAME 4541 4544	Tom
+T101	ORG 4575 4580	MRP's
+T102	TITLE 4626 4638	fund manager
+T103	NAME 4671 4674	Tom
+T104	ORG 4681 4686	MRP's
+T105	ORG 4814 4837	University of Minnesota
+T106	NAME 4878 4881	Tom
+T107	ORG 4939 4959	Ameriprise Financial
+T108	NAME 4961 4964	Tom
+T109	ORG 4990 5003	GRP Financial
+T110	ADDRESS 5035 5067;5068 5096	4340 Redwood Highway, Suite B-60 San Rafael, California 94903
+T114	TITLE 5252 5258	Broker
+T115	ORG 5275 5278	GRP
+T116	ORG 5356 5369	LPL Financial
+T117	TITLE 5371 5377	Member
+T118	ORG 5427 5458	Global Retirement Partners, LLC
+T119	TITLE 5473 5491	investment advisor
+T120	ORG 5493 5506	GRP Financial
+T121	ORG 5508 5539	Global Retirement Partners, LLC
+T122	ORG 5545 5558	LPL Financial
+T125	ORG 6004 6017	GRP Financial
+T9991	ORG-ner 94 120	Wealth Management Services
+T9992	TITLE-ner 171 178	Advisor
+T9993	ORG-ner 254 267	GRP Financial
+T9994	NAME-ner 576 587	Chris Karam
+T9995	TITLE-ner 601 625	Chief Investment Officer
+T9996	GEOPOLITICAL-ner 627 635	Finspire
+T9997	NAME-ner 636 647	Justin Fisk
+T9998	TITLE-ner 654 675	Senior Vice President
+T9999	ORG-ner 677 700	Sheridan Road Financial
+T99910	NAME-ner 701 715	Daren Alcantar
+T99911	TITLE-ner 723 737	Vice President
+T99912	ORG-ner 739 771	Investment Strategy & Analytics®
+T99913	NAME-ner 772 783	Jay Sanford
+T99914	TITLE-ner 785 793	Director
+T99915	ORG-ner 816 842	Washington Financial Group
+T99916	NAME-ner 843 856	Cameron Cooke
+T99917	TITLE-ner 863 872	Principal
+T99918	TITLE-ner 875 899	Chief Investment Officer
+T99919	NAME-ner 905 913	Tom Phan
+T99920	TITLE-ner 928 948	Investment Associate
+T99921	NAME-ner 960 971	Chris Karam
+T99922	TITLE-ner 991 1003	entrepreneur
+T99923	NAME-ner 1053 1064	Chris Karam
+T99924	NAME-ner 1262 1267	Chris
+T99925	ORG-ner 1511 1538	Karam Capital Advisors, LLC
+T99926	NAME-ner 1540 1545	Chris
+T99927	TITLE-ner 1556 1580	Chief Investment Officer
+T99928	ORG-ner 1586 1613	Sheridan Road Advisors, LLC
+T99929	DATE-ner 1618 1626	11 years
+T99930	ORG-ner 1637 1671	Alliance Benefit Group of Michigan
+T99931	DATE-ner 1676 1693	the 8 years prior
+T99932	NAME-ner 1697 1708	Justin Fisk
+T99933	NAME-ner 1715 1721	Justin
+T99934	TITLE-ner 1727 1748	Senior Vice President
+T99935	ORG-ner 1752 1771	Investment Services
+T99936	TITLE-ner 1795 1801	member
+T99937	NAME-ner 1922 1928	Justin
+T99938	DATE-ner 1967 1978	seven years
+T99939	NAME-ner 2052 2058	Justin
+T99940	DATE-ner 2065 2084	more than ten years
+T99941	NAME-ner 2230 2244	Daren Alcantar
+T99942	NAME-ner 2252 2257	Daren
+T99943	TITLE-ner 2261 2275	Vice President
+T99944	ORG-ner 2279 2312	Investment Strategy and Analytics
+T99945	ORG-ner 2317 2330	GRP Financial
+T99946	DATE-ner 2342 2356	thirteen years
+T99947	NAME-ner 2372 2377	Daren
+T99948	ORG-ner 2549 2567	Morningstar Direct
+T99949	ORG-ner 2572 2602	Markov Processes International
+T99950	NAME-ner 2604 2609	Daren
+T99951	ORG-ner 2725 2738	GRP Financial
+T99952	DATE-ner 2742 2746	2015
+T99953	NAME-ner 2748 2753	Daren
+T99954	DATE-ner 2760 2769	six years
+T99955	TITLE-ner 2776 2783	analyst
+T99956	GEOPOLITICAL-ner 2830 2840	California
+T99957	NAME-ner 2857 2862	Daren
+T99958	TITLE-ner 2892 2903	Underwriter
+T99959	ORG-ner 2908 2935	Fidelity National Financial
+T99960	NAME-ner 2939 2950	Jay Sanford
+T99961	NAME-ner 2951 2954	Jay
+T99962	ORG-ner 2958 2986	Washington Financial Group's
+T99963	TITLE-ner 2987 2995	Director
+T99964	NAME-ner 3100 3103	Jay
+T99965	NAME-ner 3234 3238	Jay'
+T99966	ORG-ner 3304 3309	WFG's
+T99967	NAME-ner 3397 3400	Jay
+T99968	DATE-ner 3456 3460	1995
+T99969	DATE-ner 3462 3485	A year and a half later
+T99970	TITLE-ner 3541 3548	advisor
+T99971	NAME-ner 3580 3583	Jay
+T99972	TITLE-ner 3595 3609	guest lecturer
+T99973	GEOPOLITICAL-ner 3730 3745	Washington D.C.
+T99974	NAME-ner 3754 3767	Cameron Cooke
+T99975	ORG-ner 3769 3772	MBA
+T99976	NAME-ner 3773 3780	Cameron
+T99977	TITLE-ner 3788 3812	Chief Investment Officer
+T99978	ORG-ner 3817 3820	MRP
+T99979	NAME-ner 3822 3829	Cameron
+T99980	ORG-ner 3851 3856	MRP's
+T99981	TITLE-ner 3925 3930	model
+T99982	NAME-ner 4128 4135	Cameron
+T99983	DATE-ner 4184 4202	twenty-three years
+T99984	ORG-ner 4221 4224	MRP
+T99985	TITLE-ner 4241 4248	analyst
+T99986	TITLE-ner 4253 4270	portfolio manager
+T99987	DATE-ner 4278 4282	1994
+T99988	ORG-ner 4295 4319	Wells Capital Management
+T99989	GEOPOLITICAL-ner 4323 4336	San Francisco
+T99990	ORG-ner 4338 4357	Invesco Funds Group
+T99991	ORG-ner 4359 4373	Janco Partners
+T99992	ORG-ner 4378 4394	Kummer Financial
+T99993	GEOPOLITICAL-ner 4398 4404	Denver
+T99994	GEOPOLITICAL-ner 4406 4407	×
+T99995	NAME-ner 4408 4416	Tom Phan
+T99996	ORG-ner 4418 4422	CFA®
+T99997	NAME-ner 4423 4426	Tom
+T99998	TITLE-ner 4439 4459	investment associate
+T99999	ORG-ner 4463 4466	MRP
+T999100	NAME-ner 4541 4544	Tom
+T999101	ORG-ner 4575 4580	MRP's
+T999102	TITLE-ner 4626 4638	fund manager
+T999103	NAME-ner 4671 4674	Tom
+T999104	ORG-ner 4681 4686	MRP's
+T999105	ORG-ner 4814 4837	University of Minnesota
+T999106	NAME-ner 4878 4881	Tom
+T999107	ORG-ner 4939 4959	Ameriprise Financial
+T999108	NAME-ner 4961 4964	Tom
+T999109	ORG-ner 4990 5003	GRP Financial
+T999110	ADDRESS-ner 5035 5067;5068 5096	4340 Redwood Highway, Suite B-60 San Rafael, California 94903
+T999111	EMAIL-ner 5099 5125	lien.tran@grpfinancial.com
+T999112	PHONE-ner 5126 5140	(415) 526-2750
+T999113	PHONE-ner 5141 5155	(415) 526-2763
+T999114	TITLE-ner 5252 5258	Broker
+T999115	ORG-ner 5275 5278	GRP
+T999116	ORG-ner 5356 5369	LPL Financial
+T999117	TITLE-ner 5371 5377	Member
+T999118	ORG-ner 5427 5458	Global Retirement Partners, LLC
+T999119	TITLE-ner 5473 5491	investment advisor
+T999120	ORG-ner 5493 5506	GRP Financial
+T999121	ORG-ner 5508 5539	Global Retirement Partners, LLC
+T999122	ORG-ner 5545 5558	LPL Financial
+T999123	GEOPOLITICAL-ner 5684 5688	U.S.
+T999124	GEOPOLITICAL-ner 5738 5742	U.S.
+T999125	ORG-ner 6004 6017	GRP Financial

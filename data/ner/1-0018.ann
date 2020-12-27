@@ -1,0 +1,200 @@
+T2	ORG 248 261	Paddle Boston
+T16	NAME 2049 2060	Larry Smith
+T17	TITLE 2063 2068	Owner
+T18	NAME 2069 2074	Larry
+T22	NAME 2362 2375	Mark Jacobson
+T23	TITLE 2378 2393	General Manager
+T24	NAME 2407 2411	Mark
+T29	NAME 2524 2528	Mark
+T31	NAME 2985 2997	Bryce Morris
+T32	TITLE 3000 3015	General Manager
+T37	NAME 3287 3297	Ellie Hall
+T38	TITLE 3300 3319	Director of Guiding
+T39	NAME 3333 3338	Ellie
+T43	TITLE 3445 3487	certified Paddleboard and Kayak instructor
+T44	NAME 3536 3546	Deb Laufer
+T45	TITLE 3549 3578	Director of Staff Development
+T46	NAME 3579 3582	Deb
+T49	TITLE 3734 3756	Paddleboard instructor
+T53	NAME 3906 3920	Jonathan Moore
+T54	TITLE 3923 3937	Retail Manager
+T55	NAME 3951 3959	Jonathan
+T58	NAME 4096 4104	Jonathan
+T60	NAME 4211 4219	Jonathan
+T61	NAME 4333 4343	Greg Purdy
+T62	TITLE 4346 4363	Repair Technician
+T63	NAME 4364 4368	Greg
+T67	NAME 4611 4622	John Pyne –
+T68	TITLE 4623 4640	Event Coordinator
+T69	NAME 4641 4645	John
+T74	NAME 4750 4754	John
+T76	NAME 4844 4848	John
+T78	NAME 5014 5029	Keith Reinemann
+T79	TITLE 5032 5049	Event Coordinator
+T80	NAME 5050 5055	Keith
+T89	NAME 5417 5422	Keith
+T90	NAME 5506 5517	Pete Nelson
+T91	TITLE 5520 5540	Waltham Site Manager
+T92	NAME 5541 5545	Pete
+T95	ORG 5618 5644	American Canoe Association
+T96	TITLE 5645 5680	certified L2 Paddleboard Instructor
+T97	NAME 5731 5743	Jake Gleason
+T98	TITLE 5746 5772	Waltham Asst. Site Manager
+T99	NAME 5786 5790	Jake
+T101	NAME 5994 5998	Jake
+T104	NAME 6089 6102	Sean Turcotte
+T105	TITLE 6105 6117	Site Manager
+T107	NAME 6145 6149	Sean
+T110	NAME 6213 6226	Rowan Boynton
+T111	TITLE 6228 6238	Supervisor
+T112	NAME 6239 6244	Rowan
+T114	NAME 6327 6338	Liz Khitrik
+T115	TITLE 6341 6351	Supervisor
+T116	NAME 6352 6355	Liz
+T118	NAME 6414 6427	Karen Doherty
+T119	TITLE 6430 6440	Supervisor
+T120	NAME 6441 6446	Karen
+T124	ORG 6514 6517	ACA
+T125	TITLE 6518 6550	certified paddleboard instructor
+T128	NAME 6704 6718	Caroline Thuma
+T129	TITLE 6721 6733	Site Manager
+T130	NAME 6747 6755	Caroline
+T132	NAME 6915 6923	Caroline
+T133	TITLE 6931 6961	Community Outreach Coordinator
+T134	TITLE 6964 6979	Lead Instructor
+T135	NAME 7023 7031	Caroline
+T138	NAME 7289 7292	Tad
+T140	NAME 7360 7376	Andrew Pemberton
+T141	TITLE 7379 7401	Assistant Site Manager
+T142	NAME 7402 7408	Andrew
+T147	NAME 7563 7572	Jim Congo
+T148	TITLE 7575 7585	Supervisor
+T149	NAME 7586 7589	Jim
+T153	NAME 7660 7663	Jim
+T155	NAME 7957 7960	Jim
+T157	NAME 8057 8068	Jason Wiley
+T158	TITLE 8071 8081	Supervisor
+T159	NAME 8082 8087	Jason
+T168	NAME 8370 8379	John Levy
+T169	TITLE 8382 8394	Site Manager
+T172	NAME 8418 8422	John
+T175	NAME 8579 8596	Isaiah Westphalen
+T176	TITLE 8599 8609	Supervisor
+T177	NAME 8610 8616	Isaiah
+T179	ORG 8699 8716	Boston University
+T182	ADDRESS 8994 9014;9015 9032	160 Riverview Avenue Waltham, MA 02453
+T190	ORG 10125 10138	Paddle Boston
+T1	ORG 168 181	Paddle Boston
+T3	PLATFORM 197 205	facebook
+T4	PLATFORM 206 213	twitter
+T5	PLATFORM 214 221	youtube
+T6	PLATFORM 222 231	instagram
+T7	ORG 1949 1962	Paddle Boston
+T8	ORG 2094 2123	Charles River Canoe and Kayak
+T9	ORG 2600 2616	Weston Ski Track
+T10	ORG 2621 2648	Charles River Canoe & Kayak
+T11	ORG 2836 2839	ICF
+T12	ORG 3107 3136	Charles River Canoe and Kayak
+T13	ORG 3441 3444	ACA
+T14	ORG 3604 3633	Charles River Canoe and Kayak
+T15	ORG 3720 3723	ACA
+T19	ORG 4495 4522	Reel Paddling Film Festival
+T20	ORG 4661 4690	Charles River Canoe and Kayak
+T21	ORG 4876 4899	Kendall Square Ice Rink
+T25	ORG 4976 4998	Cambridge Skating Club
+T26	ORG 5567 5596	Charles River Canoe and Kayak
+T27	ORG 6014 6043	Charles River Canoe and Kayak
+T28	ORG 6171 6200	Charles River Canoe and Kayak
+T30	ORG 6372 6401	Charles River Canoe and Kayak
+T33	ORG 6462 6491	Charles River Canoe and Kayak
+T34	ORG 6988 7021	Kendall Square Community Ice rink
+T35	ORG 7429 7458	Charles River Canoe and Kayak
+T36	ORG 7605 7634	Charles River Canoe and Kayak
+T40	ORG 8109 8138	Charles River Canoe and Kayak
+T41	ORG 8444 8473	Charles River Canoe and Kayak
+T42	ORG 8482 8498	Weston Ski Track
+T47	ORG 8638 8667	Charles River Canoe and Kayak
+T48	ORG 8864 8893	Charles River Canoe and Kayak
+T50	ORG 8894 8910	Weston Ski Track
+T51	ORG 8911 8947	Kendall Square Community Ice Skating
+T52	ORG 10095 10117	Slickfish Studios, LLC
+T56	PLATFORM 10161 10169	facebook
+T57	PLATFORM 10170 10177	twitter
+T59	PLATFORM 10178 10185	youtube
+T64	PLATFORM 10186 10195	instagram
+R1	per_title Arg1:T17 Arg2:T16	
+R2	per_employee_of Arg1:T8 Arg2:T18	
+R3	per_title Arg1:T23 Arg2:T22	
+R4	per_employee_of Arg1:T9 Arg2:T29	
+R5	per_employee_of Arg1:T10 Arg2:T29	
+R6	per_title Arg1:T32 Arg2:T31	
+T65	NAME 3029 3034	Bryce
+R7	per_employee_of Arg1:T12 Arg2:T65	
+R8	per_title Arg1:T38 Arg2:T37	
+R9	per_alternate_names Arg1:T18 Arg2:T16	
+R10	per_alternate_names Arg1:T22 Arg2:T24	
+R11	per_alternate_names Arg1:T31 Arg2:T65	
+R12	per_alternate_names Arg1:T37 Arg2:T39	
+R13	per_title Arg1:T43 Arg2:T39	
+R14	per_title Arg1:T45 Arg2:T44	
+R15	per_alternate_names Arg1:T44 Arg2:T46	
+R16	per_employee_of Arg1:T14 Arg2:T46	
+R17	per_title Arg1:T49 Arg2:T46	
+R18	per_title Arg1:T54 Arg2:T53	
+R19	per_title Arg1:T62 Arg2:T61	
+R20	per_alternate_names Arg1:T61 Arg2:T63	
+R21	per_title Arg1:T68 Arg2:T67	
+R22	per_employee_of Arg1:T20 Arg2:T69	
+R23	per_alternate_names Arg1:T69 Arg2:T67	
+R24	per_employee_of Arg1:T21 Arg2:T76	
+R25	per_employee_of Arg1:T25 Arg2:T76	
+R26	per_title Arg1:T79 Arg2:T78	
+R27	per_title Arg1:T91 Arg2:T90	
+R28	per_alternate_names Arg1:T92 Arg2:T90	
+R29	per_employee_of Arg1:T26 Arg2:T92	
+R30	per_employee_of Arg1:T95 Arg2:T92	
+R31	per_title Arg1:T96 Arg2:T92	
+R32	per_title Arg1:T98 Arg2:T97	
+R33	per_alternate_names Arg1:T99 Arg2:T97	
+R34	per_employee_of Arg1:T27 Arg2:T101	
+R35	per_title Arg1:T105 Arg2:T104	
+R36	per_alternate_names Arg1:T107 Arg2:T104	
+R37	per_employee_of Arg1:T28 Arg2:T107	
+R38	per_title Arg1:T111 Arg2:T110	
+R39	per_alternate_names Arg1:T112 Arg2:T110	
+R40	per_title Arg1:T115 Arg2:T114	
+R41	per_alternate_names Arg1:T116 Arg2:T114	
+R42	per_title Arg1:T119 Arg2:T118	
+R43	per_alternate_names Arg1:T120 Arg2:T118	
+R44	per_employee_of Arg1:T33 Arg2:T120	
+R45	per_employee_of Arg1:T30 Arg2:T116	
+R46	per_title Arg1:T125 Arg2:T120	
+R47	per_title Arg1:T129 Arg2:T128	
+R48	per_alternate_names Arg1:T130 Arg2:T128	
+R49	per_title Arg1:T133 Arg2:T132	
+R50	per_title Arg1:T134 Arg2:T132	
+R51	per_employee_of Arg1:T34 Arg2:T132	
+R52	per_title Arg1:T141 Arg2:T140	
+R53	per_alternate_names Arg1:T142 Arg2:T140	
+R54	per_employee_of Arg1:T35 Arg2:T142	
+R55	per_title Arg1:T148 Arg2:T147	
+R56	per_alternate_names Arg1:T147 Arg2:T149	
+R57	per_alternate_names Arg1:T157 Arg2:T159	
+R58	per_employee_of Arg1:T40 Arg2:T159	
+R59	per_title Arg1:T169 Arg2:T168	
+R60	per_alternate_names Arg1:T168 Arg2:T172	
+R61	per_employee_of Arg1:T41 Arg2:T172	
+R62	per_employee_of Arg1:T42 Arg2:T172	
+R63	per_title Arg1:T176 Arg2:T175	
+R64	per_alternate_names Arg1:T175 Arg2:T177	
+R65	per_employee_of Arg1:T47 Arg2:T177	
+R66	per_schools_attended Arg1:T179 Arg2:T177	
+R67	org_address Arg1:T182 Arg2:T190	
+R68	org_general Arg1:T13 Arg2:T39	
+R69	org_general Arg1:T15 Arg2:T46	
+R70	org_general Arg1:T124 Arg2:T120	
+R71	per_employee_of Arg1:T36 Arg2:T149	
+T66	PHONE 182 196	(617) 965-5110
+R72	org_phone Arg1:T66 Arg2:T1	
+T70	PHONE 9033 9047	(617) 965-5110
+R73	org_phone Arg1:T48 Arg2:T70	

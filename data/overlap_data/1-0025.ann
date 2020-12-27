@@ -1,0 +1,282 @@
+T1	ORG 82 107	Eileen Murphy Consultants
+T5	ORG 675 700	Eileen Murphy Consultants
+T12	NAME 1661 1674	Eileen Murphy
+T13	NAME 1676 1689	Eileen Murphy
+T18	NAME 1955 1961	Eileen
+T19	NAME 2195 2201	Eileen
+T23	TITLE 2351 2370	Social Work Manager
+T25	NAME 2488 2494	Mawuli
+T27	NAME 2669 2675	Mawuli
+T29	NAME 2795 2806	Kevin Foley
+T30	TITLE 2841 2847	Author
+T31	NAME 2870 2875	Kevin
+T34	NAME 3023 3028	Kevin
+T38	TITLE 3209 3216	trainer
+T39	NAME 3286 3291	Kevin
+T40	ORG 3404 3431	Nottingham Trent University
+T41	NAME 3433 3443	Sean Foley
+T44	NAME 3490 3494	Sean
+T48	NAME 3676 3680	Sean
+T49	NAME 3890 3894	Sean
+T52	NAME 4337 4341	Sean
+T53	TITLE 4353 4363	Consultant
+T54	NAME 4422 4434	Tony Attwood
+T57	NAME 4954 4969	Jamie Greenwood
+T58	TITLE 4971 4997	Skills Development Advisor
+T63	ORG 5205 5208	NHS
+T81	NAME 6888 6899	Liz Perfect
+T82	TITLE 6902 6931	Priority Families Coordinator
+T84	ORG 6978 6996	Derby City Council
+T86	NAME 7079 7093	Rebecca Reeves
+T87	TITLE 7096 7127	Intensive Family Support Worker
+T90	NAME 7202 7215	Eileen Murphy
+T91	NAME 7680 7694	Rachel McManus
+T92	TITLE 7696 7726	Senior Lecturer in Social Work
+T94	ORG 7728 7748	Sheffield University
+T96	NAME 7798 7811	Eileen Murphy
+T100	NAME 8749 8764	Cathrine Silver
+T101	TITLE 8766 8788	Manager, On Track Team
+T109	NAME 9523 9533	Pat Lalley
+T110	TITLE 9535 9549	Assistant Head
+T115	NAME 10050 10063	Julie Deaking
+T116	TITLE 10065 10080	Learning Mentor
+T117	ORG 10081 10117	Freeston Business Enterprise College
+T118	NAME 10340 10351	Felix Kupay
+T120	ORG 10714 10717	NHS
+T122	NAME 10943 10954	Kath Randle
+T123	ORG 10961 10989	Community Mental Health Team
+T125	NAME 11142 11152	Joan Marsh
+T127	NAME 11518 11524	Eileen
+T128	NAME 11629 11648	Paul Thomas Chester
+T129	ORG 11650 11673	Young Offending Service
+T132	PLATFORM 11912 11920	Facebook
+T133	PLATFORM 11960 11969	Pinterest
+T134	PLATFORM 11987 11995	LinkedIn
+T144	NAME 13351 13364	Aneurin Bevan
+T145	NAME 13423 13432	Tony Benn
+T146	PLATFORM 13640 13647	Twitter
+T148	PLATFORM 13679 13686	Twitter
+T149	PLATFORM 13715 13722	Twitter
+T150	PLATFORM 13963 13970	Twitter
+T152	PLATFORM 14002 14009	Twitter
+T154	PLATFORM 14038 14045	Twitter
+T6	ORG 1608 1633	Eileen Murphy Consultants
+T8	ORG 1700 1711	Consultancy
+T10	ORG 1986 1997	Consultancy
+T11	NAME 2322 2334	Mawuli Amesu
+T14	ORG 2707 2718	Consultancy
+T17	TITLE 3192 3204	practitioner
+T20	ORG 3457 3468	Consultancy
+T21	ORG 4999 5012	E2E, Barnsley
+T22	ORG 5095 5120	Eileen Murphy Consultants
+T24	ORG 6418 6443	Eileen Murphy Consultants
+T32	ORG 7129 7147	Derby City Council
+T33	ORG 8790 8822	Rhondda Cynon Taf County Council
+T35	ORG 9551 9590	St Cuthberts Catholic Community College
+T36	DEPARTMENT 10353 10367	Housing Office
+T37	ORG 10369 10406	Solihull Metropolitan Borough Council
+T42	TITLE 10956 10959	CPN
+T43	TITLE 11154 11178	Therapeutic Co-ordinator
+T45	ORG 11180 11201	Royal Oldham Hospital
+T46	ORG 11271 11301	West Midlands Police Authority
+T47	PLATFORM 11938 11945	Twitter
+T50	PLATFORM 12011 12015	Digg
+T51	ORG 12615 12640	Eileen Murphy Consultants
+T55	ORG 12690 12715	Eileen Murphy Consultants
+T56	ORG 12947 12972	Eileen Murphy Consultants
+T59	ORG 13327 13344	Kingston Hospital
+T3	DEPARTMENT 6933 6955	Commissioning Division
+R1	org_founded_by Arg1:T12 Arg2:T6	
+R2	org_founded_by Arg1:T8 Arg2:T13	
+R3	per_alternate_names Arg1:T18 Arg2:T13	
+R4	org_alternate_names Arg1:T8 Arg2:T6	
+R5	per_employee_of Arg1:T10 Arg2:T18	
+R6	per_title Arg1:T23 Arg2:T11	
+R7	per_alternate_names Arg1:T25 Arg2:T11	
+R8	per_employee_of Arg1:T14 Arg2:T27	
+R9	per_title Arg1:T30 Arg2:T29	
+R10	per_alternate_names Arg1:T31 Arg2:T29	
+R11	per_title Arg1:T17 Arg2:T34	
+R12	per_title Arg1:T38 Arg2:T34	
+R13	per_employee_of Arg1:T40 Arg2:T39	
+R14	per_employee_of Arg1:T20 Arg2:T41	
+R15	per_alternate_names Arg1:T44 Arg2:T41	
+R16	per_title Arg1:T53 Arg2:T52	
+T2	TITLE 4440 4475	world’s leading expert on Aspergers
+R17	per_title Arg1:T2 Arg2:T54	
+R18	per_title Arg1:T58 Arg2:T57	
+R19	per_employee_of Arg1:T21 Arg2:T57	
+R20	per_title Arg1:T82 Arg2:T81	
+R21	org_department Arg1:T3 Arg2:T84	
+R22	per_employee_of Arg1:T84 Arg2:T81	
+R23	per_title Arg1:T87 Arg2:T86	
+R24	per_employee_of Arg1:T32 Arg2:T86	
+R25	per_title Arg1:T92 Arg2:T91	
+R26	per_employee_of Arg1:T94 Arg2:T91	
+R27	per_title Arg1:T101 Arg2:T100	
+R28	per_employee_of Arg1:T33 Arg2:T100	
+R29	per_title Arg1:T110 Arg2:T109	
+R30	per_employee_of Arg1:T35 Arg2:T109	
+R31	per_title Arg1:T116 Arg2:T115	
+R32	per_employee_of Arg1:T117 Arg2:T115	
+R33	org_department Arg1:T36 Arg2:T37	
+R34	per_employee_of Arg1:T37 Arg2:T118	
+R35	per_title Arg1:T42 Arg2:T122	
+R36	per_employee_of Arg1:T123 Arg2:T122	
+R37	per_title Arg1:T43 Arg2:T125	
+R38	per_employee_of Arg1:T45 Arg2:T125	
+R39	per_employee_of Arg1:T129 Arg2:T128	
+T9991	NAME-ner 82 95	Eileen Murphy
+T9992	TITLE-ner 421 427	Mentor
+T9993	NAME-ner 623 633	John Greer
+T9994	NAME-ner 640 659	Michael John Murphy
+T9995	NAME-ner 675 688	Eileen Murphy
+T9996	EMAIL-ner 735 760	info@brief-therapy-uk.com
+T9997	NAME-ner 924 943	Michael John Murphy
+T9998	NAME-ner 963 973	John Greer
+T9999	TITLE-ner 1227 1237	Life Coach
+T99910	TITLE-ner 1294 1300	Mentor
+T99911	NAME-ner 1608 1621	Eileen Murphy
+T99912	NAME-ner 1661 1674	Eileen Murphy
+T99913	NAME-ner 1676 1689	Eileen Murphy
+T99914	DATE-ner 1727 1731	1993
+T99915	TITLE-ner 1741 1751	specialist
+T99916	ORG-ner 1767 1784	Local Authorities
+T99917	ORG-ner 1820 1855	Prevention & Intervention Programme
+T99918	NAME-ner 1955 1961	Eileen
+T99919	NAME-ner 2195 2201	Eileen
+T99920	ORG-ner 2307 2320	Mental Health
+T99921	NAME-ner 2322 2334	Mawuli Amesu
+T99922	TITLE-ner 2363 2370	Manager
+T99923	ORG-ner 2453 2486	Education and Children & Families
+T99924	NAME-ner 2488 2494	Mawuli
+T99925	TITLE-ner 2508 2512	lead
+T99926	NAME-ner 2669 2675	Mawuli
+T99927	TITLE-ner 2680 2684	lead
+T99928	NAME-ner 2795 2806	Kevin Foley
+T99929	TITLE-ner 2841 2847	Author
+T99930	NAME-ner 2870 2875	Kevin
+T99931	TITLE-ner 2883 2887	lead
+T99932	DATE-ner 2960 2976	twenty two years
+T99933	NAME-ner 3023 3028	Kevin
+T99934	GEOPOLITICAL-ner 3149 3156	England
+T99935	GEOPOLITICAL-ner 3174 3176	UK
+T99936	GEOPOLITICAL-ner 3181 3188	Ireland
+T99937	TITLE-ner 3209 3216	trainer
+T99938	ORG-ner 3234 3237	SEN
+T99939	NAME-ner 3286 3291	Kevin
+T99940	ORG-ner 3404 3431	Nottingham Trent University
+T99941	NAME-ner 3433 3443	Sean Foley
+T99942	DATE-ner 3472 3476	2012
+T99943	DATE-ner 3486 3488	28
+T99944	NAME-ner 3490 3494	Sean
+T99945	ORG-ner 3543 3562	Aspergers Solutions
+T99946	GEOPOLITICAL-ner 3603 3605	UK
+T99947	GEOPOLITICAL-ner 3610 3617	Ireland
+T99948	DATE-ner 3644 3650	age 12
+T99949	NAME-ner 3676 3680	Sean
+T99950	NAME-ner 3890 3894	Sean
+T99951	DATE-ner 3976 3981	today
+T99952	DATE-ner 4122 4131	every day
+T99953	NAME-ner 4337 4341	Sean
+T99954	TITLE-ner 4353 4363	Consultant
+T99955	NAME-ner 4422 4434	Tony Attwood
+T99956	ORG-ner 4466 4475	Aspergers
+T99957	GEOPOLITICAL-ner 4786 4788	Us
+T99958	NAME-ner 4954 4969	Jamie Greenwood
+T99959	TITLE-ner 4990 4997	Advisor
+T99960	DATE-ner 5024 5032	25 years
+T99961	NAME-ner 5095 5108	Eileen Murphy
+T99962	ORG-ner 5155 5174	Children & Families
+T99963	ORG-ner 5176 5192	Criminal Justice
+T99964	ORG-ner 5205 5237	NHS Healthcare and Mental Health
+T99965	TITLE-ner 5276 5281	Model
+T99966	NAME-ner 5382 5388	Murphy
+T99967	NAME-ner 5418 5424	Murphy
+T99968	DATE-ner 5425 5428	’06
+T99969	NAME-ner 5478 5484	Murphy
+T99970	NAME-ner 5523 5529	Murphy
+T99971	ORG-ner 5668 5674	People
+T99972	ORG-ner 5677 5685	Families
+T99973	DATE-ner 5701 5706	3 day
+T99974	ORG-ner 6375 6392	Priority Families
+T99975	GEOPOLITICAL-ner 6394 6404	Derby City
+T99976	ORG-ner 6493 6501	Families
+T99977	TITLE-ner 6502 6506	lead
+T99978	ORG-ner 6525 6549	Youth Offending Services
+T99979	ORG-ner 6637 6640	FIP
+T99980	TITLE-ner 6837 6841	lead
+T99981	NAME-ner 6888 6899	Liz Perfect
+T99982	TITLE-ner 6920 6931	Coordinator
+T99983	ORG-ner 6957 6976	Children & Families
+T99984	ORG-ner 7043 7066	Children & Young People
+T99985	NAME-ner 7079 7093	Rebecca Reeves
+T99986	TITLE-ner 7113 7127	Support Worker
+T99987	ORG-ner 7129 7147	Derby City Council
+T99988	TITLE-ner 7152 7162	Specialist
+T99989	DATE-ner 7196 7200	2006
+T99990	NAME-ner 7202 7215	Eileen Murphy
+T99991	NAME-ner 7680 7694	Rachel McManus
+T99992	TITLE-ner 7696 7711	Senior Lecturer
+T99993	ORG-ner 7715 7726	Social Work
+T99994	ORG-ner 7728 7748	Sheffield University
+T99995	DATE-ner 7792 7796	1993
+T99996	NAME-ner 7798 7811	Eileen Murphy
+T99997	ORG-ner 7981 7998	Local Authorities
+T99998	GEOPOLITICAL-ner 8010 8012	UK
+T99999	LOCATION-ner 8327 8345	The Change Balloon
+T999100	NAME-ner 8749 8764	Cathrine Silver
+T999101	TITLE-ner 8766 8773	Manager
+T999102	ORG-ner 8790 8822	Rhondda Cynon Taf County Council
+T999103	TITLE-ner 8952 8965	Support Staff
+T999104	ORG-ner 8967 8970	TSA
+T999105	ORG-ner 8976 8992	Learning Mentors
+T999106	DATE-ner 9404 9412	27 years
+T999107	DATE-ner 9497 9503	2 days
+T999108	NAME-ner 9523 9533	Pat Lalley
+T999109	TITLE-ner 9535 9549	Assistant Head
+T999110	TITLE-ner 9623 9629	Mentor
+T999111	TITLE-ner 9640 9650	specialist
+T999112	TITLE-ner 9668 9674	Mentor
+T999113	TITLE-ner 10042 10048	opener
+T999114	NAME-ner 10050 10063	Julie Deaking
+T999115	TITLE-ner 10074 10080	Mentor
+T999116	ORG-ner 10081 10117	Freeston Business Enterprise College
+T999117	NAME-ner 10340 10351	Felix Kupay
+T999118	ORG-ner 10353 10367	Housing Office
+T999119	ORG-ner 10714 10750	NHS Pennine Care Acute Mental Health
+T999120	ORG-ner 10752 10767	Ward & Outreach
+T999121	NAME-ner 10943 10954	Kath Randle
+T999122	ORG-ner 10961 10989	Community Mental Health Team
+T999123	NAME-ner 11142 11152	Joan Marsh
+T999124	GEOPOLITICAL-ner 11404 11406	UK
+T999125	NAME-ner 11518 11524	Eileen
+T999126	NAME-ner 11629 11648	Paul Thomas Chester
+T999127	ORG-ner 11650 11673	Young Offending Service
+T999128	GEOPOLITICAL-ner 11675 11685	Birmingham
+T999129	EMAIL-ner 11853 11878	info@brief-therapy-uk.com
+T999130	PLATFORM-ner 11912 11920	Facebook
+T999131	PLATFORM-ner 11960 11969	Pinterest
+T999132	PLATFORM-ner 11987 11995	LinkedIn
+T999133	TITLE-ner 12193 12199	Mentor
+T999134	TITLE-ner 12270 12280	Life Coach
+T999135	NAME-ner 12615 12628	Eileen Murphy
+T999136	NAME-ner 12690 12703	Eileen Murphy
+T999137	TITLE-ner 12793 12803	Specialist
+T999138	GEOPOLITICAL-ner 12869 12871	UK
+T999139	EMAIL-ner 12898 12923	info@brief-therapy-uk.com
+T999140	NAME-ner 12947 12960	Eileen Murphy
+T999141	TITLE-ner 13224 13230	Second
+T999142	TITLE-ner 13294 13304	Footballer
+T999143	NAME-ner 13351 13364	Aneurin Bevan
+T999144	NAME-ner 13423 13432	Tony Benn
+T999145	PLATFORM-ner 13640 13647	Twitter
+T999146	DATE-ner 13648 13667	1318133062362955783
+T999147	PLATFORM-ner 13679 13686	Twitter
+T999148	PLATFORM-ner 13715 13722	Twitter
+T999149	PLATFORM-ner 13963 13970	Twitter
+T999150	DATE-ner 13971 13990	1315596363221086210
+T999151	PLATFORM-ner 14002 14009	Twitter
+T999152	DATE-ner 14010 14029	1315596363221086210
+T999153	PLATFORM-ner 14038 14045	Twitter
+T999154	DATE-ner 14046 14065	1315596363221086210

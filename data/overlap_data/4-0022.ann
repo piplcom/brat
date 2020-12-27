@@ -1,0 +1,82 @@
+T1	ORG 105 120	Sparcraft Masts
+T5	ORG 239 254	Sparcraft Masts
+T6	TITLE 273 285	manufacturer
+T8	ORG 331 346	Sparcraft Masts
+T9	ORG 631 646	Sparcraft Masts
+T10	ORG 929 944	Sparcraft Masts
+T11	ORG 1014 1029	Sparcraft Masts
+T13	ORG 1295 1310	Sparcraft Masts
+T16	NAME 1635 1648	Tich Mitchell
+T17	NAME 1649 1662	Tich Mitchell
+T19	ORG 1754 1767	Bellamy Masts
+T21	NAME 1827 1840	Steven Fisher
+T22	NAME 1841 1854	Steven Fisher
+T23	ORG 1856 1871	Sparcraft Masts
+T24	TITLE 1873 1891	Production Manager
+T26	ORG 1976 1989	Bellamy Masts
+T27	NAME 2030 2043	Ian MacRobert
+T29	ORG 2143 2152	Sparcraft
+T31	TITLE 2188 2205	Quality Assurance
+T33	NAME 2256 2269	Kevin Foreman
+T34	NAME 2270 2283	Kevin Foreman
+T35	TITLE 2335 2352	Quality Assurance
+T36	NAME 2480 2493	Yvette Miller
+T37	NAME 2494 2507	Yvette Miller
+T38	NAME 2540 2546	Yvette
+T39	TITLE 2558 2564	member
+T40	ORG 2568 2581	Bellamy Masts
+T42	ORG 2629 2638	Sparcraft
+T43	NAME 2665 2679	Gilbert Cloete
+T44	NAME 2680 2687	Gilbert
+T45	TITLE 2721 2725	head
+T46	ORG 2818 2827	Sparcraft
+T47	ADDRESS 3068 3079;3080 3096;3097 3101;3102 3111	22 Bolt Ave Montague Gardens 7435 Cape Town
+T9991	ORG-ner 105 120	Sparcraft Masts
+T9992	GEOPOLITICAL-ner 124 136	South Africa
+T9993	DATE-ner 166 179	three decades
+T9994	DATE-ner 191 203	thirty years
+T9995	ORG-ner 239 254	Sparcraft Masts
+T9996	TITLE-ner 273 285	manufacturer
+T9997	GEOPOLITICAL-ner 314 329	Southern Africa
+T9998	ORG-ner 331 346	Sparcraft Masts
+T9999	ORG-ner 631 646	Sparcraft Masts
+T99910	ORG-ner 929 944	Sparcraft Masts
+T99911	ORG-ner 1014 1029	Sparcraft Masts
+T99912	DATE-ner 1139 1156	over twenty years
+T99913	ORG-ner 1295 1310	Sparcraft Masts
+T99914	LOCATION-ner 1323 1339	Montague Gardens
+T99915	GEOPOLITICAL-ner 1343 1352	Cape Town
+T99916	NAME-ner 1635 1648	Tich Mitchell
+T99917	NAME-ner 1649 1662	Tich Mitchell
+T99918	DATE-ner 1706 1714	38 years
+T99919	ORG-ner 1754 1767	Bellamy Masts
+T99920	DATE-ner 1771 1775	1981
+T99921	NAME-ner 1827 1840	Steven Fisher
+T99922	NAME-ner 1841 1854	Steven Fisher
+T99923	ORG-ner 1856 1871	Sparcraft Masts
+T99924	TITLE-ner 1873 1891	Production Manager
+T99925	DATE-ner 1932 1940	32 years
+T99926	ORG-ner 1976 1989	Bellamy Masts
+T99927	NAME-ner 2030 2043	Ian MacRobert
+T99928	DATE-ner 2051 2059	18 years
+T99929	ORG-ner 2143 2152	Sparcraft
+T99930	DATE-ner 2156 2160	2001
+T99931	TITLE-ner 2188 2205	Quality Assurance
+T99932	DATE-ner 2239 2244	today
+T99933	NAME-ner 2256 2269	Kevin Foreman
+T99934	NAME-ner 2270 2283	Kevin Foreman
+T99935	TITLE-ner 2335 2352	Quality Assurance
+T99936	NAME-ner 2480 2493	Yvette Miller
+T99937	NAME-ner 2494 2507	Yvette Miller
+T99938	NAME-ner 2540 2546	Yvette
+T99939	TITLE-ner 2558 2564	member
+T99940	ORG-ner 2568 2581	Bellamy Masts
+T99941	DATE-ner 2595 2599	1988
+T99942	ORG-ner 2629 2638	Sparcraft
+T99943	NAME-ner 2665 2679	Gilbert Cloete
+T99944	NAME-ner 2680 2687	Gilbert
+T99945	TITLE-ner 2721 2725	head
+T99946	ADDRESS-ner 3076 3079;3080 3096;3097 3101;3102 3111	Ave Montague Gardens 7435 Cape Town
+T99947	GEOPOLITICAL-ner 3120 3122	US
+T99948	EMAIL-ner 3123 3148	info@sparcraftmasts.co.za
+T99949	PHONE-ner 3149 3164	+27 21 555 3470

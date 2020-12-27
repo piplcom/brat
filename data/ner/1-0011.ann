@@ -1,0 +1,159 @@
+T3	ORG 254 267	GRP Financial
+T4	NAME 576 587	Chris Karam
+T5	TITLE 601 625	Chief Investment Officer
+T7	NAME 636 647	Justin Fisk
+T8	TITLE 654 675	Senior Vice President
+T9	ORG 677 700	Sheridan Road Financial
+T10	NAME 701 715	Daren Alcantar
+T11	TITLE 723 737	Vice President
+T12	ORG 739 771	Investment Strategy & Analytics®
+T13	NAME 772 783	Jay Sanford
+T14	TITLE 785 814	Director, Investment Strategy
+T15	ORG 816 842	Washington Financial Group
+T16	NAME 843 856	Cameron Cooke
+T17	TITLE 863 872	Principal
+T18	TITLE 875 899	Chief Investment Officer
+T19	NAME 905 913	Tom Phan
+T20	TITLE 921 948	Senior Investment Associate
+T21	NAME 960 971	Chris Karam
+T22	TITLE 991 1003	entrepreneur
+T23	NAME 1053 1064	Chris Karam
+T24	NAME 1262 1267	Chris
+T25	ORG 1511 1538	Karam Capital Advisors, LLC
+T26	NAME 1540 1545	Chris
+T27	TITLE 1556 1580	Chief Investment Officer
+T28	ORG 1586 1613	Sheridan Road Advisors, LLC
+T30	ORG 1637 1671	Alliance Benefit Group of Michigan
+T32	NAME 1697 1708	Justin Fisk
+T33	NAME 1715 1721	Justin
+T34	TITLE 1727 1771	Senior Vice President of Investment Services
+T36	TITLE 1795 1824	member of the investment team
+T37	NAME 1922 1928	Justin
+T39	NAME 2052 2058	Justin
+T41	NAME 2230 2244	Daren Alcantar
+T42	NAME 2252 2257	Daren
+T43	TITLE 2261 2312	Vice President of Investment Strategy and Analytics
+T45	ORG 2317 2330	GRP Financial
+T47	NAME 2372 2377	Daren
+T48	ORG 2549 2567	Morningstar Direct
+T49	ORG 2572 2602	Markov Processes International
+T51	ORG 2725 2738	GRP Financial
+T53	NAME 2748 2753	Daren
+T55	TITLE 2776 2840	analyst for an advisory group on the central coast of California
+T57	NAME 2857 2862	Daren
+T58	TITLE 2875 2903	Special Programs Underwriter
+T59	ORG 2908 2935	Fidelity National Financial
+T60	NAME 2939 2950	Jay Sanford
+T61	NAME 2951 2954	Jay
+T62	ORG 2958 2984	Washington Financial Group
+T63	TITLE 2987 3018	Director of Investment Strategy
+T64	NAME 3100 3103	Jay
+T65	NAME 3234 3237	Jay
+T66	ORG 3304 3307	WFG
+T67	NAME 3397 3400	Jay
+T70	TITLE 3541 3548	advisor
+T71	NAME 3580 3583	Jay
+T72	TITLE 3595 3630	guest lecturer at area universities
+T74	NAME 3754 3767	Cameron Cooke
+T76	NAME 3773 3780	Cameron
+T77	TITLE 3788 3812	Chief Investment Officer
+T78	ORG 3817 3820	MRP
+T79	NAME 3822 3829	Cameron
+T80	ORG 3851 3855	MRP'
+T82	NAME 4128 4135	Cameron
+T84	ORG 4221 4224	MRP
+T85	TITLE 4241 4248	analyst
+T86	TITLE 4253 4270	portfolio manager
+T88	ORG 4295 4319	Wells Capital Management
+T90	ORG 4338 4357	Invesco Funds Group
+T91	ORG 4359 4373	Janco Partners
+T92	ORG 4378 4394	Kummer Financial
+T95	NAME 4408 4416	Tom Phan
+T97	NAME 4423 4426	Tom
+T98	TITLE 4432 4459	senior investment associate
+T99	ORG 4463 4466	MRP
+T100	NAME 4541 4544	Tom
+T101	ORG 4575 4578	MRP
+T103	NAME 4671 4674	Tom
+T104	ORG 4681 4684	MRP
+T105	ORG 4814 4837	University of Minnesota
+T106	NAME 4878 4881	Tom
+T107	ORG 4939 4959	Ameriprise Financial
+T108	NAME 4961 4964	Tom
+T109	ORG 4990 5003	GRP Financial
+T116	ORG 5275 5278	GRP
+T117	ORG 5356 5369	LPL Financial
+T119	ORG 5427 5458	Global Retirement Partners, LLC
+T121	ORG 5493 5506	GRP Financial
+T122	ORG 5508 5539	Global Retirement Partners, LLC
+T123	ORG 5545 5558	LPL Financial
+T126	ORG 6004 6017	GRP Financial
+T1	ORG 627 635	Finspire
+T2	ORG 901 904	MRP
+T6	ORG 950 955	MRP®​
+T29	ORG 1775 1788	Sheridan Road
+T31	ORG 2037 2050	Sheridan Road
+T35	NAME 2604 2609	Daren
+T38	ADDRESS 5035 5067;5068 5096	4340 Redwood Highway, Suite B-60 San Rafael, California 94903
+T40	ORG 5246 5251	FINRA
+T44	ORG 5378 5383	FINRA
+T46	ORG 5386 5390	SIPC
+T52	ORG 5759 5772	LPL Financial
+R1	per_title Arg1:T5 Arg2:T4	
+R2	per_employee_of Arg1:T1 Arg2:T4	
+R3	per_title Arg1:T8 Arg2:T7	
+R4	per_employee_of Arg1:T9 Arg2:T7	
+R5	per_title Arg1:T11 Arg2:T10	
+R6	per_employee_of Arg1:T12 Arg2:T10	
+R7	per_title Arg1:T14 Arg2:T13	
+R8	per_employee_of Arg1:T15 Arg2:T13	
+R9	per_title Arg1:T17 Arg2:T16	
+R10	per_title Arg1:T18 Arg2:T16	
+R11	per_employee_of Arg1:T2 Arg2:T16	
+R12	per_title Arg1:T20 Arg2:T19	
+R13	per_employee_of Arg1:T6 Arg2:T19	
+R14	per_title Arg1:T22 Arg2:T21	
+R15	per_alternate_names Arg1:T23 Arg2:T24	
+R16	per_employee_of Arg1:T25 Arg2:T26	
+R17	per_title Arg1:T27 Arg2:T26	
+R18	per_employee_of Arg1:T28 Arg2:T26	
+R19	per_employee_of Arg1:T30 Arg2:T26	
+R20	per_alternate_names Arg1:T32 Arg2:T33	
+R21	per_title Arg1:T34 Arg2:T33	
+R22	per_employee_of Arg1:T29 Arg2:T33	
+R23	per_title Arg1:T36 Arg2:T33	
+R24	per_employee_of Arg1:T31 Arg2:T39	
+R25	per_alternate_names Arg1:T42 Arg2:T41	
+R26	per_title Arg1:T43 Arg2:T42	
+R27	per_employee_of Arg1:T45 Arg2:T42	
+R28	per_employee_of Arg1:T48 Arg2:T47	
+R29	per_employee_of Arg1:T49 Arg2:T47	
+R30	per_employee_of Arg1:T51 Arg2:T53	
+R31	per_title Arg1:T55 Arg2:T53	
+R32	per_title Arg1:T58 Arg2:T57	
+R33	per_employee_of Arg1:T59 Arg2:T57	
+R34	per_alternate_names Arg1:T60 Arg2:T61	
+R35	per_employee_of Arg1:T62 Arg2:T61	
+R36	per_title Arg1:T63 Arg2:T61	
+R37	per_title Arg1:T70 Arg2:T67	
+R38	per_title Arg1:T72 Arg2:T71	
+R39	per_alternate_names Arg1:T76 Arg2:T74	
+R40	per_title Arg1:T77 Arg2:T76	
+R41	per_employee_of Arg1:T78 Arg2:T76	
+R42	per_employee_of Arg1:T80 Arg2:T79	
+R43	per_employee_of Arg1:T84 Arg2:T82	
+R44	per_title Arg1:T85 Arg2:T82	
+R45	per_title Arg1:T86 Arg2:T82	
+R46	per_employee_of Arg1:T88 Arg2:T82	
+R47	per_employee_of Arg1:T90 Arg2:T82	
+R48	per_employee_of Arg1:T91 Arg2:T82	
+R49	per_employee_of Arg1:T92 Arg2:T82	
+R50	per_alternate_names Arg1:T97 Arg2:T95	
+R51	per_title Arg1:T98 Arg2:T97	
+R52	per_employee_of Arg1:T99 Arg2:T97	
+R53	per_employee_of Arg1:T101 Arg2:T100	
+R54	per_employee_of Arg1:T104 Arg2:T103	
+R55	per_schools_attended Arg1:T105 Arg2:T103	
+R56	per_employee_of Arg1:T107 Arg2:T106	
+R57	org_alternate_names Arg1:T116 Arg2:T119	
+R58	org_address Arg1:T38 Arg2:T109	

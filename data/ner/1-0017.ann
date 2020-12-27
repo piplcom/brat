@@ -1,0 +1,101 @@
+T3	NAME 313 324	Andrea Mane
+T4	TITLE 327 336	President
+T5	NAME 337 343	Andrea
+T6	TITLE 350 370	award-winning writer
+T7	TITLE 372 381	publicist
+T8	TITLE 386 405	branding strategist
+T9	ORG 630 655	Universal Studios/Florida
+T10	ORG 657 666	Sea World
+T11	ORG 668 684	The Golf Channel
+T12	ORG 690 704	Tupperware USA
+T13	NAME 764 770	Andrea
+T14	ORG 866 870	AAAA
+T15	TITLE 933 942	president
+T18	NAME 1026 1032	Andrea
+T19	NAME 1240 1253	Mark Howbrook
+T20	TITLE 1256 1279	Media Relations Manager
+T21	NAME 1333 1337	Mark
+T23	NAME 1603 1607	Mark
+T24	ORG 1936 1965	University of Central Florida
+T25	TITLE 1989 1995	member
+T27	NAME 2048 2052	Mark
+T29	NAME 2076 2090	Cathy Watanabe
+T30	TITLE 2093 2105	Art Director
+T31	NAME 2209 2214	Cathy
+T32	NAME 2658 2663	Cathy
+T33	TITLE 2674 2686	art director
+T34	TITLE 2691 2721	award winning graphic designer
+T35	ORG 2905 2937	Ringling College of Art & Design
+T38	NAME 2960 2974	Regina Marston
+T39	TITLE 2977 2992	Senior Director
+T44	TITLE 3157 3177	visionary strategist
+T45	TITLE 3472 3486	dynamic leader
+T47	ORG 3841 3862	University of Florida
+T50	NAME 4050 4069	Sally Fritch-Castro
+T51	TITLE 4072 4095	Senior Account Director
+T53	NAME 4193 4198	Sally
+T54	TITLE 4203 4211	employee
+T57	TITLE 4279 4303	senior account executive
+T59	ORG 4632 4648	Florida Hospital
+T60	ORG 4650 4661	Pulte Homes
+T61	ORG 4663 4675	Lennar Homes
+T63	TITLE 4766 4789	Senior Account Director
+T64	NAME 4791 4796	Sally
+T65	NAME 5032 5037	Sally
+T66	ORG 5090 5111	University of Florida
+T1	ORG 276 285	PLAN A PR
+T2	ORG 749 762	Gannett Media
+T16	ORG 1418 1424	Plan A
+T17	ORG 1620 1626	Plan A
+T22	ORG 2003 2046	Public Relations Student Society of America
+T26	ORG 2650 2656	Plan A
+T28	TITLE 3135 3152	brand storyteller
+T36	ORG 4220 4226	Plan A
+T37	ORG 4624 4630	Subway
+T40	ORG 4677 4697	Kennedy Space Center
+T41	ORG 4702 4734	Walt Disney World Dolphin Resort
+T42	ORG 4755 4761	Plan A
+T43	ORG 5138 5164	Plan A PR & Marketing, inc
+R1	per_title Arg1:T4 Arg2:T3	
+R2	per_alternate_names Arg1:T5 Arg2:T3	
+R3	per_title Arg1:T6 Arg2:T5	
+R4	per_title Arg1:T7 Arg2:T5	
+R5	per_title Arg1:T8 Arg2:T5	
+R6	per_employee_of Arg1:T2 Arg2:T13	
+R7	per_title Arg1:T15 Arg2:T18	
+R8	per_title Arg1:T20 Arg2:T19	
+R9	per_employee_of Arg1:T17 Arg2:T23	
+R10	per_employee_of Arg1:T16 Arg2:T21	
+R11	per_schools_attended Arg1:T24 Arg2:T27	
+R12	per_title Arg1:T30 Arg2:T29	
+R13	per_employee_of Arg1:T26 Arg2:T32	
+R14	per_title Arg1:T33 Arg2:T32	
+R15	per_title Arg1:T34 Arg2:T32	
+R16	per_employee_of Arg1:T35 Arg2:T32	
+R17	per_title Arg1:T39 Arg2:T38	
+T46	NAME 3112 3118	Regina
+R18	per_title Arg1:T28 Arg2:T46	
+R19	per_title Arg1:T44 Arg2:T46	
+T48	NAME 3533 3539	Regina
+R20	per_title Arg1:T45 Arg2:T48	
+T49	NAME 3891 3897	Regina
+R21	per_schools_attended Arg1:T47 Arg2:T49	
+R22	per_title Arg1:T51 Arg2:T50	
+R23	per_title Arg1:T54 Arg2:T53	
+R24	per_title Arg1:T57 Arg2:T53	
+R25	per_schools_attended Arg1:T66 Arg2:T65	
+R26	org_general Arg1:T9 Arg2:T5	
+R27	org_general Arg1:T10 Arg2:T5	
+R28	org_general Arg1:T11 Arg2:T5	
+R29	org_general Arg1:T12 Arg2:T5	
+R30	org_general Arg1:T37 Arg2:T64	
+R31	org_general Arg1:T59 Arg2:T64	
+R32	org_general Arg1:T60 Arg2:T64	
+R33	org_general Arg1:T61 Arg2:T64	
+R34	org_general Arg1:T40 Arg2:T64	
+R35	org_general Arg1:T41 Arg2:T64	
+R36	per_employee_of Arg1:T42 Arg2:T64	
+R37	per_title Arg1:T63 Arg2:T64	
+R38	per_title Arg1:T25 Arg2:T27	
+R39	org_general Arg1:T22 Arg2:T27	
+R40	per_employee_of Arg1:T36 Arg2:T53	

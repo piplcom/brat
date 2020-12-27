@@ -1,0 +1,33 @@
+T1	ORG 105 120	Sparcraft Masts
+T5	ORG 239 254	Sparcraft Masts
+T6	TITLE 273 285	manufacturer
+T8	ORG 331 346	Sparcraft Masts
+T9	ORG 631 646	Sparcraft Masts
+T10	ORG 929 944	Sparcraft Masts
+T11	ORG 1014 1029	Sparcraft Masts
+T13	ORG 1295 1310	Sparcraft Masts
+T16	NAME 1635 1648	Tich Mitchell
+T17	NAME 1649 1662	Tich Mitchell
+T19	ORG 1754 1767	Bellamy Masts
+T21	NAME 1827 1840	Steven Fisher
+T22	NAME 1841 1854	Steven Fisher
+T23	ORG 1856 1871	Sparcraft Masts
+T24	TITLE 1873 1891	Production Manager
+T26	ORG 1976 1989	Bellamy Masts
+T27	NAME 2030 2043	Ian MacRobert
+T29	ORG 2143 2152	Sparcraft
+T31	TITLE 2188 2205	Quality Assurance
+T33	NAME 2256 2269	Kevin Foreman
+T34	NAME 2270 2283	Kevin Foreman
+T35	TITLE 2335 2352	Quality Assurance
+T36	NAME 2480 2493	Yvette Miller
+T37	NAME 2494 2507	Yvette Miller
+T38	NAME 2540 2546	Yvette
+T39	TITLE 2558 2564	member
+T40	ORG 2568 2581	Bellamy Masts
+T42	ORG 2629 2638	Sparcraft
+T43	NAME 2665 2679	Gilbert Cloete
+T44	NAME 2680 2687	Gilbert
+T45	TITLE 2721 2725	head
+T46	ORG 2818 2827	Sparcraft
+T47	ADDRESS 3068 3079;3080 3096;3097 3101;3102 3111	22 Bolt Ave Montague Gardens 7435 Cape Town

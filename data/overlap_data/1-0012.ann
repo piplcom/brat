@@ -1,0 +1,54 @@
+T7	ORG 293 300	Capitol
+T10	ORG 449 460	Capitol Oil
+T11	ORG 562 573	Capitol Oil
+T12	NAME 603 609	Edward
+T13	NAME 614 631	William Zacharias
+T14	ORG 663 668	Shell
+T17	ORG 927 938	Capitol Oil
+T24	ORG 1299 1310	Capitol Oil
+T25	ORG 1322 1349	Capitol Heating and Cooling
+T26	ORG 1371 1378	Capitol
+T27	ORG 1774 1785	Capitol Oil
+T31	ORG 2055 2064	GeneracÂ®
+T32	ORG 2158 2165	Capitol
+T33	NAME 2291 2303	Ed Zacharias
+T1	ORG 372 399	Capitol Heating and Cooling
+R1	org_founded_by Arg1:T11 Arg2:T12	
+R2	org_founded_by Arg1:T11 Arg2:T13	
+R3	org_alternate_names Arg1:T25 Arg2:T24	
+R4	per_employee_of Arg1:T32 Arg2:T33	
+R5	per_alternate_names Arg1:T12 Arg2:T33	
+R6	per_siblings Arg1:T12 Arg2:T13	
+T9991	PHONE-ner 61 73	804-288-8668
+T9992	PHONE-ner 88 100	804-264-4768
+T9993	PHONE-ner 115 127	804-271-1220
+T9994	PHONE-ner 140 152	804-271-1220
+T9995	GEOPOLITICAL-ner 211 213	Us
+T9996	ORG-ner 293 305	Capitol Team
+T9997	ORG-ner 372 399	Capitol Heating and Cooling
+T9998	DATE-ner 443 447	1963
+T9999	ORG-ner 449 460	Capitol Oil
+T99910	ORG-ner 562 573	Capitol Oil
+T99911	NAME-ner 603 609	Edward
+T99912	NAME-ner 614 631	William Zacharias
+T99913	ORG-ner 663 668	Shell
+T99914	GEOPOLITICAL-ner 766 774	Richmond
+T99915	DATE-ner 811 816	today
+T99916	ORG-ner 927 938	Capitol Oil
+T99917	GEOPOLITICAL-ner 974 993	Chesterfield County
+T99918	LOCATION-ner 1100 1120	the Greater Richmond
+T99919	DATE-ner 1144 1149	Today
+T99920	LOCATION-ner 1205 1221	Central Virginia
+T99921	GEOPOLITICAL-ner 1241 1256	Charlottesville
+T99922	LOCATION-ner 1260 1278	the Chesapeake Bay
+T99923	ORG-ner 1299 1310	Capitol Oil
+T99924	ORG-ner 1322 1349	Capitol Heating and Cooling
+T99925	ORG-ner 1371 1378	Capitol
+T99926	ORG-ner 1774 1785	Capitol Oil
+T99927	DATE-ner 1804 1813	the years
+T99928	ORG-ner 1817 1844	Capitol Heating and Cooling
+T99929	DATE-ner 1850 1855	today
+T99930	ORG-ner 2055 2064	GeneracÂ®
+T99931	ORG-ner 2158 2165	Capitol
+T99932	NAME-ner 2291 2303	Ed Zacharias
+T99933	TITLE-ner 2425 2431	patron

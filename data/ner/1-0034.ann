@@ -1,0 +1,139 @@
+T2	TITLE 292 312	publishing executive
+T4	NAME 417 429	John Sargent
+T6	ORG 548 557	Macmillan
+T7	TITLE 560 575	chief executive
+T8	NAME 585 598	Calla Kessler
+T9	ORG 599 617	The New York Times
+T10	NAME 621 636	Alexandra Alter
+T12	NAME 652 664	John Sargent
+T13	ORG 666 675	Macmillan
+T14	TITLE 687 702	chief executive
+T20	ORG 1040 1049	Macmillan
+T21	TITLE 1052 1061	president
+T22	NAME 1063 1075	Don Weisberg
+T23	TITLE 1114 1129	chief executive
+T24	ORG 1194 1217	Farrar, Straus & Giroux
+T25	ORG 1234 1248	Flatiron Books
+T28	ORG 1305 1314	Macmillan
+T29	ORG 1581 1590	Macmillan
+T31	ORG 1707 1730	Farrar, Straus & Giroux
+T33	ORG 1921 1929	Flatiron
+T36	NAME 2100 2122	Stefan von Holtzbrinck
+T37	TITLE 2128 2143	chief executive
+T38	ORG 2147 2175	Holtzbrinck Publishing Group
+T40	NAME 2191 2198	Sargent
+T41	ORG 2377 2388	Holtzbrinck
+T43	NAME 2434 2441	Sargent
+T48	ORG 2660 2669	Doubleday
+T50	NAME 2730 2746	Neltje Doubleday
+T51	ORG 2774 2795	Doubleday and Company
+T52	ORG 2801 2825	John Turner Sargent Sr .
+T53	TITLE 2835 2844	president
+T54	TITLE 2849 2864	chief executive
+T55	ORG 2868 2877	Doubleday
+T57	ORG 2954 2973	Simon & Schusterand
+T58	ORG 2974 2992	Dorling Kindersley
+T60	TITLE 3025 3040	chief executive
+T61	ORG 3044 3062	St. Martin’s Press
+T62	ORG 3066 3075	Macmillan
+T65	ORG 3198 3204	Amazon
+T66	ORG 3213 3234	Department of Justice
+T67	ORG 3256 3265	Macmillan
+T68	ORG 3322 3340	Justice Department
+T69	ORG 3372 3381	Macmillan
+T71	NAME 3466 3473	Sargent
+T72	ORG 3475 3484	Macmillan
+T73	TITLE 3510 3519	President
+T74	NAME 3520 3525	Trump
+T75	NAME 3563 3576	Michael Wolff
+T77	ORG 3621 3630	Macmillan
+T79	NAME 3658 3665	Sargent
+T80	TITLE 3734 3743	President
+T81	NAME 3744 3749	Trump
+T82	NAME 3884 3889	Trump
+T83	NAME 3925 3939	James B. Comey
+T84	ORG 3953 3959	F.B.I.
+T85	TITLE 3960 3968	director
+T86	NAME 3970 3986	Andrew G. McCabe
+T87	ORG 4000 4006	F.B.I.
+T88	TITLE 4007 4022	deputy director
+T89	NAME 4028 4042	Stormy Daniels
+T90	TITLE 4062 4074	film actress
+T92	NAME 4222 4227	Trump
+T94	ORG 4240 4249	Macmillan
+T100	NAME 4507 4514	Sargent
+T101	ORG 4795 4811	Publishers Lunch
+T104	ORG 4899 4908	Macmillan
+T107	NAME 5041 5053	John Sargent
+T109	NAME 5241 5249	Weisberg
+T110	PLATFORM 5336 5344	Facebook
+T111	PLATFORM 5347 5354	Twitter
+T112	PLATFORM 5359 5368	Instagram
+T114	ORG 5563 5589	The New York Times Company
+T1	ORG 78 87	Macmillan
+T3	NAME 95 107	John Sargent
+T5	TITLE 88 94	C.E.O.
+T11	ORG 236 245	Macmillan
+T15	TITLE 246 252	C.E.O.
+T16	NAME 253 265	John Sargent
+T17	ORG 848 859	Holtzbrinck
+T18	NAME 942 949	Sargent
+T19	ORG 1133 1142	Macmillan
+T26	ORG 1219 1229	Henry Holt
+T27	ORG 2508 2519	Holtzbrinck
+T30	NAME 2708 2715	Sargent
+T32	NAME 3010 3017	Sargent
+T34	NAME 3098 3105	Sargent
+T35	NAME 4871 4879	Weisberg
+T39	NAME 4972 4979	Sargent
+T42	ORG 5312 5332	New York Times Books
+T44	UNKNOWN 5449 5468	Book Review podcast
+T45	ORG 5590 5595	NYTCo
+T46	ORG 5630 5644	T Brand Studio
+R1	per_title Arg1:T5 Arg2:T3	
+R2	per_employee_of Arg1:T1 Arg2:T3	
+R3	per_title Arg1:T15 Arg2:T16	
+R4	per_employee_of Arg1:T11 Arg2:T16	
+R5	per_title Arg1:T2 Arg2:T16	
+R6	per_employee_of Arg1:T6 Arg2:T4	
+R7	per_title Arg1:T7 Arg2:T4	
+R8	per_employee_of Arg1:T9 Arg2:T8	
+R9	per_employee_of Arg1:T13 Arg2:T12	
+R10	per_title Arg1:T14 Arg2:T12	
+R11	org_parents Arg1:T17 Arg2:T13	
+R12	per_title Arg1:T21 Arg2:T22	
+R13	per_employee_of Arg1:T20 Arg2:T22	
+R14	per_title Arg1:T23 Arg2:T22	
+R15	per_employee_of Arg1:T19 Arg2:T22	
+R16	per_employee_of Arg1:T24 Arg2:T22	
+R17	per_employee_of Arg1:T26 Arg2:T22	
+R18	per_employee_of Arg1:T25 Arg2:T22	
+R19	per_title Arg1:T37 Arg2:T36	
+R20	per_employee_of Arg1:T38 Arg2:T36	
+R21	per_alternate_names Arg1:T18 Arg2:T12	
+R22	per_employee_of Arg1:T43 Arg2:T27	
+R23	per_employee_of Arg1:T43 Arg2:T48	
+R24	per_parents Arg1:T50 Arg2:T30	
+R25	per_title Arg1:T53 Arg2:T50	
+R26	per_title Arg1:T54 Arg2:T50	
+R27	per_employee_of Arg1:T55 Arg2:T50	
+R28	per_employee_of Arg1:T57 Arg2:T32	
+R29	per_employee_of Arg1:T58 Arg2:T32	
+R30	per_title Arg1:T60 Arg2:T32	
+R31	per_employee_of Arg1:T61 Arg2:T32	
+R32	per_employee_of Arg1:T62 Arg2:T32	
+R33	org_subsidiaries Arg1:T61 Arg2:T62	
+R34	per_employee_of Arg1:T72 Arg2:T71	
+R35	per_title Arg1:T73 Arg2:T74	
+R36	per_title Arg1:T80 Arg2:T81	
+R37	per_title Arg1:T85 Arg2:T83	
+R38	per_employee_of Arg1:T84 Arg2:T83	
+R39	per_title Arg1:T88 Arg2:T86	
+R40	per_employee_of Arg1:T87 Arg2:T86	
+R41	per_title Arg1:T90 Arg2:T89	
+R42	per_employee_of Arg1:T104 Arg2:T35	
+R43	org_alternate_names Arg1:T114 Arg2:T45	
+R44	org_general Arg1:T51 Arg2:T50	
+R45	org_general Arg1:T52 Arg2:T50	
+R46	org_general Arg1:T65 Arg2:T34	
+R47	org_general Arg1:T66 Arg2:T34	

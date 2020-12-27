@@ -1,0 +1,181 @@
+Products & Services
+Business Solutions
+SmartHub AnalyticsOptimize your business with cutting edge big data analytics technology
+Financial AnalyticsUnderstand and grow revenue and margins associated with network usage
+Cost ManagementEnsure the accuracy of third-party costs and minimize the number of leased lines
+Business ServicesIncrease your profit margins with our business audit services
+Revenue AssuranceIdentify, correct and protect against revenue leakage
+Subscriber AnalyticsVital tools to understand digital service behaviors and quality
+Routing ManagementExpose hidden costs and implement optimal cost routing models
+Trunk & Circuit AnalyticsMaximize profitability with insights into trunk utilization & circuit costs
+RAN Solutions
+Network PlanningRadio, backhaul, capacity, small cell, indoor and automated planning
+Network OptimizationOptimize and troubleshoot your network using geolocated data
+Network ServicesNetwork audits, planning, optimization, refarming and managed services
+Configuration ManagementMaintain network integrity by continuously auditing network changes
+Drone ConnectivityData connectivity platform for BVLOS drone operation in cellular networks
+Network AnalyticsAnalytics solutions that address the challenges network engineers face
+Service Assurance
+Fault ManagementAn alarm management system for efficient resolution of network faults
+Performance ManagementOptimize and troubleshoot the performance of converged networks
+Service ManagementEnd-to-end monitoring of services and their underlying network resources
+Service Assurance AnalyticsIdentify, prevent and resolve network issues via deep insights
+Fault Analytics as a ServiceFault analytics reports and actionable recommendations delivered as a service
+NOC & SOC SolutionsHelping NOC and SOC teams achieve goals and collaborate effectively
+Innovation
+5GWe’re helping CSPs devise their 5G strategies and build out their networks
+AutomationEnsuring operational efficiency as network complexity increases
+AnalyticsGain actionable insights into your network, subscribers and business
+Machine Learning & AICritical in solving some of today’s most complex network challenges
+GeolocationGeolocation provides valuable network insights to engineers
+IoTIoT is a defining challenge CSPs will need to address over the next ten years
+DronesNetwork operators are well positioned to benefit from this emerging market
+NFV/SDNVirtualization of networks and services provides challenges and opportunities
+Device Testing
+Lab TestingDevice validation in a state-of-the-art lab by highly experienced engineers
+Field TestingMeasuring mobile device performance on live operator networks
+Logo
+Click here for an A-Z listing of all TEOCO products
+Company
+Company
+About us
+Careers
+Partners
+Leadership
+News
+Blog
+Events
+Resources
+Success
+Success Stories
+Our Customers
+Awards & Recognition
+Contact Us
+Contact Us
+Support
+Search
+Home | Company | Leadership
+Executive Management Team
+Atul Jain founded TEOCO in 1995 and is supported globally by a strong Board, Executive Management and Senior Management Teams.
+Atul Jain
+Founder & CEO
+Atul Jain founded TEOCO Corporation in 1995 with the dream of building a successful business model, not just a successful business. His goal was to build a company that did not compromise its values. Prior to starting TEOCO, Atul was with a Silicon Valley firm TIBCO for seven years. At TIBCO, his focus was to work with Fortune 500 clients to design and build state-of-the-art software solutions leveraging the company’s trademark TIB platform.
+Philip M Giuntini
+President & Vice Chairman
+Philip Giuntini joined TEOCO in February 2000 as President & Vice Chairman, bringing more than thirty years of experience in the consulting and information systems industry to the company. Prior to joining TEOCO, Philip was President and a Board Member of American Management Systems, Inc. (AMS), a $1B international business and information technology consulting firm headquartered in Fairfax, Virginia.
+Avi Goldstein
+Chief Financial Officer
+Avi Goldstein joined TEOCO in October 2008 as Chief Financial Officer and also heads up our Service Assurance business. Prior to joining TEOCO, Avi co-founded several start-up companies as well providing consulting services in the telecom arena with a strong focus on mergers and acquisitions. Avi also served as an Executive Vice President and CFO of ECtel Ltd. (NASDAQ: ECTX), from its establishment until 2005. He also led ECtel to a successful IPO as well as private placements and M&A activities.
+Atul Jain founded TEOCO Corporation in 1995 with the dream of building a successful business model, not just a successful business. His goal was to build a company that did not compromise its values. Prior to starting TEOCO, Atul was with a Silicon Valley firm TIBCO for seven years. At TIBCO, his focus was to work with Fortune 500 clients to design and build state-of-the-art software solutions leveraging the company’s trademark TIB platform.
+Philip Giuntini joined TEOCO in February 2000 as President & Vice Chairman, bringing more than thirty years of experience in the consulting and information systems industry to the company. Prior to joining TEOCO, Philip was President and a Board Member of American Management Systems, Inc. (AMS), a $1B international business and information technology consulting firm headquartered in Fairfax, Virginia.
+Avi Goldstein joined TEOCO in October 2008 as Chief Financial Officer and also heads up our Service Assurance business. Prior to joining TEOCO, Avi co-founded several start-up companies as well providing consulting services in the telecom arena with a strong focus on mergers and acquisitions. Avi also served as an Executive Vice President and CFO of ECtel Ltd. (NASDAQ: ECTX), from its establishment until 2005. He also led ECtel to a successful IPO as well as private placements and M&A activities.
+Derek Canfield
+General Manager, Business Analytics
+Derek Canfield is a veteran of the telecom industry, having spent the first half of his twenty-year career working for a North American operator and the second half with TEOCO Corporation. At TEOCO, Derek leads the go-to market strategy for the analytics suite of products and services focusing on the key tenant of aligning technology with business objectives to drive innovation and market leadership. Derek also serves as an expert witness, representing TEOCO’s clients in key regulatory issues in various venues, including federal and state commissions. Derek is well-known in the industry through work in industry forums and speaking engagements at tradeshows, displaying core expertise in Cost Management, Network Optimization, and all facets of Profitability. At TEOCO, Derek has received multiple levels of recognition, and has also been honored with TEOCO’s award for Attitude, Commitment and Excellence.
+Derek earned his MBA from Wichita State University and holds a bachelor’s degree in Finance and Economics from Bethany College.
+Hemant Minocha
+Executive Vice President
+Hemant Minocha joined TEOCO in in 2013 to help develop and implement our M&A and transformation strategy and also heads up our AIRCOM Labs device testing business. He brings more than 30 years’ experience gained in leadership positions as a partner in Price Waterhouse Coopers management consulting practice as well as IBM where he held a global leadership position in its global Strategy and Transformation practice. Hemant was instrumental in the acquisition and global integration of AIRCOM International in 2013.
+Roman Cybyk
+Chief Administrative Officer
+Roman Cybyk joined TEOCO in December 1995 and was the 3rd employee. He has held a wide range of roles within TEOCO including Senior Software Engineer, Software Architect, Enterprise Web Solutions Business Owner, VP of Engineering, VP of Americas Delivery and VP of Global Operations. He has extensive experience in designing, building, and delivering small, medium, and large scale solutions, as well as involvement in M&A activities and integration of acquired assets. Prior to TEOCO he worked at TRW as a Senior Software Engineer for 9 years.
+Derek Canfield is a veteran of the telecom industry, having spent the first half of his twenty-year career working for a North American operator and the second half with TEOCO Corporation. At TEOCO, Derek leads the go-to market strategy for the analytics suite of products and services focusing on the key tenant of aligning technology with business objectives to drive innovation and market leadership. Derek also serves as an expert witness, representing TEOCO’s clients in key regulatory issues in various venues, including federal and state commissions. Derek is well-known in the industry through work in industry forums and speaking engagements at tradeshows, displaying core expertise in Cost Management, Network Optimization, and all facets of Profitability. At TEOCO, Derek has received multiple levels of recognition, and has also been honored with TEOCO’s award for Attitude, Commitment and Excellence.
+Derek earned his MBA from Wichita State University and holds a bachelor’s degree in Finance and Economics from Bethany College.
+Hemant Minocha joined TEOCO in in 2013 to help develop and implement our M&A and transformation strategy and also heads up our AIRCOM Labs device testing business. He brings more than 30 years’ experience gained in leadership positions as a partner in Price Waterhouse Coopers management consulting practice as well as IBM where he held a global leadership position in its global Strategy and Transformation practice. Hemant was instrumental in the acquisition and global integration of AIRCOM International in 2013.
+Roman Cybyk joined TEOCO in December 1995 and was the 3rd employee. He has held a wide range of roles within TEOCO including Senior Software Engineer, Software Architect, Enterprise Web Solutions Business Owner, VP of Engineering, VP of Americas Delivery and VP of Global Operations. He has extensive experience in designing, building, and delivering small, medium, and large scale solutions, as well as involvement in M&A activities and integration of acquired assets. Prior to TEOCO he worked at TRW as a Senior Software Engineer for 9 years.
+Rob Roy
+Executive Vice President
+Dr. Rob Roy, a well-recognized entrepreneur in the fields of wireless and VLSI system design, joined TEOCO in February 2012. Prior to joining TEOCO, he was Chief of Business Development at Atrenta, a leader in EDA software, and before that a VP of Business Development at SAI Technology. Rob was a Co-Founder and Chief Technology Strategist at Mobilian Corporation, an advanced wireless connectivity company that was acquired by Intel Corporation in 2003. In addition, he has held engineering and management positions at Intel and NEC. Rob, who currently holds 15 patents, is also the author of numerous articles published in referred journals.
+Dr. Rob Roy, a well-recognized entrepreneur in the fields of wireless and VLSI system design, joined TEOCO in February 2012. Prior to joining TEOCO, he was Chief of Business Development at Atrenta, a leader in EDA software, and before that a VP of Business Development at SAI Technology. Rob was a Co-Founder and Chief Technology Strategist at Mobilian Corporation, an advanced wireless connectivity company that was acquired by Intel Corporation in 2003. In addition, he has held engineering and management positions at Intel and NEC. Rob, who currently holds 15 patents, is also the author of numerous articles published in referred journals.
+Board of Directors
+TEOCO is supported by a Board with a wealth of industry experience gathered over many years. The Board members currently hold or have held executive roles in Neustar, Vimplecom, Telekom Austria Group, Automated Insights, PricewaterhouseCoopers and AMS.
+Robert Korzeniewski
+Director
+As VeriSign’s Executive Vice President, Corporate Development and Strategy, Robert Korzeniewski was responsible for providing a consistent strategy and focus for investments and merger-and-acquisition activity. Roberts was CFO of Network Solutions, Inc., from 1996 to 2000. He went to Network Solutions from SAIC, where from 1987 to 1996, he held a variety of senior financial positions.
+Marc Zionts
+Director
+Marc Zionts, a technology executive and entrepreneur has been successfully leading companies since 1987. Marc is currently the Executive Officer and Board Member of Precision Nutrition, a BV Investment Partners portfolio company. Marc earned his Bachelor’s degree and Master’s degree in Management from the Georgia Institute of Technology and is an Independent Board Director for Pivot 3 and Friends of the Earth, a Washington D.C. based environmental group.
+John Devolites
+Director
+John Devolites is Vice President of Data Services at Neustar. Prior to this he was the Vice President & General Manager at TEOCO focusing on solutions for the communications service provider industry. Previously, John served as President of Professional Services for Telcordia. His other work experiences include executive positions at PricewaterhouseCoopers, E-Commerce Industries, Andersen, American Management Systems (AMS), Alexander Proudfoot PLC, and Booz Allen Hamilton. He also serves on the Board of Directors for the Alliance for Telecommunications Industry Solutions (ATIS).
+As VeriSign’s Executive Vice President, Corporate Development and Strategy, Robert Korzeniewski was responsible for providing a consistent strategy and focus for investments and merger-and-acquisition activity. Roberts was CFO of Network Solutions, Inc., from 1996 to 2000. He went to Network Solutions from SAIC, where from 1987 to 1996, he held a variety of senior financial positions.
+Marc Zionts, a technology executive and entrepreneur has been successfully leading companies since 1987. Marc is currently the Executive Officer and Board Member of Precision Nutrition, a BV Investment Partners portfolio company. Marc earned his Bachelor’s degree and Master’s degree in Management from the Georgia Institute of Technology and is an Independent Board Director for Pivot 3 and Friends of the Earth, a Washington D.C. based environmental group.
+John Devolites is Vice President of Data Services at Neustar. Prior to this he was the Vice President & General Manager at TEOCO focusing on solutions for the communications service provider industry. Previously, John served as President of Professional Services for Telcordia. His other work experiences include executive positions at PricewaterhouseCoopers, E-Commerce Industries, Andersen, American Management Systems (AMS), Alexander Proudfoot PLC, and Booz Allen Hamilton. He also serves on the Board of Directors for the Alliance for Telecommunications Industry Solutions (ATIS).
+Philip M Giuntini
+President & Vice Chairman
+Philip Giuntini joined TEOCO in February 2000 as President & Vice Chairman, bringing more than thirty years of experience in the consulting and information systems industry to the company. Prior to joining TEOCO, Philip was President and a Board Member of American Management Systems, Inc. (AMS), a $1B international business and information technology consulting firm headquartered in Fairfax, Virginia.
+Boris Nemsic
+Director
+Boris Nemsic is Chairman of the Board at Delta Partners. Prior to this he was CEO of VimpelCom, the second largest Russian integrated telecom operator with over 65 million customers. He has also held the position of CEO within a number of high-profile organisations including: VimpelCom OJSC, Telekom Austria Group and Mobilkom Austria (now A1 Telekom Austria). Before his appointment as CEO of Telekom Austria Group, he transformed its wireless division – Mobilkom Austria – into one of Europe’s leading mobile operator groups in eight countries across the CEE region. He was named one of Europe’s top five telecom CEOs by Institutional Investor in 2007.He is an Industry Advisor to Kohlberg Kravis Roberts & Co. Partners LLP as well as being a Board member and Chairman in several ambitious high-tech companies, as well as founding member of the aaia – Austrian Angel Investor Association.
+Atul Jain
+Founder & CEO
+Atul Jain founded TEOCO Corporation in 1995 with the dream of building a successful business model, not just a successful business. His goal was to build a company that did not compromise its values. Prior to starting TEOCO, Atul was with a Silicon Valley firm TIBCO for seven years. At TIBCO, his focus was to work with Fortune 500 clients to design and build state-of-the-art software solutions leveraging the company’s trademark TIB platform.
+Philip Giuntini joined TEOCO in February 2000 as President & Vice Chairman, bringing more than thirty years of experience in the consulting and information systems industry to the company. Prior to joining TEOCO, Philip was President and a Board Member of American Management Systems, Inc. (AMS), a $1B international business and information technology consulting firm headquartered in Fairfax, Virginia.
+Boris Nemsic is Chairman of the Board at Delta Partners. Prior to this he was CEO of VimpelCom, the second largest Russian integrated telecom operator with over 65 million customers. He has also held the position of CEO within a number of high-profile organisations including: VimpelCom OJSC, Telekom Austria Group and Mobilkom Austria (now A1 Telekom Austria). Before his appointment as CEO of Telekom Austria Group, he transformed its wireless division – Mobilkom Austria – into one of Europe’s leading mobile operator groups in eight countries across the CEE region. He was named one of Europe’s top five telecom CEOs by Institutional Investor in 2007.He is an Industry Advisor to Kohlberg Kravis Roberts & Co. Partners LLP as well as being a Board member and Chairman in several ambitious high-tech companies, as well as founding member of the aaia – Austrian Angel Investor Association.
+Atul Jain founded TEOCO Corporation in 1995 with the dream of building a successful business model, not just a successful business. His goal was to build a company that did not compromise its values. Prior to starting TEOCO, Atul was with a Silicon Valley firm TIBCO for seven years. At TIBCO, his focus was to work with Fortune 500 clients to design and build state-of-the-art software solutions leveraging the company’s trademark TIB platform.
+Senior Management Team
+Bringing with them significant experience and tenure within the industry, the Senior Management Team works closely with Executive Management and The Board.
+Warren Dumanski
+Vice President, Americas
+Warren Dumanski has worked in various wireless technology functions for over 24 years. Prior to working at TEOCO, Warren was VP Sales, Marketing, Operations and Customer Care at Newfield Wireless for 6 years. While there the company tripled in employee size and grew revenue by almost one order of magnitude. Before Newfield, he was an early stage employee at NextG Networks where he successfully launched the sales efforts into Tier 1 wireless service providers resulting in a successful company sale to Crown Castle for $1B. Previously Warren was President of Celletra Incorporated, a wireless technology start-up. Before Celletra he was employed by Spectrian Corporation, a publicly traded company, where he ran the worldwide sales organization achieving annual revenues of $180M. While at Nortel Networks in Kansas City, Warren supported the national launch of the Sprint PCS networks. He performed many functions within Nortel Network’s wireless group over 7 years including senior positions in finance, operations and sales.
+Faye Henris
+Vice President, Business Development
+Faye Henris is Vice President of Business Development; a 30-year global thought leader focused on Telecommunications and Technology.  A proven and accomplished executive with a passion for developing and leading high performance sales, marketing, product management and delivery teams.   An entrepreneur at heart with appreciation of the corporate climate having worked with companies including MCI, Sprint, Verizon, Century Link, Accenture, ENY and Deutsche Börse.  Her technical focus is in the design and management of complex technology and service solutions for communications and cloud computing companies.
+Faye’s career began with MCI Communications.  After MCI, Faye founded her first company, TeleCon, LLC to provide consulting and outsourced solutions for multi-tier communications service providers.  Acquisition of the firm was coincident with inflow of venture funding by Columbia Capital and Bessemer Ventures.  Faye served as GM and COO of the rebranded company, Vibrant Solutions, which was acquired by TEOCO in 2006.
+Faye is an honors graduate of The George Washington University with Bachelors of Science Degrees in Finance and Math.
+Thomas NeuBauer
+Vice President of Business Development & Innovations
+Dr Thomas Neubauer was the founder and Managing Director of Symena, acquired by AIRCOM in April 2012. AIRCOM was subsequently acquired by TEOCO in December 2013. Thomas has more than eleven years of experience with automatic cell planning (ACP) and mathematical optimization. His experience has been applied to GSM, WCDMA, CDMA, WiMAX and LTE network design and operations. Thomas’ academic background is in smart antennas and MIMO systems.He holds a Ph.D. in telecommunications engineering from the Vienna University of Technology.
+Warren Dumanski has worked in various wireless technology functions for over 24 years. Prior to working at TEOCO, Warren was VP Sales, Marketing, Operations and Customer Care at Newfield Wireless for 6 years. While there the company tripled in employee size and grew revenue by almost one order of magnitude. Before Newfield, he was an early stage employee at NextG Networks where he successfully launched the sales efforts into Tier 1 wireless service providers resulting in a successful company sale to Crown Castle for $1B. Previously Warren was President of Celletra Incorporated, a wireless technology start-up. Before Celletra he was employed by Spectrian Corporation, a publicly traded company, where he ran the worldwide sales organization achieving annual revenues of $180M. While at Nortel Networks in Kansas City, Warren supported the national launch of the Sprint PCS networks. He performed many functions within Nortel Network’s wireless group over 7 years including senior positions in finance, operations and sales.
+Faye Henris is Vice President of Business Development; a 30-year global thought leader focused on Telecommunications and Technology.  A proven and accomplished executive with a passion for developing and leading high performance sales, marketing, product management and delivery teams.   An entrepreneur at heart with appreciation of the corporate climate having worked with companies including MCI, Sprint, Verizon, Century Link, Accenture, ENY and Deutsche Börse.  Her technical focus is in the design and management of complex technology and service solutions for communications and cloud computing companies.
+Faye’s career began with MCI Communications.  After MCI, Faye founded her first company, TeleCon, LLC to provide consulting and outsourced solutions for multi-tier communications service providers.  Acquisition of the firm was coincident with inflow of venture funding by Columbia Capital and Bessemer Ventures.  Faye served as GM and COO of the rebranded company, Vibrant Solutions, which was acquired by TEOCO in 2006.
+Faye is an honors graduate of The George Washington University with Bachelors of Science Degrees in Finance and Math.
+Dr Thomas Neubauer was the founder and Managing Director of Symena, acquired by AIRCOM in April 2012. AIRCOM was subsequently acquired by TEOCO in December 2013. Thomas has more than eleven years of experience with automatic cell planning (ACP) and mathematical optimization. His experience has been applied to GSM, WCDMA, CDMA, WiMAX and LTE network design and operations. Thomas’ academic background is in smart antennas and MIMO systems.He holds a Ph.D. in telecommunications engineering from the Vienna University of Technology.
+Inbar Charash
+Vice President Legal Affairs, Corporate General Counsel
+Inbar Charash joined TEOCO as part of the TTI Telecom acquisition in 2010 and is the Corporate General Counsel and the Vice President of Legal Affairs. Prior to joining TTI Telecom in 2006, Inbar worked with the top firm Danziger, Klagsbald & Co. She gained her LLM from the Bar-Ilan University in Israel, and her LLB & BA degrees from the Interdisciplinary Center (IDC) in Israel, cum laude.
+Alexis Kaltreider
+Vice President, Resource Management
+Alexis Kaltreider joined TEOCO in 1999 and is Vice President of Global Resource Management & Organizational Development for TEOCO. Alexis works to support and align the employees with the business needs, by optimizing their skill set to ensure maximum effectiveness and efficiency to support the business goals.Alexis has a Bachelor’s degree in Decision Sciences and Management Information Systems from George Mason University.
+Shachar Ebel
+Chief Technology Officer
+Shachar Ebel joined TEOCO in September 2010 leveraging over 20 years of experience in the telecom industry. Sachar’s responsibilities include overseeing TEOCO’s technology, products and solutions management, product line roadmaps, vision and strategy. Prior to joining TEOCO, Shachar held various positions in the telecom industry, including Chief Operational Officer and Chief Technology Officer at TTI Telecom (NASDAQ: TTIL), Chief System Engineer at Ofek NGN as well as co-founding several start-ups in the Telecom and Internet arenas.Shachar holds an MBA and a B.Sc. in Electronics Engineering from Tel Aviv University, graduating cum laude.
+Inbar Charash joined TEOCO as part of the TTI Telecom acquisition in 2010 and is the Corporate General Counsel and the Vice President of Legal Affairs. Prior to joining TTI Telecom in 2006, Inbar worked with the top firm Danziger, Klagsbald & Co. She gained her LLM from the Bar-Ilan University in Israel, and her LLB & BA degrees from the Interdisciplinary Center (IDC) in Israel, cum laude.
+Alexis Kaltreider joined TEOCO in 1999 and is Vice President of Global Resource Management & Organizational Development for TEOCO. Alexis works to support and align the employees with the business needs, by optimizing their skill set to ensure maximum effectiveness and efficiency to support the business goals.Alexis has a Bachelor’s degree in Decision Sciences and Management Information Systems from George Mason University.
+Shachar Ebel joined TEOCO in September 2010 leveraging over 20 years of experience in the telecom industry. Sachar’s responsibilities include overseeing TEOCO’s technology, products and solutions management, product line roadmaps, vision and strategy. Prior to joining TEOCO, Shachar held various positions in the telecom industry, including Chief Operational Officer and Chief Technology Officer at TTI Telecom (NASDAQ: TTIL), Chief System Engineer at Ofek NGN as well as co-founding several start-ups in the Telecom and Internet arenas.Shachar holds an MBA and a B.Sc. in Electronics Engineering from Tel Aviv University, graduating cum laude.
+How can we help?
+For over 25 years, TEOCO has helped network operators run state-of-the-art networks and profitable businesses. Learn how we can help you in the areas critical to the success of modern CSPs.
+Contact Us
+Want to hear more?
+twitter.com/TEOCO_Corp
+www.facebook.com/teococorporation
+www.linkedin.com/company/teoco
+www.youtube.com/user/aircomint
+Product Quick Links
+ASSET Suite
+Mentor
+Helix
+SmartHub
+BillTrak Pro
+Solution Areas
+Business Solutions
+RAN Solutions
+Service Assurance
+Innovation
+Device Testing
+Company
+About Us
+Leadership
+Success
+Updates
+News
+Blog
+Events
+Contact
+Contact Us
+Office Locations
+Support
+©2020 Teoco. All rights reserved.
+Copyright | Terms & Conditions | Privacy Policy | Cookie Policy
+Contact Us
+This website uses cookies: Please read our privacy policy and cookie policy for full details. I am happy for this website to use cookies

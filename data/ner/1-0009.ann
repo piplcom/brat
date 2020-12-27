@@ -1,0 +1,389 @@
+T1	ORG 108 111	RIT
+T2	ORG 123 126	RIT
+T4	ORG 190 193	RIT
+T10	ORG 1299 1302	RIT
+T13	ORG 1563 1582;1583 1596	Rochester Institute of Technology
+T14	ORG 1799 1802	RIT
+T15	ORG 1808 1841	Rochester Institute of Technology
+T16	ORG 1842 1875	Rochester Institute of Technology
+T18	ORG 1997 2000	RIT
+T24	ORG 3106 3109	RIT
+T34	TITLE 3687 3696	President
+T35	NAME 3697 3715	David C. Munson Jr
+T37	ORG 4022 4025	RIT
+T39	ORG 4279 4282	RIT
+T44	ORG 5232 5235	RIT
+T45	ORG 5670 5673	RIT
+T46	ORG 5909 5912	RIT
+T47	ORG 6203 6213	RIT Tigers
+T48	ORG 6441 6444	RIT
+T50	NAME 6527 6545	David C. Munson Jr
+T51	TITLE 6548 6557	President
+T53	NAME 6572 6590	David C. Munson Jr
+T54	ORG 6599 6632	Rochester Institute of Technology
+T55	TITLE 6640 6649	president
+T57	ORG 6662 6665	RIT
+T58	TITLE 6668 6677	president
+T60	NAME 6683 6689	Munson
+T66	ORG 7050 7059	RIT Tiger
+T67	ORG 7104 7107	RIT
+T70	ORG 7251 7254	RIT
+T71	ORG 7275 7316	National Technical Institute for the Deaf
+T72	ORG 7318 7322	NTID
+T75	NAME 7532 7538	Munson
+T78	TITLE 7624 7660	Robert J. Vlasic Dean of Engineering
+T79	ORG 7668 7690	University of Michigan
+T83	ORG 7788 7810	University of Delaware
+T86	ORG 7874 7894	Princeton University
+T92	NAME 8003 8009	Munson
+T93	ORG 8023 8045	University of Illinois
+T95	TITLE 8064 8148	Robert C. MacClinchie Distinguished Professor of Electrical and Computer Engineering
+T97	TITLE 8150 8168	Research Professor
+T98	DEPARTMENT 8176 8206	Coordinated Science Laboratory
+T99	TITLE 8213 8227	faculty member
+T100	ORG 8235 8288	Beckman Institute for Advanced Science and Technology
+T102	DEPARTMENT 8322 8379	Department of Electrical Engineering and Computer Science
+T103	ORG 8387 8409	University of Michigan
+T104	TITLE 8428 8432	dean
+T106	NAME 8438 8444	Munson
+T107	TITLE 8607 8617	co-founder
+T108	ORG 8621 8635	InstaRecon Inc
+T109	ORG 8757 8773	Infinity Project
+T111	NAME 8933 8939	Munson
+T112	ORG 8977 9027	The Alliance for the Arts in Research Universities
+T113	ORG 9042 9084	American Society for Engineering Education
+T114	ORG 9109 9159	Finger Lakes Regional Economic Development Council
+T115	ORG 9184 9212	Greater Rochester Enterprise
+T117	ORG 9214 9227	Permanent.org
+T118	ORG 9229 9252	Rochester Area Colleges
+T119	ORG 9254 9283	Rochester Chamber of Commerce
+T120	ORG 9285 9310	Rochester Regional Health
+T121	ORG 9312 9323	RIT Croatia
+T122	ORG 9333 9378	Sustainable Manufacturing Innovation Alliance
+T124	NAME 9384 9390	Munson
+T125	NAME 9405 9417	Nancy Munson
+T126	TITLE 9428 9433	nurse
+T127	TITLE 9435 9446	avid runner
+T128	TITLE 9451 9470	community volunteer
+T129	TITLE 9580 9589	President
+T130	NAME 9590 9596	Munson
+T131	NAME 9613 9625	Daniel Prude
+T136	ORG 9714 9717	RIT
+T138	ORG 9757 9760	RIT
+T139	TITLE 9761 9770	President
+T143	ORG 9847 9850	RIT
+T144	TITLE 9851 9860	President
+T145	NAME 9861 9867	Munson
+T152	NAME 10082 10088	Munson
+T154	NAME 10097 10104	Jenkins
+T156	ORG 10120 10123	RIT
+T161	ORG 10438 10441	RIT
+T163	ORG 10472 10475	RIT
+T164	TITLE 10476 10485	President
+T165	NAME 10486 10492	Munson
+T167	TITLE 10525 10534	President
+T169	ORG 10601 10604	RIT
+T172	TITLE 10753 10762	President
+T173	NAME 10763 10769	Munson
+T177	ORG 10923 10926	RIT
+T180	ORG 10993 10996	RIT
+T182	ORG 11100 11121	University Task Force
+T184	ORG 11181 11202	University Task Force
+T188	ORG 11332 11335	RIT
+T190	ORG 11403 11406	RIT
+T192	ORG 11473 11476	RIT
+T194	ORG 11501 11504	RIT
+T198	ORG 11619 11622	RIT
+T209	ORG 11998 12001	RIT
+T213	TITLE 12268 12277	President
+T214	NAME 12278 12284	Munson
+T216	TITLE 12437 12446	President
+T217	NAME 12447 12453	Munson
+T221	ORG 12734 12737	RIT
+T224	ORG 12840 12843	RIT
+T230	TITLE 13092 13101	President
+T231	NAME 13102 13108	Munson
+T233	ORG 13214 13217	RIT
+T234	TITLE 13218 13227	President
+T235	NAME 13228 13240	David Munson
+T238	TITLE 13452 13461	President
+T239	NAME 13462 13468	Munson
+T240	ORG 13477 13481	WITR
+T244	ORG 13520 13523	RIT
+T245	TITLE 13524 13533	President
+T246	NAME 13534 13546	David Munson
+T251	ORG 13675 13678	RIT
+T252	NAME 13687 13705	Frederick Douglass
+T253	ORG 13743 13763	Student Alumni Union
+T254	ORG 13764 13767	RIT
+T255	NAME 13796 13814	Frederick Douglass
+T256	ORG 13872 13892	Student Alumni Union
+T257	ORG 13967 13970	RIT
+T258	ORG 13973 14011	Black Awareness Coordinating Committee
+T261	ORG 14149 14154	RIT's
+T262	ORG 14222 14225	RIT
+T263	TITLE 14226 14235	President
+T264	NAME 14236 14248	David Munson
+T265	ORG 14286 14293	WITR-FM
+T267	ORG 14307 14310	RIT
+T268	TITLE 14311 14320	President
+T269	NAME 14321 14333	David Munson
+T270	NAME 14349 14354	Nancy
+T271	TITLE 14418 14427	President
+T272	NAME 14428 14434	Munson
+T275	NAME 14474 14492	E. Philip Saunders
+T276	ORG 14526 14554	Saunders College of Business
+T279	ORG 14777 14780	RIT
+T280	ORG 14840 14843	RIT
+T283	ORG 14930 14949	Mechanics Institute
+T284	TITLE 14966 14975	president
+T285	NAME 14977 14992	Carleton Gibson
+T286	NAME 14994 15012	Carleton B. Gibson
+T288	NAME 15029 15044	Carleton Gibson
+T289	TITLE 15063 15078	first president
+T290	ORG 15086 15105	Mechanics Institute
+T297	ORG 15554 15573	Mechanics Institute
+T298	TITLE 15576 15592	second president
+T300	ORG 15638 15656	Cornell University
+T303	NAME 15894 15909	Royal B. Farnum
+T306	NAME 15926 15941	Royal B. Farnum
+T309	NAME 16304 16319	John A. Randall
+T312	NAME 16403 16415	John Randall
+T313	NAME 16419 16425	Farnum
+T314	NAME 16439 16446	Randall
+T315	TITLE 16465 16474	president
+T317	TITLE 16505 16519	undersecretary
+T319	NAME 16920 16937	Mark W. Ellingson
+T321	NAME 16954 16968	Mark Ellingson
+T322	TITLE 17006 17013	teacher
+T323	TITLE 17034 17043	president
+T326	ORG 17188 17213	Empire School of Printing
+T327	ORG 17222 17241	Mechanics Institute
+T330	ORG 17275 17318	Rochester Athenaeum and Mechanics Institute
+T331	ORG 17331 17364	Rochester Institute of Technology
+T332	NAME 17373 17382	Ellingson
+T333	ORG 17397 17400	RIT
+T334	NAME 17456 17465	Ellingson
+T342	NAME 17655 17661	Miller
+T343	ORG 17698 17701	RIT
+T347	NAME 17980 17995	M. Richard Rose
+T351	NAME 18012 18027	M. Richard Rose
+T353	NAME 18071 18077	Miller
+T354	NAME 18082 18086	Rose
+T355	ORG 18286 18304	Eisenhower College
+T356	ORG 18322 18325	RIT
+T357	NAME 18416 18420	Rose
+T358	ORG 18435 18438	RIT
+T360	NAME 18491 18507	Albert J. Simone
+T362	NAME 18524 18537	Albert Simone
+T363	TITLE 18554 18563	president
+T365	ORG 18666 18669	RIT
+T366	NAME 18691 18697	Simone
+T370	ORG 18926 18929	RIT
+T371	NAME 18965 18983	William W. Destler
+T374	NAME 19000 19018	William W. Destler
+T375	ORG 19026 19029	RIT
+T376	TITLE 19036 19045	president
+T378	TITLE 19073 19094	senior vice president
+T379	ORG 19135 19157	University of Maryland
+T381	ORG 19289 19292	RIT
+T383	NAME 19375 19393	David C. Munson Jr
+T384	NAME 19410 19428	David C. Munson Jr
+T385	ORG 19437 19440	RIT
+T386	TITLE 19448 19457	president
+T388	TITLE 19491 19495	dean
+T389	ORG 19503 19548	University of Michigan College of Engineering
+T390	ORG 19575 19578	RIT
+T400	NAME 19798 19810	David Munson
+T401	TITLE 19811 19820	President
+T404	NAME 19849 19862	Karen Barrows
+T405	TITLE 19863 19877	Chief of Staff
+T408	ORG 19949 19952	RIT
+T412	ORG 20196 20229	Rochester Institute of Technology
+T3	ORG 21 24	RIT
+T5	ORG 175 178	RIT
+T6	ORG 257 260	RIT
+T7	ORG 270 273	RIT
+T9	ORG 967 970	RIT
+T11	ORG 1278 1281	RIT
+T12	ORG 1915 1918	RIT
+T17	ORG 1930 1933	RIT
+T19	ORG 1982 1985	RIT
+T20	ORG 2064 2067	RIT
+T21	ORG 2077 2080	RIT
+T23	ORG 2774 2777	RIT
+T25	ORG 3085 3088	RIT
+T26	ORG 3424 3427	RIT
+T36	ORG 3757 3760	RIT
+T38	ORG 5397 5400	RIT
+T40	ORG 7969 7978	Princeton
+T41	TITLE 8309 8314	chair
+T42	ORG 9029 9033	a2ru
+T43	ORG 9036 9040	ASEE
+T49	ORG 9161 9182	George Eastman Museum
+T52	ORG 11745 11748	RIT
+T56	ORG 12379 12403	Monroe Community College
+T59	NAME 15489 15504	James F. Barker
+T61	NAME 15521 15533	James Barker
+T62	NAME 15705 15711	Barker
+T63	TITLE 16527 16543	secretary of war
+T64	ORG 16584 16599	Pratt Institute
+T65	TITLE 16614 16644	head of the physics department
+T68	ORG 16653 16679	Cheltenham Military School
+T69	NAME 16697 16704	Randall
+T73	NAME 16709 16718	Carl Lomb
+T74	NAME 17543 17557	Paul A. Miller
+T76	NAME 17579 17590	Paul Miller
+T80	ORG 18872 18912	Gordon Field House and Activities Center
+T81	ORG 19310 19313	RIT
+T82	ORG 20160 20163	RIT
+T84	ORG 20361 20364	RIT
+T85	ADDRESS 19999 20022;20023 20042	One Lomb Memorial Drive Rochester, NY 14623
+R1	per_title Arg1:T34 Arg2:T35	
+R2	per_title Arg1:T51 Arg2:T50	
+R3	per_employee_of Arg1:T54 Arg2:T53	
+R4	per_title Arg1:T55 Arg2:T53	
+R5	per_employee_of Arg1:T57 Arg2:T60	
+R6	per_title Arg1:T58 Arg2:T60	
+R7	org_subsidiaries Arg1:T70 Arg2:T71	
+R8	org_alternate_names Arg1:T71 Arg2:T72	
+#1	AnnotatorNotes T78	full right title
+#2	AnnotatorNotes T95	full right title
+R9	per_title Arg1:T78 Arg2:T75	
+R10	per_employee_of Arg1:T79 Arg2:T75	
+R11	per_schools_attended Arg1:T83 Arg2:T75	
+R12	per_schools_attended Arg1:T86 Arg2:T75	
+R13	org_alternate_names Arg1:T40 Arg2:T86	
+R14	per_schools_attended Arg1:T40 Arg2:T75	
+R15	per_employee_of Arg1:T93 Arg2:T92	
+R16	per_title Arg1:T95 Arg2:T92	
+R17	per_title Arg1:T97 Arg2:T92	
+R18	per_title Arg1:T99 Arg2:T92	
+R19	org_members Arg1:T100 Arg2:T92	
+R20	per_title Arg1:T41 Arg2:T92	
+R21	per_employee_of Arg1:T103 Arg2:T92	
+R22	per_title Arg1:T104 Arg2:T92	
+R23	per_title Arg1:T107 Arg2:T106	
+R24	org_founded_by Arg1:T108 Arg2:T106	
+T8	TITLE 8787 8795	coauthor
+R25	per_employee_of Arg1:T109 Arg2:T106	
+R26	per_title Arg1:T8 Arg2:T106	
+R27	per_employee_of Arg1:T112 Arg2:T111	
+R28	per_employee_of Arg1:T42 Arg2:T111	
+R29	org_alternate_names Arg1:T42 Arg2:T112	
+R30	org_alternate_names Arg1:T43 Arg2:T113	
+R31	per_employee_of Arg1:T43 Arg2:T111	
+R32	per_employee_of Arg1:T113 Arg2:T111	
+R33	per_employee_of Arg1:T114 Arg2:T111	
+R34	per_employee_of Arg1:T49 Arg2:T111	
+R35	per_employee_of Arg1:T115 Arg2:T111	
+R36	per_employee_of Arg1:T117 Arg2:T111	
+R37	per_employee_of Arg1:T118 Arg2:T111	
+R38	per_employee_of Arg1:T119 Arg2:T111	
+R39	per_employee_of Arg1:T120 Arg2:T111	
+R40	per_employee_of Arg1:T121 Arg2:T111	
+R41	per_employee_of Arg1:T122 Arg2:T111	
+R42	per_spouse Arg1:T125 Arg2:T124	
+R43	per_title Arg1:T126 Arg2:T125	
+R44	per_title Arg1:T127 Arg2:T125	
+R45	per_title Arg1:T128 Arg2:T125	
+R46	per_title Arg1:T129 Arg2:T130	
+R47	per_employee_of Arg1:T143 Arg2:T145	
+R48	per_title Arg1:T144 Arg2:T145	
+R49	per_employee_of Arg1:T163 Arg2:T165	
+R50	per_title Arg1:T164 Arg2:T165	
+R51	per_title Arg1:T172 Arg2:T173	
+R52	per_title Arg1:T213 Arg2:T214	
+R53	per_title Arg1:T216 Arg2:T217	
+R54	per_title Arg1:T230 Arg2:T231	
+R55	per_employee_of Arg1:T233 Arg2:T235	
+R56	per_title Arg1:T234 Arg2:T235	
+R57	per_title Arg1:T238 Arg2:T239	
+R58	per_title Arg1:T245 Arg2:T246	
+R59	per_employee_of Arg1:T244 Arg2:T246	
+R60	per_employee_of Arg1:T251 Arg2:T252	
+R61	per_employee_of Arg1:T254 Arg2:T255	
+R62	org_subsidiaries Arg1:T257 Arg2:T258	
+R63	per_title Arg1:T263 Arg2:T264	
+R64	per_employee_of Arg1:T262 Arg2:T264	
+R65	per_employee_of Arg1:T267 Arg2:T269	
+R66	per_title Arg1:T268 Arg2:T269	
+R67	per_spouse Arg1:T269 Arg2:T270	
+R68	per_title Arg1:T271 Arg2:T272	
+R69	per_title Arg1:T284 Arg2:T285	
+R70	per_title Arg1:T289 Arg2:T288	
+R71	per_employee_of Arg1:T290 Arg2:T288	
+R72	per_title Arg1:T298 Arg2:T61	
+R73	per_employee_of Arg1:T297 Arg2:T61	
+R74	per_schools_attended Arg1:T300 Arg2:T61	
+R75	per_title Arg1:T315 Arg2:T314	
+R76	per_alternate_names Arg1:T314 Arg2:T312	
+R77	per_alternate_names Arg1:T272 Arg2:T269	
+R78	per_alternate_names Arg1:T61 Arg2:T59	
+R79	per_alternate_names Arg1:T59 Arg2:T62	
+R80	per_alternate_names Arg1:T313 Arg2:T306	
+R81	per_title Arg1:T317 Arg2:T314	
+R82	per_title Arg1:T63 Arg2:T314	
+R83	per_schools_attended Arg1:T64 Arg2:T314	
+R84	per_title Arg1:T65 Arg2:T314	
+R85	per_schools_attended Arg1:T68 Arg2:T314	
+R86	per_alternate_names Arg1:T319 Arg2:T321	
+R87	per_title Arg1:T322 Arg2:T321	
+R88	per_title Arg1:T323 Arg2:T321	
+R89	org_alternate_names Arg1:T333 Arg2:T331	
+R90	per_alternate_names Arg1:T74 Arg2:T76	
+R91	per_alternate_names Arg1:T342 Arg2:T76	
+R92	per_alternate_names Arg1:T342 Arg2:T74	
+R93	per_employee_of Arg1:T343 Arg2:T342	
+R94	per_alternate_names Arg1:T351 Arg2:T354	
+R95	org_subsidiaries Arg1:T356 Arg2:T355	
+R96	per_employee_of Arg1:T358 Arg2:T357	
+R97	per_employee_of Arg1:T333 Arg2:T332	
+R98	per_alternate_names Arg1:T360 Arg2:T362	
+R99	per_title Arg1:T363 Arg2:T362	
+R100	per_employee_of Arg1:T365 Arg2:T362	
+R101	per_alternate_names Arg1:T366 Arg2:T362	
+R102	per_alternate_names Arg1:T366 Arg2:T360	
+R103	per_employee_of Arg1:T80 Arg2:T366	
+R104	per_title Arg1:T376 Arg2:T374	
+R105	per_employee_of Arg1:T375 Arg2:T374	
+R106	per_title Arg1:T378 Arg2:T374	
+R107	per_employee_of Arg1:T379 Arg2:T374	
+R108	per_employee_of Arg1:T385 Arg2:T384	
+R109	per_title Arg1:T386 Arg2:T384	
+R110	per_title Arg1:T388 Arg2:T384	
+R111	per_employee_of Arg1:T389 Arg2:T384	
+R112	per_title Arg1:T405 Arg2:T404	
+R113	per_title Arg1:T401 Arg2:T400	
+R114	org_alternate_names Arg1:T412 Arg2:T82	
+R115	org_alternate_names Arg1:T13 Arg2:T14	
+R116	per_alternate_names Arg1:T60 Arg2:T53	
+R117	per_alternate_names Arg1:T312 Arg2:T309	
+R118	per_alternate_names Arg1:T314 Arg2:T309	
+R119	per_alternate_names Arg1:T332 Arg2:T321	
+R120	per_alternate_names Arg1:T332 Arg2:T319	
+R121	per_alternate_names Arg1:T400 Arg2:T384	
+R122	org_address Arg1:T85 Arg2:T408	
+R123	org_department Arg1:T102 Arg2:T103	
+R124	org_department Arg1:T98 Arg2:T93	
+R125	org_alternate_names Arg1:T283 Arg2:T280	
+R126	per_employee_of Arg1:T283 Arg2:T285	
+R127	org_alternate_names Arg1:T330 Arg2:T331	
+R128	org_general Arg1:T240 Arg2:T239	
+R129	org_general Arg1:T253 Arg2:T252	
+R130	org_general Arg1:T256 Arg2:T255	
+R131	org_general Arg1:T265 Arg2:T264	
+R132	org_general Arg1:T276 Arg2:T275	
+R133	org_parents Arg1:T327 Arg2:T326	
+#3	AnnotatorNotes R133	not sure
+T22	PHONE 19821 19833	585-475-2394
+T27	EMAIL 19834 19848	munson@rit.edu
+T28	PHONE 19878 19890	585-475-2396
+T29	EMAIL 19891 19906	kab7050@rit.edu
+R134	phone_email Arg1:T28 Arg2:T29	
+T30	PHONE 20043 20055	585-475-2411
+R135	per_phone Arg1:T22 Arg2:T400	
+R136	per_email Arg1:T27 Arg2:T400	
+R137	per_phone Arg1:T28 Arg2:T404	
+R138	per_email Arg1:T29 Arg2:T404	
+R139	org_phone Arg1:T30 Arg2:T408	

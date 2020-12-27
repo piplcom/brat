@@ -1,0 +1,104 @@
+T1	NAME 224 229	Laura
+T2	NAME 312 322	Laura Mart
+T3	TITLE 328 351	Head of Client Services
+T8	PLATFORM 518 524	Google
+T10	NAME 637 647	Chris Rand
+T12	NAME 751 757	Jackie
+T13	NAME 758 769	Jackie West
+T14	TITLE 771 800	Head of Client Communications
+T16	PLATFORM 865 871	Google
+T17	NAME 945 951	Jackie
+T18	NAME 954 958	Paul
+T19	NAME 959 969	Paul Bragg
+T20	TITLE 971 988	Managing Director
+T21	ORG 993 997	BMON
+T22	TITLE 1000 1010	strategist
+T23	NAME 1131 1135	Paul
+T24	NAME 1138 1145	Shaheen
+T25	NAME 1146 1159	Shaheen Ravat
+T26	NAME 1308 1321	Email Shaheen
+T27	NAME 1322 1328	Judith
+T28	NAME 1329 1341	Judith Lewis
+T30	NAME 1487 1493	Judith
+T31	NAME 1496 1501	Chris
+T32	NAME 1502 1512	Chris Rand
+T33	TITLE 1520 1538	Editorial Director
+T34	NAME 1658 1663	Chris
+T35	NAME 1666 1672	Elaine
+T36	NAME 1673 1685	Elaine Bragg
+T37	TITLE 1693 1713	Financial Controller
+T38	NAME 1769 1775	Elaine
+T39	NAME 1778 1782	Mike
+T40	NAME 1783 1794	Mike Willis
+T41	NAME 1880 1884	Mike
+T42	NAME 1904 1909	Chris
+T43	PLATFORM 2100 2107	YouTube
+T5	ORG 20 24	BMON
+T6	ORG 124 128	BMON
+T7	ORG 260 264	BMON
+T4	ADDRESS 420 464	3 Mill Lane, Weston, Hitchin, Herts. SG4 7AJ
+T9	TITLE 1184 1200	PPC professional
+T11	TITLE 1362 1372	SEO expert
+T15	ORG 2140 2144	BMON
+R1	per_alternate_names Arg1:T2 Arg2:T1	
+R2	per_employee_of Arg1:T7 Arg2:T2	
+R3	per_title Arg1:T3 Arg2:T2	
+R4	org_address Arg1:T4 Arg2:T7	
+R5	per_alternate_names Arg1:T13 Arg2:T12	
+R6	per_title Arg1:T14 Arg2:T13	
+R7	per_alternate_names Arg1:T19 Arg2:T18	
+R8	per_title Arg1:T20 Arg2:T19	
+R9	per_employee_of Arg1:T21 Arg2:T19	
+R10	per_title Arg1:T22 Arg2:T19	
+R11	per_alternate_names Arg1:T25 Arg2:T24	
+R12	per_title Arg1:T9 Arg2:T25	
+R13	per_alternate_names Arg1:T28 Arg2:T27	
+R14	per_title Arg1:T11 Arg2:T28	
+R15	per_alternate_names Arg1:T32 Arg2:T31	
+R16	per_title Arg1:T33 Arg2:T32	
+R17	per_alternate_names Arg1:T36 Arg2:T35	
+R18	per_title Arg1:T37 Arg2:T36	
+R19	per_alternate_names Arg1:T40 Arg2:T39	
+T9991	NAME-ner 224 229	Laura
+T9992	NAME-ner 312 322	Laura Mart
+T9993	TITLE-ner 328 332	Head
+T9994	ORG-ner 336 351	Client Services
+T9995	DATE-ner 356 361	01438
+T9996	EMAIL-ner 378 394	laura@bmon.co.uk
+T9997	ADDRESS-ner 420 464	3 Mill Lane, Weston, Hitchin, Herts. SG4 7AJ
+T9998	ORG-ner 518 564	Google for Industrial and Scientific Companies
+T9999	NAME-ner 637 647	Chris Rand
+T99910	EMAIL-ner 732 748	laura@bmon.co.uk
+T99911	NAME-ner 751 757	Jackie
+T99912	NAME-ner 758 769	Jackie West
+T99913	TITLE-ner 771 775	Head
+T99914	ORG-ner 779 800	Client Communications
+T99915	ORG-ner 865 871	Google
+T99916	NAME-ner 945 951	Jackie
+T99917	NAME-ner 954 958	Paul
+T99918	NAME-ner 959 969	Paul Bragg
+T99919	TITLE-ner 971 988	Managing Director
+T99920	ORG-ner 993 997	BMON
+T99921	TITLE-ner 1000 1010	strategist
+T99922	NAME-ner 1131 1135	Paul
+T99923	NAME-ner 1138 1145	Shaheen
+T99924	NAME-ner 1146 1159	Shaheen Ravat
+T99925	NAME-ner 1308 1321	Email Shaheen
+T99926	NAME-ner 1322 1328	Judith
+T99927	NAME-ner 1329 1341	Judith Lewis
+T99928	ORG-ner 1362 1365	SEO
+T99929	NAME-ner 1487 1493	Judith
+T99930	NAME-ner 1496 1501	Chris
+T99931	NAME-ner 1502 1512	Chris Rand
+T99932	TITLE-ner 1520 1538	Editorial Director
+T99933	NAME-ner 1658 1663	Chris
+T99934	NAME-ner 1666 1672	Elaine
+T99935	NAME-ner 1673 1685	Elaine Bragg
+T99936	TITLE-ner 1693 1713	Financial Controller
+T99937	NAME-ner 1769 1775	Elaine
+T99938	NAME-ner 1778 1782	Mike
+T99939	NAME-ner 1783 1794	Mike Willis
+T99940	NAME-ner 1880 1884	Mike
+T99941	NAME-ner 1904 1909	Chris
+T99942	PLATFORM-ner 2100 2107	YouTube
+T99943	GEOPOLITICAL-ner 2224 2226	UK

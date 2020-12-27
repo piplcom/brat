@@ -1,0 +1,95 @@
+T1	TITLE 0 15	DEPUTY GOVERNOR
+T5	TITLE 172 187	DEPUTY GOVERNOR
+T7	NAME 229 249	Kadri Obafemi Hamzat
+T10	NAME 299 326	Oba Mufutau Olatunji Hamzat
+T12	NAME 371 392	Alhaja Kehinde Hamzat
+T15	NAME 436 442	Hamzat
+T19	ORG 605 625	University of Ibadan
+T24	ORG 770 790	Cranfield University
+T30	NAME 1082 1088	Hamzat
+T31	ORG 1195 1218	RTP Consulting Services
+T33	ORG 1238 1257	Columbia University
+T34	ORG 1259 1276	Merrill Lynch Inc
+T35	ORG 1278 1292	Morgan Stanley
+T36	ORG 1297 1306	Oando Plc
+T37	TITLE 1312 1337	Chief Information Officer
+T38	TITLE 1339 1342	CIO
+T39	TITLE 1348 1358	Group Head
+T40	ORG 1375 1384	Oando Plc
+T43	NAME 1397 1417	Kadri Obafemi Hamzat
+T46	NAME 1597 1622	Asiwaju Bola Ahmed Tinubu
+T48	TITLE 1536 1575	Commissioner for Science and Technology
+T50	TITLE 1701 1709	Governor
+T51	NAME 1711 1728	Babatunde Fashola
+T54	NAME 2219 2225	Hamzat
+T56	TITLE 2252 2293	Commissioner for Works and Infrastructure
+T58	TITLE 2345 2357	Commissioner
+T63	NAME 2984 3006	Babatunde Raji Fashola
+T64	TITLE 3008 3045	Minister for Power, Works and Housing
+T66	TITLE 3067 3092	Special Adviser Technical
+T68	NAME 3169 3175	Hamzat
+T69	TITLE 3180 3187	Adviser
+T77	NAME 3751 3769	Babajide Sanwo-Olu
+T78	TITLE 3775 3784	candidate
+T79	ORG 3792 3817	All Progressives Congress
+T80	ORG 3819 3822	APC
+T82	NAME 3836 3856	Kadri Obafemi Hamzat
+T85	NAME 3982 3988	Hamzat
+T86	NAME 4033 4047	Oluremi Hamzat
+T88	PLATFORM 4087 4095	Facebook
+T89	PLATFORM 4117 4125	LinkedIn
+T90	PLATFORM 4126 4135	Pinterest
+T95	PLATFORM 4501 4509	Facebook
+T96	NAME 4541 4559	Babajide Sanwo-olu
+T6	ORG 55 77	Lagos State Government
+T3	NAME 204 224	KADRI OBAFEMI HAMZAT
+T4	ORG 452 485	Odu Abore Memorial Primary School
+T8	ORG 511 537	Olivet Baptist High School
+T9	ORG 963 985	Harvard Kennedy School
+T11	TITLE 3195 3255	Honourable Minister on roads and other infrastructure assets
+T13	PLATFORM 4096 4104	Google +
+T14	PLATFORM 4105 4116	Stumbleupon
+T16	NAME 4201 4207	HAMZAT
+T17	PLATFORM 4523 4530	twitter
+T18	ORG 4948 4970	LAGOS STATE GOVERNMENT
+T2	NAME 32 52	KADRI OBAFEMI HAMZAT
+T21	TITLE 1656 1695	Commissioner for Science and Technology
+R1	per_title Arg1:T1 Arg2:T2	
+R2	per_employee_of Arg1:T6 Arg2:T2	
+R3	per_title Arg1:T5 Arg2:T3	
+R4	per_parents Arg1:T7 Arg2:T10	
+R5	per_parents Arg1:T7 Arg2:T12	
+R6	per_children Arg1:T10 Arg2:T7	
+R7	per_children Arg1:T12 Arg2:T7	
+R8	per_schools_attended Arg1:T4 Arg2:T15	
+R9	per_schools_attended Arg1:T8 Arg2:T15	
+R10	per_schools_attended Arg1:T19 Arg2:T15	
+R11	per_schools_attended Arg1:T24 Arg2:T15	
+R12	per_schools_attended Arg1:T9 Arg2:T15	
+R13	per_employee_of Arg1:T31 Arg2:T30	
+R14	per_employee_of Arg1:T33 Arg2:T30	
+R15	per_employee_of Arg1:T34 Arg2:T30	
+R16	per_employee_of Arg1:T35 Arg2:T30	
+R17	per_employee_of Arg1:T36 Arg2:T30	
+R18	per_title Arg1:T37 Arg2:T30	
+R19	per_title Arg1:T38 Arg2:T30	
+R20	per_title Arg1:T39 Arg2:T30	
+R21	per_employee_of Arg1:T40 Arg2:T30	
+R22	per_alternate_names Arg1:T7 Arg2:T15	
+R23	per_title Arg1:T48 Arg2:T43	
+R24	per_title Arg1:T50 Arg2:T51	
+R25	per_title Arg1:T21 Arg2:T43	
+R26	per_title Arg1:T56 Arg2:T54	
+R27	per_title Arg1:T58 Arg2:T54	
+R28	per_title Arg1:T64 Arg2:T63	
+R29	per_title Arg1:T66 Arg2:T54	
+R30	per_title Arg1:T69 Arg2:T68	
+R31	per_title Arg1:T78 Arg2:T77	
+R32	per_employee_of Arg1:T79 Arg2:T77	
+R33	org_alternate_names Arg1:T80 Arg2:T79	
+R34	per_employee_of Arg1:T80 Arg2:T77	
+R35	per_spouse Arg1:T85 Arg2:T86	
+T20	ORG 5094 5098	LASG
+R36	org_alternate_names Arg1:T20 Arg2:T18	
+T22	DEPARTMENT 5099 5116	Governor's Office
+R37	org_department Arg1:T22 Arg2:T20	

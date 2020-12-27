@@ -1,0 +1,125 @@
+T1	ORG 87 96	Citigroup
+T2	NAME 103 114	Jane Fraser
+T3	TITLE 135 138	CEO
+T5	ORG 404 417	Citigroup Inc
+T6	NAME 450 461	Jane Fraser
+T7	TITLE 473 496	chief executive officer
+T8	TITLE 545 560	chief executive
+T10	NAME 631 637	Fraser
+T12	NAME 783 789	Fraser
+T15	NAME 902 908	Fraser
+T16	TITLE 923 932	president
+T19	TITLE 1055 1058	CEO
+T20	NAME 1060 1066	Fraser
+T22	NAME 1475 1481	Fraser
+T24	ORG 1641 1645	Citi
+T25	TITLE 1656 1659	CEO
+T26	NAME 1661 1675	Michael Corbat
+T28	NAME 1712 1718	Fraser
+T31	NAME 1995 2006	Jane Fraser
+T32	ORG 2100 2123	University of Cambridge
+T33	ORG 2151 2174	Harvard Business School
+T35	ORG 2203 2211	Citibank
+T36	NAME 2213 2219	Fraser
+T37	ORG 2331 2344	Goldman Sachs
+T39	ORG 2394 2412	McKinsey & Company
+T40	NAME 2414 2420	Fraser
+T41	ORG 2428 2437	Citigroup
+T44	ORG 2504 2513	Citigroup
+T46	NAME 2675 2681	Fraser
+T48	TITLE 2776 2779	CEO
+T49	ORG 2783 2792	Citigroup
+T51	NAME 2835 2841	Fraser
+T52	ORG 2873 2884	Citibanamex
+T54	NAME 3027 3033	Fraser
+T55	TITLE 3065 3068	CEO
+T56	ORG 3078 3089	Wells Fargo
+T58	NAME 3137 3151	Charles Scharf
+T60	TITLE 3180 3188	investor
+T61	NAME 3199 3205	Fraser
+T63	NAME 3371 3377	Fraser
+T66	NAME 3599 3605	Fraser
+T68	TITLE 3805 3828	chief executive officer
+T70	TITLE 3879 3888	president
+T72	NAME 4028 4039	Beth Mooney
+T73	TITLE 4045 4061	former executive
+T74	ORG 4065 4072	KeyCorp
+T75	NAME 4093 4099	Fraser
+T76	NAME 4242 4248	Fraser
+T77	NAME 4318 4324	Fraser
+T81	ORG 4635 4654	Synchrony Financial
+T82	ORG 4656 4678	Franklin Resources Inc
+T83	ORG 4680 4690	Nasdaq Inc
+T84	ORG 4695 4708	CIT Group Inc
+T86	ORG 4788 4801	NatWest Group
+T87	ORG 4810 4831	European Central Bank
+T88	NAME 4949 4955	Fraser
+T90	ORG 5022 5036	JPMorgan Chase
+T93	ORG 5217 5235	The New York Times
+T95	NAME 5382 5388	Fraser
+T97	NAME 5526 5537	Jane Fraser
+T99	ORG 5800 5809	Citigroup
+T100	NAME 5810 5821	Jane Fraser
+T101	TITLE 5822 5825	CEO
+T102	NAME 5979 5996	Anne-Marie Kovacs
+T104	NAME 6091 6102	Peter Fader
+T105	NAME 6178 6201	Theodore Wellington III
+T107	NAME 6249 6260	Jeremy Enns
+T108	ORG 6276 6284	Snapchat
+T109	NAME 6326 6339	Glen Whillier
+T110	ORG 6400 6418	Authority Magazine
+T111	NAME 6419 6423	Juul
+T112	NAME 6450 6461	Kevin Roose
+T113	ORG 6465 6483	The New York Times
+T114	NAME 6531 6544	David J. Katz
+T4	ORG 139 160	The Millennial Source
+T9	ORG 196 217	The Millennial Source
+T11	ORG 520 524	Citi
+T13	ORG 820 824	Citi
+T14	ORG 936 940	Citi
+T17	NAME 513 519	Fraser
+T18	ORG 3175 3179	Citi
+T21	ORG 3832 3836	Citi
+T23	ORG 5726 5747	The Millennial Source
+T27	ORG 5923 5929	Medium
+T29	ORG 6000 6011	The Startup
+T30	ORG 6120 6131	The Startup
+T34	ORG 6264 6275	The Startup
+T38	NAME 6378 6396	Alexandria Cannito
+T42	ORG 6548 6559	GoBeyond.AI
+T43	ORG 6606 6612	Medium
+R1	per_employee_of Arg1:T1 Arg2:T2	
+R2	per_title Arg1:T3 Arg2:T2	
+R3	per_employee_of Arg1:T5 Arg2:T6	
+R4	per_title Arg1:T7 Arg2:T6	
+R5	per_employee_of Arg1:T11 Arg2:T17	
+R6	per_title Arg1:T8 Arg2:T17	
+R7	per_employee_of Arg1:T13 Arg2:T12	
+R8	per_title Arg1:T16 Arg2:T15	
+R9	per_employee_of Arg1:T14 Arg2:T15	
+R10	per_title Arg1:T19 Arg2:T15	
+R11	per_title Arg1:T25 Arg2:T26	
+R12	per_employee_of Arg1:T24 Arg2:T26	
+R13	per_schools_attended Arg1:T32 Arg2:T31	
+R14	per_schools_attended Arg1:T33 Arg2:T31	
+R15	per_alternate_names Arg1:T17 Arg2:T6	
+R16	per_employee_of Arg1:T35 Arg2:T36	
+R17	per_employee_of Arg1:T37 Arg2:T36	
+R18	per_employee_of Arg1:T39 Arg2:T40	
+R19	per_employee_of Arg1:T41 Arg2:T40	
+R20	per_title Arg1:T48 Arg2:T46	
+R21	per_employee_of Arg1:T49 Arg2:T46	
+R22	per_employee_of Arg1:T52 Arg2:T51	
+R23	per_title Arg1:T55 Arg2:T58	
+R24	per_employee_of Arg1:T56 Arg2:T58	
+R25	per_title Arg1:T68 Arg2:T66	
+R26	per_employee_of Arg1:T21 Arg2:T66	
+R27	per_title Arg1:T70 Arg2:T66	
+R28	per_title Arg1:T73 Arg2:T72	
+R29	per_employee_of Arg1:T74 Arg2:T72	
+R30	per_title Arg1:T101 Arg2:T100	
+R31	org_general Arg1:T29 Arg2:T102	
+R32	org_general Arg1:T34 Arg2:T107	
+R33	org_general Arg1:T110 Arg2:T38	
+R34	org_general Arg1:T113 Arg2:T112	
+R35	org_general Arg1:T42 Arg2:T114	

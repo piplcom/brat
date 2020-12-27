@@ -1,0 +1,54 @@
+T1	ORG 105 120	Sparcraft Masts
+T5	ORG 239 254	Sparcraft Masts
+T8	ORG 331 346	Sparcraft Masts
+T9	ORG 631 646	Sparcraft Masts
+T10	ORG 929 944	Sparcraft Masts
+T11	ORG 1014 1029	Sparcraft Masts
+T13	ORG 1295 1310	Sparcraft Masts
+T16	NAME 1635 1648	Tich Mitchell
+T17	NAME 1649 1662	Tich Mitchell
+T19	ORG 1754 1767	Bellamy Masts
+T21	NAME 1827 1840	Steven Fisher
+T22	NAME 1841 1854	Steven Fisher
+T23	ORG 1856 1871	Sparcraft Masts
+T24	TITLE 1873 1891	Production Manager
+T26	ORG 1976 1989	Bellamy Masts
+T27	NAME 2030 2043	Ian MacRobert
+T29	ORG 2143 2152	Sparcraft
+T38	NAME 2540 2546	Yvette
+T39	TITLE 2558 2564	member
+T40	ORG 2568 2581	Bellamy Masts
+T42	ORG 2629 2638	Sparcraft
+T43	NAME 2665 2679	Gilbert Cloete
+T44	NAME 2680 2687	Gilbert
+T46	ORG 2818 2827	Sparcraft
+T2	ORG 670 677	Profurl
+T3	ORG 682 688	Facnor
+T4	ORG 1451 1466	Sparcraft masts
+T6	NAME 2256 2269	Kevin Foreman
+T7	NAME 2270 2283	Kevin Foreman
+T12	NAME 2480 2493	Yvette Miller
+T14	NAME 2494 2507	Yvette Miller
+T15	PLATFORM 2849 2857	facebook
+T18	PLATFORM 2858 2867	instagram
+T20	PLATFORM 2868 2875	youtube
+T25	ORG 3052 3067	Sparcraft Masts
+T28	ORG 3175 3190	Sparcraft Masts
+T30	ADDRESS 3068 3079;3080 3096;3097 3101;3102 3111	22 Bolt Ave Montague Gardens 7435 Cape Town
+R1	per_employee_of Arg1:T19 Arg2:T17	
+R2	per_employee_of Arg1:T23 Arg2:T22	
+R3	per_title Arg1:T24 Arg2:T22	
+R4	per_employee_of Arg1:T26 Arg2:T22	
+R5	per_employee_of Arg1:T29 Arg2:T27	
+R6	per_alternate_names Arg1:T38 Arg2:T14	
+R7	per_title Arg1:T39 Arg2:T38	
+R8	per_employee_of Arg1:T40 Arg2:T38	
+R9	per_employee_of Arg1:T42 Arg2:T38	
+R10	per_alternate_names Arg1:T44 Arg2:T43	
+R11	per_employee_of Arg1:T46 Arg2:T44	
+R12	org_address Arg1:T30 Arg2:T25	
+T31	EMAIL 3123 3148	info@sparcraftmasts.co.za
+T32	PHONE 3150 3164	27 21 555 3470
+R13	org_email Arg1:T31 Arg2:T25	
+R14	phone_email Arg1:T31 Arg2:T32	
+R15	org_phone Arg1:T32 Arg2:T25	

@@ -1,0 +1,177 @@
+T8	ORG 732 736	IWEA
+T9	ORG 807 821	Northwest Bank
+T13	NAME 1260 1269	Mel Kurtz
+T14	TITLE 1271 1280	President
+T15	NAME 1281 1290	Mel Kurtz
+T16	TITLE 1292 1301	President
+T22	NAME 1699 1710	Steve Smith
+T23	TITLE 1712 1735	Chief Financial Officer
+T24	NAME 1736 1747	Steve Smith
+T25	TITLE 1749 1752	CFO
+T26	NAME 1753 1758	Smith
+T28	TITLE 1849 1863	Vice President
+T29	TITLE 1867 1890	Chief Financial Officer
+T30	NAME 1893 1898	Smith
+T31	TITLE 1912 1937	Vice-President of Finance
+T32	ORG 1942 1966	Next Media Operating, Co
+T33	NAME 2055 2060	Smith
+T34	NAME 2309 2321	Alan Johnson
+T35	TITLE 2323 2371	Vice President, Project Management & Development
+T37	NAME 2372 2384	Alan Johnson
+T38	TITLE 2386 2423	VP Project Management and Development
+T39	NAME 2424 2431	Johnson
+T42	NAME 2655 2662	Johnson
+T43	TITLE 2897 2916	registered engineer
+T44	ORG 2952 2969	Lake Erie College
+T45	ORG 3020 3047	Fenn College of Engineering
+T46	ORG 3051 3077	Cleveland State University
+T47	NAME 3079 3090	Mark Suchan
+T48	TITLE 3092 3121	Director Materials Management
+T49	NAME 3122 3133	Mark Suchan
+T50	TITLE 3135 3164	Director Materials Management
+T51	NAME 3165 3169	Mark
+T53	NAME 3215 3219	Mark
+T54	NAME 3335 3339	Mark
+T55	TITLE 3354 3377	manager for departments
+T58	NAME 3513 3517	Mark
+T59	ORG 3535 3559	Ohio Northern University
+T60	TITLE 3598 3604	member
+T61	ORG 3608 3632	OWEA Young Professionals
+T62	NAME 3634 3643	Xumeng Ge
+T63	TITLE 3652 3671	Laboratory Director
+T64	NAME 3672 3681	Xumeng Ge
+T65	TITLE 3689 3708	Laboratory Director
+T67	NAME 3713 3715	Ge
+T68	TITLE 3733 3752	Laboratory Director
+T72	ADDRESS 4259 4289;4290 4314	8600 East Pleasant Valley Road Independence, Ohio 44131
+T3	ORG 33 39	quasar
+T1	ORG 681 715	Ernest N. Morial Convention Center
+T2	ORG 772 790	Grand Wayne Center
+T4	NAME 1302 1307	Kurtz
+T5	NAME 1643 1648	Kurtz
+T6	ORG 1663 1669	quasar
+T7	ORG 2439 2445	quasar
+T10	ORG 3327 3333	quasar
+T11	ORG 3472 3478	quasar
+T12	ORG 3723 3729	quasar
+T17	ORG 3805 3811	quasar
+T18	NAME 4126 4128	Ge
+T19	ORG 3184 3190	quasar
+T20	ORG 964 970	quasar
+T21	ORG 1211 1217	quasar
+T27	ORG 4239 4258	quasar energy group
+R1	per_title Arg1:T14 Arg2:T13	
+R2	per_title Arg1:T16 Arg2:T15	
+R3	per_alternate_names Arg1:T4 Arg2:T15	
+R4	per_employee_of Arg1:T6 Arg2:T5	
+R5	per_title Arg1:T23 Arg2:T22	
+R6	per_title Arg1:T25 Arg2:T24	
+R7	per_title Arg1:T28 Arg2:T26	
+R8	per_alternate_names Arg1:T26 Arg2:T24	
+R9	per_title Arg1:T29 Arg2:T24	
+R10	per_title Arg1:T31 Arg2:T30	
+R11	per_employee_of Arg1:T32 Arg2:T30	
+R12	per_title Arg1:T35 Arg2:T34	
+R13	per_title Arg1:T38 Arg2:T37	
+R14	per_employee_of Arg1:T7 Arg2:T39	
+R15	per_alternate_names Arg1:T37 Arg2:T39	
+R16	per_title Arg1:T43 Arg2:T42	
+R17	per_schools_attended Arg1:T44 Arg2:T42	
+R18	org_subsidiaries Arg1:T45 Arg2:T46	
+R19	per_schools_attended Arg1:T45 Arg2:T39	
+R20	per_title Arg1:T48 Arg2:T47	
+R21	per_title Arg1:T50 Arg2:T49	
+R22	per_alternate_names Arg1:T51 Arg2:T49	
+R23	per_employee_of Arg1:T19 Arg2:T51	
+R24	per_employee_of Arg1:T10 Arg2:T54	
+R25	per_title Arg1:T55 Arg2:T54	
+R26	per_schools_attended Arg1:T59 Arg2:T58	
+R27	per_title Arg1:T60 Arg2:T58	
+R28	org_members Arg1:T61 Arg2:T58	
+R29	per_title Arg1:T63 Arg2:T62	
+R30	per_title Arg1:T65 Arg2:T64	
+R31	per_employee_of Arg1:T12 Arg2:T67	
+R32	per_title Arg1:T68 Arg2:T67	
+R33	org_address Arg1:T72 Arg2:T27	
+R34	per_alternate_names Arg1:T67 Arg2:T64	
+T9991	TITLE-ner 209 218	Developer
+T9992	TITLE-ner 335 349	Representative
+T9993	DATE-ner 447 455	April 13
+T9994	DATE-ner 531 541	April 01 -
+T9995	DATE-ner 638 650	August 10-13
+T9996	GEOPOLITICAL-ner 663 674	New Orleans
+T9997	DATE-ner 716 730	August 26 - 28
+T9998	ORG-ner 732 736	IWEA
+T9999	ORG-ner 807 821	Northwest Bank
+T99910	TITLE-ner 839 846	Partner
+T99911	ORG-ner 864 881	Biogas Experience
+T99912	DATE-ner 993 1014	more than sixty years
+T99913	NAME-ner 1260 1269	Mel Kurtz
+T99914	TITLE-ner 1271 1280	President
+T99915	NAME-ner 1281 1290	Mel Kurtz
+T99916	TITLE-ner 1292 1301	President
+T99917	NAME-ner 1302 1307	Kurtz
+T99918	DATE-ner 1384 1390	annual
+T99919	GEOPOLITICAL-ner 1612 1614	US
+T99920	NAME-ner 1643 1648	Kurtz
+T99921	DATE-ner 1693 1697	2006
+T99922	NAME-ner 1699 1710	Steve Smith
+T99923	TITLE-ner 1712 1735	Chief Financial Officer
+T99924	NAME-ner 1736 1747	Steve Smith
+T99925	TITLE-ner 1749 1752	CFO
+T99926	NAME-ner 1753 1758	Smith
+T99927	DATE-ner 1763 1781	more than 30 years
+T99928	TITLE-ner 1849 1863	Vice President
+T99929	TITLE-ner 1867 1890	Chief Financial Officer
+T99930	NAME-ner 1893 1898	Smith
+T99931	TITLE-ner 1912 1926	Vice-President
+T99932	ORG-ner 1942 1966	Next Media Operating, Co
+T99933	NAME-ner 2055 2060	Smith
+T99934	NAME-ner 2309 2321	Alan Johnson
+T99935	TITLE-ner 2323 2337	Vice President
+T99936	ORG-ner 2339 2371	Project Management & Development
+T99937	NAME-ner 2372 2384	Alan Johnson
+T99938	TITLE-ner 2386 2388	VP
+T99939	ORG-ner 2389 2423	Project Management and Development
+T99940	NAME-ner 2424 2431	Johnson
+T99941	DATE-ner 2449 2453	2009
+T99942	DATE-ner 2581 2599	more than 40 years
+T99943	NAME-ner 2655 2662	Johnson
+T99944	TITLE-ner 2908 2916	engineer
+T99945	ORG-ner 2952 2969	Lake Erie College
+T99946	ORG-ner 3020 3047	Fenn College of Engineering
+T99947	ORG-ner 3051 3077	Cleveland State University
+T99948	NAME-ner 3079 3090	Mark Suchan
+T99949	TITLE-ner 3092 3100	Director
+T99950	NAME-ner 3122 3133	Mark Suchan
+T99951	TITLE-ner 3135 3143	Director
+T99952	NAME-ner 3165 3169	Mark
+T99953	DATE-ner 3195 3213	more than 12 years
+T99954	NAME-ner 3215 3219	Mark
+T99955	NAME-ner 3335 3339	Mark
+T99956	TITLE-ner 3354 3361	manager
+T99957	ORG-ner 3419 3428	Logistics
+T99958	NAME-ner 3513 3517	Mark
+T99959	ORG-ner 3535 3559	Ohio Northern University
+T99960	TITLE-ner 3598 3604	member
+T99961	ORG-ner 3608 3632	OWEA Young Professionals
+T99962	NAME-ner 3634 3643	Xumeng Ge
+T99963	TITLE-ner 3663 3671	Director
+T99964	NAME-ner 3672 3681	Xumeng Ge
+T99965	TITLE-ner 3700 3708	Director
+T99966	HONORIFIC-ner 3709 3712	Dr.
+T99967	NAME-ner 3713 3715	Ge
+T99968	TITLE-ner 3744 3752	Director
+T99969	DATE-ner 3756 3768	October 2016
+T99970	DATE-ner 3785 3790	daily
+T99971	HONORIFIC-ner 4122 4125	Dr.
+T99972	ADDRESS-ner 4259 4289;4290 4314	8600 East Pleasant Valley Road Independence, Ohio 44131
+T99973	PHONE-ner 4315 4329	(216) 986-9999
+T99974	EMAIL-ner 4330 4347	info@quasareg.com
+T99975	ORG-ner 4379 4395	Waste Management
+T99976	PHONE-ner 4404 4424	(216) 986-9999 x 112
+T99977	EMAIL-ner 4425 4445	biomass@quasareg.com
+T99978	TITLE-ner 4457 4474	Account Executive
+T99979	PHONE-ner 4495 4517	(216) 986 - 9999 x 117
+T99980	EMAIL-ner 4518 4542	development@quasareg.com
+T99981	TITLE-ner 4561 4570	Developer
